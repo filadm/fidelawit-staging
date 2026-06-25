@@ -114,4 +114,17 @@
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
   <script src="flutter_bootstrap.js" async=""></script>
+
+  <!-- Stale-while-revalidate service worker. We build with --pwa-strategy=none,
+       so Flutter does not register its own; we register ours here. Gives instant
+       repeat opens + offline, updating in the background (see web/sw.js). -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('sw.js').catch(function (e) {
+          console.warn('SW registration failed:', e);
+        });
+      });
+    }
+  </script>
 </body></html>
