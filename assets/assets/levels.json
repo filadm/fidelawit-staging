@@ -6,12 +6,12 @@
       "chapter": "First Steps",
       "section": "Hello",
       "letters": [
+        "ቢ",
+        "ኪ",
+        "ካ",
         "ሰ",
-        "ም",
         "ላ",
-        "ጓ",
-        "ሽ",
-        "ኞ"
+        "ም"
       ],
       "requiredWords": [
         "ሰላም"
@@ -38,13 +38,13 @@
       "section": "Family",
       "letters": [
         "ም",
+        "እ",
         "ላ",
         "ባ",
-        "ሰ",
-        "ና",
-        "ት",
         "አ",
-        "እ"
+        "ና",
+        "ሰ",
+        "ት"
       ],
       "requiredWords": [
         "እናት",
@@ -82,13 +82,13 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
+        "ወ",
         "እ",
+        "ን",
+        "ም",
         "ድ",
         "ሰ",
-        "ን",
-        "ወ",
-        "ም",
-        "ባ"
+        "ት"
       ],
       "requiredWords": [
         "ወንድም"
@@ -113,14 +113,14 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "ድ",
-        "ት",
-        "እ",
-        "ጅ",
-        "ህ",
-        "ል",
         "ሰ",
-        "ን"
+        "ን",
+        "ና",
+        "ት",
+        "ህ",
+        "ጅ",
+        "ል",
+        "እ"
       ],
       "requiredWords": [
         "እህት",
@@ -157,14 +157,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ና",
-        "ጅ",
-        "ት",
+        "አ",
         "ድ",
-        "ለ",
-        "ሁ",
         "ን",
-        "አ"
+        "ሁ",
+        "ለ",
+        "ት",
+        "ላ",
+        "ህ"
       ],
       "requiredWords": [
         "አንድ",
@@ -202,13 +202,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ራ",
-        "ት",
-        "ባ",
         "አ",
-        "ና",
-        "ን",
+        "ም",
+        "ት",
         "ስ",
+        "ራ",
+        "ላ",
+        "ድ",
         "ሦ"
       ],
       "requiredWords": [
@@ -246,13 +246,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "አ",
-        "ን",
-        "ት",
-        "ላ",
+        "ጅ",
         "ስ",
-        "ባ",
-        "ም"
+        "ም",
+        "ላ",
+        "ድ",
+        "ት",
+        "አ"
       ],
       "requiredWords": [
         "አምስት"
@@ -277,13 +277,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ድ",
-        "ወ",
-        "ህ",
+        "ት",
         "ስ",
+        "ም",
+        "ሁ",
+        "ድ",
         "ስ",
         "ባ",
-        "ት",
         "ሰ"
       ],
       "requiredWords": [
@@ -321,14 +321,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
+        "ዘ",
+        "ት",
+        "ም",
+        "ን",
         "ኝ",
         "ስ",
-        "ን",
-        "ወ",
-        "ጠ",
-        "ም",
-        "ዘ",
-        "ት"
+        "ህ",
+        "ጠ"
       ],
       "requiredWords": [
         "ስምንት",
@@ -366,11 +366,11 @@
       "section": "Numbers",
       "letters": [
         "ር",
-        "ላ",
         "ና",
-        "ሦ",
         "ስ",
-        "አ"
+        "ህ",
+        "አ",
+        "ዘ"
       ],
       "requiredWords": [
         "አስር"
@@ -395,14 +395,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ር",
-        "ድ",
-        "ት",
         "ም",
+        "ሁ",
         "ላ",
-        "ወ",
+        "ና",
         "መ",
-        "ሰ"
+        "ባ",
+        "ት",
+        "ድ"
       ],
       "requiredWords": [
         "ላም",
@@ -440,14 +440,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ው",
-        "ረ",
-        "ት",
-        "ፈ",
-        "ን",
+        "ለ",
         "ሻ",
-        "እ",
-        "ስ"
+        "ስ",
+        "ረ",
+        "ን",
+        "ሦ",
+        "ው",
+        "ፈ"
       ],
       "requiredWords": [
         "ውሻ",
@@ -484,11 +484,11 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ሮ",
-        "ዘ",
+        "ጠ",
         "ዶ",
-        "ላ",
-        "ወ"
+        "ት",
+        "ሦ",
+        "ሮ"
       ],
       "requiredWords": [
         "ዶሮ"
@@ -513,12 +513,12 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ዳ",
-        "ጠ",
         "ሃ",
-        "ፈ",
-        "ን",
+        "አ",
+        "ጅ",
         "ው",
+        "ዳ",
+        "ና",
         "ቦ"
       ],
       "requiredWords": [
@@ -557,14 +557,14 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ዶ",
-        "ና",
+        "ተ",
         "ት",
-        "አ",
-        "ቡ",
-        "ን",
+        "ና",
+        "ው",
         "ወ",
-        "ተ"
+        "ለ",
+        "ቡ",
+        "ስ"
       ],
       "requiredWords": [
         "ቡና",
@@ -601,11 +601,11 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ና",
-        "ድ",
+        "ቡ",
+        "ዶ",
         "ራ",
         "ን",
-        "ቡ",
+        "ድ",
         "ጀ",
         "እ"
       ],
@@ -634,10 +634,10 @@
       "letters": [
         "ይ",
         "ጭ",
-        "ሰ",
-        "ረ",
+        "ድ",
+        "ዳ",
         "ቀ",
-        "ሮ",
+        "ህ",
         "ነ"
       ],
       "requiredWords": [
@@ -676,10 +676,10 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ነ",
-        "ው",
+        "ጠ",
+        "ም",
         "እ",
-        "ቦ",
+        "ላ",
         "ራ",
         "ስ",
         "ጅ"
@@ -719,10 +719,10 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ጀ",
+        "ነ",
         "ግ",
         "ን",
-        "ል",
+        "ት",
         "እ",
         "ይ",
         "ዓ",
@@ -764,10 +764,10 @@
       "section": "Colors & body",
       "letters": [
         "ጆ",
-        "ወ",
-        "ቦ",
+        "ይ",
+        "ሻ",
         "ሮ",
-        "ረ"
+        "ሁ"
       ],
       "requiredWords": [
         "ጆሮ"
@@ -793,9 +793,9 @@
       "section": "Home",
       "letters": [
         "ት",
-        "ራ",
-        "ሰ",
-        "ረ",
+        "ም",
+        "ድ",
+        "ቀ",
         "በ",
         "ር",
         "ቤ"
@@ -842,7 +842,7 @@
         "ወ",
         "ል",
         "ጋ",
-        "ስ",
+        "መ",
         "ር"
       ],
       "requiredWords": [
@@ -881,11 +881,11 @@
       "section": "Home",
       "letters": [
         "ጠ",
-        "ድ",
-        "ቀ",
+        "ው",
+        "ላ",
         "ረ",
         "ጴ",
-        "ር",
+        "ዘ",
         "ዛ"
       ],
       "requiredWords": [
@@ -910,14 +910,14 @@
       "chapter": "Everyday Words",
       "section": "Yes, no & please",
       "letters": [
-        "ዶ",
+        "ዓ",
         "የ",
         "አ",
-        "ተ",
+        "ወ",
         "ም",
         "ዎ",
         "ለ",
-        "ቀ"
+        "ጅ"
       ],
       "requiredWords": [
         "አዎ",
@@ -956,11 +956,11 @@
         "ባ",
         "ክ",
         "እ",
-        "ጀ",
+        "ል",
         "ህ",
         "ሺ",
-        "ቀ",
-        "ግ"
+        "ቤ",
+        "ዎ"
       ],
       "requiredWords": [
         "እባክህ",
@@ -996,11 +996,11 @@
       "section": "Asking",
       "letters": [
         "ም",
-        "ረ",
+        "ቀ",
         "ን",
         "ማ",
-        "ሃ",
-        "ቤ"
+        "ባ",
+        "ለ"
       ],
       "requiredWords": [
         "ማን",
@@ -1036,11 +1036,11 @@
       "chapter": "Everyday Words",
       "section": "Asking",
       "letters": [
-        "ሮ",
+        "ጋ",
         "የ",
-        "ል",
+        "ማ",
         "መ",
-        "ረ",
+        "ዳ",
         "ቼ",
         "ት"
       ],
@@ -1078,11 +1078,11 @@
       "section": "Asking",
       "letters": [
         "ም",
-        "ሺ",
+        "ር",
         "ዴ",
         "ን",
         "ት",
-        "የ",
+        "ቦ",
         "እ",
         "ለ"
       ],
@@ -1120,9 +1120,9 @@
       "section": "Where things are",
       "letters": [
         "ታ",
-        "ዓ",
-        "ቡ",
-        "ባ",
+        "ቤ",
+        "ጅ",
+        "ነ",
         "ላ",
         "ች",
         "ይ"
@@ -1164,10 +1164,10 @@
       "section": "Where things are",
       "letters": [
         "ጭ",
-        "ዛ",
+        "የ",
         "ጥ",
-        "ግ",
-        "ሰ",
+        "ኝ",
+        "ዎ",
         "ው",
         "ስ"
       ],
@@ -1205,11 +1205,11 @@
       "section": "Where things are",
       "letters": [
         "ቀ",
-        "እ",
+        "ጅ",
         "ኝ",
-        "ረ",
+        "ች",
         "ግ",
-        "ጆ",
+        "ጀ",
         "ራ"
       ],
       "requiredWords": [
@@ -1248,13 +1248,13 @@
       "section": "Sky & nature",
       "letters": [
         "ጨ",
-        "ር",
+        "ታ",
         "ይ",
         "ሐ",
         "ረ",
         "ቃ",
         "ፀ",
-        "ወ"
+        "ጭ"
       ],
       "requiredWords": [
         "ፀሐይ",
@@ -1292,13 +1292,13 @@
       "chapter": "Everyday Words",
       "section": "Sky & nature",
       "letters": [
-        "ዓ",
+        "ጅ",
         "ብ",
         "ይ",
         "ኮ",
         "ማ",
         "ሰ",
-        "ነ",
+        "የ",
         "ከ"
       ],
       "requiredWords": [
@@ -1340,10 +1340,10 @@
         "ዝ",
         "ፍ",
         "ዛ",
-        "ሐ",
-        "ክ",
+        "የ",
+        "ቼ",
         "ብ",
-        "ረ"
+        "ዓ"
       ],
       "requiredWords": [
         "ዛፍ",
@@ -1380,11 +1380,11 @@
       "chapter": "Everyday Words",
       "section": "Time",
       "letters": [
-        "ህ",
-        "ማ",
+        "ሁ",
+        "ረ",
         "ነ",
         "ሬ",
-        "ጨ",
+        "ግ",
         "ዛ",
         "ገ"
       ],
@@ -1424,10 +1424,10 @@
       "letters": [
         "ን",
         "ቀ",
-        "የ",
-        "ት",
         "ጀ",
-        "ኝ",
+        "ት",
+        "ሦ",
+        "ዓ",
         "ና",
         "ት"
       ],
@@ -1466,10 +1466,10 @@
       "letters": [
         "ሊ",
         "ት",
-        "ስ",
-        "ሌ",
         "ቦ",
-        "ና"
+        "ሌ",
+        "ማ",
+        "ሺ"
       ],
       "requiredWords": [
         "ሌሊት"
@@ -1494,13 +1494,13 @@
       "section": "In town",
       "letters": [
         "ገ",
-        "ጭ",
+        "ክ",
         "ን",
         "ያ",
         "መ",
         "በ",
         "ድ",
-        "ጨ"
+        "ዴ"
       ],
       "requiredWords": [
         "ገበያ",
@@ -1541,10 +1541,10 @@
         "ከ",
         "ቅ",
         "ሱ",
-        "ጠ",
+        "እ",
         "ብ",
         "ተ",
-        "ቤ",
+        "ዝ",
         "ማ"
       ],
       "requiredWords": [
@@ -1583,11 +1583,11 @@
       "section": "In town",
       "letters": [
         "ገ",
-        "ም",
+        "ክ",
         "ር",
-        "ቦ",
+        "ት",
         "አ",
-        "ፍ"
+        "ል"
       ],
       "requiredWords": [
         "አገር"
@@ -1611,13 +1611,13 @@
       "chapter": "Out & About",
       "section": "Getting around",
       "letters": [
-        "ግ",
+        "ቅ",
         "መ",
         "ኪ",
         "ቡ",
         "ባ",
         "ር",
-        "አ",
+        "ቦ",
         "ና"
       ],
       "requiredWords": [
@@ -1746,8 +1746,8 @@
       "letters": [
         "ጣ",
         "ድ",
-        "ቃ",
-        "ያ",
+        "ከ",
+        "ዎ",
         "ም",
         "ት",
         "መ",
@@ -1791,8 +1791,8 @@
         "መ",
         "መ",
         "ጥ",
-        "ዶ",
-        "ሲ",
+        "የ",
+        "ዘ",
         "ራ",
         "ሮ"
       ],
@@ -1831,10 +1831,10 @@
       "letters": [
         "ብ",
         "መ",
-        "ሦ",
+        "በ",
         "ት",
         "ላ",
-        "ም",
+        "ች",
         "ጠ",
         "ጣ"
       ],
@@ -1874,12 +1874,12 @@
       "letters": [
         "ስ",
         "መ",
-        "ው",
+        "ፀ",
         "ት",
         "የ",
-        "ያ",
+        "ጥ",
         "ማ",
-        "ጴ"
+        "ዘ"
       ],
       "requiredWords": [
         "ማየት",
@@ -1915,12 +1915,12 @@
       "section": "Everyday actions",
       "letters": [
         "ገ",
-        "ጠ",
         "ዎ",
+        "ቅ",
         "ር",
         "ና",
         "መ",
-        "ሻ"
+        "ሦ"
       ],
       "requiredWords": [
         "መናገር"
@@ -1947,11 +1947,11 @@
         "ማ",
         "ጫ",
         "ቀ",
-        "ያ",
+        "ኝ",
         "ስ",
-        "የ",
+        "ባ",
         "ሚ",
-        "ሦ"
+        "በ"
       ],
       "requiredWords": [
         "ቀሚስ",
@@ -1989,14 +1989,14 @@
       "chapter": "Out & About",
       "section": "What I wear",
       "letters": [
-        "ጋ",
+        "ጭ",
         "ያ",
         "ኮ",
         "ሱ",
         "ሪ",
         "ፍ",
-        "ሰ",
-        "ፈ"
+        "ዝ",
+        "ቼ"
       ],
       "requiredWords": [
         "ሱሪ",
@@ -2033,13 +2033,13 @@
       "chapter": "Out & About",
       "section": "More food",
       "letters": [
-        "ቼ",
+        "ክ",
         "ሙ",
         "ዝ",
-        "በ",
+        "ሲ",
         "ች",
         "ን",
-        "ታ",
+        "ዛ",
         "ድ"
       ],
       "requiredWords": [
@@ -2078,13 +2078,13 @@
       "chapter": "Out & About",
       "section": "More food",
       "letters": [
-        "ራ",
+        "ሌ",
         "ሩ",
-        "ቶ",
+        "በ",
         "ቅ",
         "ቤ",
         "ዝ",
-        "ም"
+        "ጠ"
       ],
       "requiredWords": [
         "ሩዝ",
@@ -2125,9 +2125,9 @@
         "ን",
         "ት",
         "ሴ",
-        "ረ",
-        "ኝ",
-        "ጥ",
+        "ጴ",
+        "ታ",
+        "ዝ",
         "ወ"
       ],
       "requiredWords": [
@@ -2213,10 +2213,10 @@
         "ተ",
         "ዶ",
         "ር",
-        "ላ",
+        "ት",
         "ክ",
         "ሪ",
-        "ኪ",
+        "መ",
         "ማ"
       ],
       "requiredWords": [
@@ -2254,13 +2254,13 @@
       "chapter": "Out & About",
       "section": "Describing",
       "letters": [
-        "ቼ",
+        "ግ",
         "ሽ",
         "ን",
-        "ቡ",
+        "ቤ",
         "ት",
         "ቅ",
-        "ተ",
+        "ሱ",
         "ል"
       ],
       "requiredWords": [
@@ -2302,8 +2302,8 @@
         "ጭ",
         "ረ",
         "አ",
-        "ክ",
-        "ሄ",
+        "ዘ",
+        "ቼ",
         "ም"
       ],
       "requiredWords": [
@@ -2340,10 +2340,10 @@
       "section": "Describing",
       "letters": [
         "ሩ",
-        "ግ",
+        "መ",
         "ጥ",
-        "ዶ",
-        "ዝ"
+        "ሦ",
+        "ት"
       ],
       "requiredWords": [
         "ጥሩ"
@@ -2372,9 +2372,9 @@
         "ት",
         "ዛ",
         "ሞ",
-        "ች",
+        "ተ",
         "ዝ",
-        "ሲ"
+        "ዘ"
       ],
       "requiredWords": [
         "ሞቃት",
@@ -2417,7 +2417,7 @@
         "ጣ",
         "ፈ",
         "ን",
-        "ሲ"
+        "ሬ"
       ],
       "requiredWords": [
         "ፈጣን",
@@ -2455,10 +2455,10 @@
         "ን",
         "ሻ",
         "ጹ",
-        "ወ",
+        "ሩ",
         "ህ",
         "ቆ",
-        "ም",
+        "ጠ",
         "ሻ"
       ],
       "requiredWords": [
@@ -2496,11 +2496,11 @@
       "letters": [
         "ደ",
         "ስ",
-        "በ",
+        "ሲ",
         "ን",
         "ሐ",
         "ታ",
-        "ባ",
+        "ቶ",
         "ዘ"
       ],
       "requiredWords": [
@@ -2539,10 +2539,10 @@
       "chapter": "Out & About",
       "section": "Feelings",
       "letters": [
-        "ጅ",
+        "አ",
         "ር",
         "ፍ",
-        "ቡ",
+        "ወ",
         "ሃ",
         "ቁ",
         "ጣ",
@@ -2583,11 +2583,11 @@
       "chapter": "Out & About",
       "section": "Body & health",
       "letters": [
-        "ነ",
+        "ጨ",
         "ጥ",
         "ሃ",
-        "ማ",
-        "ቤ",
+        "ሮ",
+        "ህ",
         "ረ",
         "ብ",
         "ም"
@@ -2669,10 +2669,10 @@
       "chapter": "Out & About",
       "section": "Body & health",
       "letters": [
-        "ኛ",
-        "ጴ",
+        "ገ",
+        "ሬ",
         "ህ",
-        "ዳ",
+        "ጠ",
         "መ",
         "ም"
       ],
@@ -2702,9 +2702,9 @@
         "ክ",
         "ሰ",
         "ማ",
-        "ቁ",
-        "ቃ",
-        "ዴ"
+        "ሚ",
+        "ዓ",
+        "ቅ"
       ],
       "requiredWords": [
         "ሰኞ",
@@ -2746,8 +2746,8 @@
         "ስ",
         "ዕ",
         "ሙ",
-        "ጓ",
-        "ጀ"
+        "ፍ",
+        "ቶ"
       ],
       "requiredWords": [
         "ረቡዕ",
@@ -2782,14 +2782,14 @@
       "chapter": "Out & About",
       "section": "Days of the week",
       "letters": [
-        "ሃ",
+        "ሙ",
         "ዳ",
         "ሜ",
         "ር",
         "ቅ",
         "ብ",
         "ዓ",
-        "ዴ"
+        "ወ"
       ],
       "requiredWords": [
         "ዓርብ",
@@ -2824,10 +2824,10 @@
       "chapter": "Out & About",
       "section": "Days of the week",
       "letters": [
-        "ብ",
-        "ከ",
+        "ው",
+        "ት",
         "ሁ",
-        "ሩ",
+        "ሙ",
         "እ",
         "ድ"
       ],
@@ -2853,12 +2853,12 @@
       "chapter": "The Living World",
       "section": "My face",
       "letters": [
-        "ጹ",
+        "ሻ",
         "ፊ",
         "ፍ",
         "አ",
-        "ጀ",
-        "ቁ",
+        "ቆ",
+        "ሚ",
         "ት"
       ],
       "requiredWords": [
@@ -2898,12 +2898,12 @@
       "section": "My face",
       "letters": [
         "ስ",
-        "ቤ",
+        "ሞ",
         "ጉ",
         "ጸ",
         "ጥ",
-        "ዎ",
-        "ዘ",
+        "ሱ",
+        "ጋ",
         "ር"
       ],
       "requiredWords": [
@@ -2941,13 +2941,13 @@
       "chapter": "The Living World",
       "section": "My body",
       "letters": [
-        "ክ",
+        "ጅ",
         "ት",
         "ሆ",
         "ጣ",
         "ድ",
-        "ሦ",
-        "ሚ"
+        "ሙ",
+        "ፈ"
       ],
       "requiredWords": [
         "ጣት",
@@ -2986,8 +2986,8 @@
       "letters": [
         "ል",
         "ብ",
-        "ፍ",
-        "ዶ",
+        "ቡ",
+        "ካ",
         "ጫ"
       ],
       "requiredWords": [
@@ -3013,13 +3013,13 @@
       "chapter": "The Living World",
       "section": "More animals",
       "letters": [
-        "ካ",
+        "ያ",
         "አ",
         "በ",
         "ሳ",
         "ግ",
-        "ዴ",
-        "ጹ"
+        "ሽ",
+        "ሻ"
       ],
       "requiredWords": [
         "አሳ",
@@ -3058,11 +3058,11 @@
       "section": "More animals",
       "letters": [
         "ሬ",
-        "ቆ",
-        "ር",
+        "ብ",
+        "እ",
         "በ",
         "ህ",
-        "ኛ",
+        "የ",
         "አ",
         "ያ"
       ],
@@ -3101,12 +3101,12 @@
       "chapter": "The Living World",
       "section": "More animals",
       "letters": [
-        "ካ",
+        "ቼ",
         "ብ",
-        "ህ",
+        "የ",
         "ባ",
         "እ",
-        "ሜ",
+        "ቆ",
         "ጦ",
         "ጣ"
       ],
@@ -3150,7 +3150,7 @@
         "ስ",
         "ቁ",
         "እ",
-        "ሽ",
+        "ግ",
         "ን",
         "ላ"
       ],
@@ -3191,11 +3191,11 @@
       "section": "Food on the table",
       "letters": [
         "ው",
-        "ከ",
-        "ለ",
+        "ጉ",
+        "ጦ",
         "ይ",
         "ሻ",
-        "ም",
+        "ዕ",
         "ጨ"
       ],
       "requiredWords": [
@@ -3233,12 +3233,12 @@
       "chapter": "The Living World",
       "section": "Food on the table",
       "letters": [
-        "ግ",
+        "መ",
         "ኳ",
-        "ድ",
+        "ዛ",
         "ስ",
         "ር",
-        "ከ"
+        "ሻ"
       ],
       "requiredWords": [
         "ስኳር"
@@ -3264,13 +3264,13 @@
       "section": "In the kitchen",
       "letters": [
         "ቅ",
-        "ት",
+        "ኮ",
         "መ",
         "ም",
         "ር",
         "ማ",
-        "ባ",
-        "ስ"
+        "ቆ",
+        "ሁ"
       ],
       "requiredWords": [
         "ማር",
@@ -3313,7 +3313,7 @@
         "ን",
         "ኩ",
         "ር",
-        "ታ",
+        "ና",
         "ዘ"
       ],
       "requiredWords": [
@@ -3354,9 +3354,9 @@
         "ብ",
         "አ",
         "ር",
-        "ከ",
+        "ኛ",
         "ጎ",
-        "ፋ",
+        "ደ",
         "እ"
       ],
       "requiredWords": [
@@ -3395,10 +3395,10 @@
       "chapter": "The Living World",
       "section": "On the plate",
       "letters": [
-        "ጣ",
-        "ቀ",
+        "ሰ",
+        "ኳ",
         "ጥ",
-        "ች",
+        "ጀ",
         "ባ",
         "ር",
         "ወ",
@@ -3439,11 +3439,11 @@
       "chapter": "The Living World",
       "section": "Water & land",
       "letters": [
-        "ሦ",
+        "ጸ",
         "ወ",
         "ን",
         "ር",
-        "ቤ",
+        "ሱ",
         "ህ",
         "ዝ",
         "ባ"
@@ -3484,14 +3484,14 @@
       "chapter": "The Living World",
       "section": "Water & land",
       "letters": [
-        "ሳ",
+        "ላ",
         "ተ",
         "ደ",
         "ን",
-        "ዛ",
+        "ል",
         "ራ",
         "ራ",
-        "ሐ"
+        "ታ"
       ],
       "requiredWords": [
         "ተራራ",
@@ -3530,12 +3530,12 @@
       "letters": [
         "በ",
         "ረ",
-        "ኮ",
+        "ሆ",
         "ስ",
         "ዶ",
         "ፋ",
         "ነ",
-        "ጓ"
+        "ሻ"
       ],
       "requiredWords": [
         "ነፋስ",
@@ -3573,13 +3573,13 @@
       "chapter": "The Living World",
       "section": "Weather & sky",
       "letters": [
-        "ለ",
+        "ሁ",
         "ና",
         "ደ",
         "ቅ",
         "መ",
         "ብ",
-        "ቆ",
+        "ራ",
         "ረ"
       ],
       "requiredWords": [
@@ -3619,9 +3619,9 @@
       "letters": [
         "ም",
         "ጉ",
-        "ጠ",
-        "ሩ",
-        "ይ"
+        "ጥ",
+        "ን",
+        "ካ"
       ],
       "requiredWords": [
         "ጉም"
@@ -3649,10 +3649,10 @@
         "ጠ",
         "ል",
         "ሣ",
-        "ሬ",
-        "ጸ",
+        "ሾ",
+        "ሪ",
         "ቅ",
-        "ወ",
+        "ግ",
         "ር"
       ],
       "requiredWords": [
@@ -3691,9 +3691,9 @@
       "chapter": "The Living World",
       "section": "Plants",
       "letters": [
-        "ሳ",
-        "ሩ",
-        "ማ",
+        "ድ",
+        "ጸ",
+        "ሮ",
         "ስ",
         "ዘ",
         "ር"
@@ -3734,9 +3734,9 @@
       "letters": [
         "ር",
         "ቢ",
-        "ነ",
+        "ሜ",
+        "ጹ",
         "ሮ",
-        "ማ",
         "ቁ",
         "ጫ",
         "ጥ"
@@ -3822,11 +3822,11 @@
       "chapter": "The Living World",
       "section": "More colors",
       "letters": [
-        "ቶ",
+        "ሱ",
         "ና",
         "ቡ",
-        "ጸ",
-        "ስ",
+        "ሰ",
+        "ዓ",
         "ማ"
       ],
       "requiredWords": [
@@ -3852,11 +3852,11 @@
       "chapter": "The Living World",
       "section": "My relatives",
       "letters": [
-        "ሩ",
+        "ጸ",
         "አ",
         "ጎ",
-        "ቁ",
-        "ሁ",
+        "ሚ",
+        "ካ",
         "ት",
         "ያ"
       ],
@@ -3896,11 +3896,11 @@
       "chapter": "The Living World",
       "section": "My relatives",
       "letters": [
-        "ሣ",
-        "ድ",
+        "ጅ",
+        "ዛ",
         "ስ",
         "ክ",
-        "ቼ",
+        "ረ",
         "ሚ",
         "ት",
         "አ"
@@ -3936,21 +3936,710 @@
     },
     {
       "id": 97,
-      "title": "Food",
-      "section": "Everyday Life",
-      "chapter": "Foundations",
+      "title": "Places",
+      "chapter": "City Life",
+      "section": "Places",
       "letters": [
-        "ብ",
-        "ቀ",
-        "ም",
+        "ን",
+        "ዴ",
+        "ሆ",
+        "ላ",
+        "ክ",
+        "ል",
+        "ቴ",
+        "ባ"
+      ],
+      "requiredWords": [
+        "ሆቴል",
+        "ባንክ"
+      ],
+      "wordDetails": {
+        "ሆቴል": {
+          "meaningEn": "hotel",
+          "meaningAm": "ለማደርና ለመመገብ የሚያገለግል ቦታ",
+          "exampleAm": "በሆቴል ውስጥ አደርን።",
+          "transliteration": "hotel",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a place for staying overnight and eating",
+          "exampleEn": "We stayed in a hotel.",
+          "icon": "🏨"
+        },
+        "ባንክ": {
+          "meaningEn": "bank",
+          "meaningAm": "ገንዘብ የሚቀመጥበትና የሚበደርበት ተቋም",
+          "exampleAm": "ገንዘብ ለማስቀመጥ ወደ ባንክ ሄድኩ።",
+          "transliteration": "bank",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "an institution where money is kept and borrowed",
+          "exampleEn": "I went to the bank to deposit money.",
+          "icon": "🏦"
+        }
+      },
+      "goal": "I can name places in the city"
+    },
+    {
+      "id": 98,
+      "title": "Places",
+      "chapter": "City Life",
+      "section": "Places",
+      "letters": [
+        "ድ",
+        "ሆ",
+        "መ",
+        "ስ",
+        "ል",
+        "ፒ",
+        "ጊ",
+        "ታ"
+      ],
+      "requiredWords": [
+        "ሆስፒታል",
+        "መስጊድ"
+      ],
+      "wordDetails": {
+        "ሆስፒታል": {
+          "meaningEn": "hospital",
+          "meaningAm": "በሽተኞች የሚታከሙበት ቦታ",
+          "exampleAm": "ሕመምተኛውን ወደ ሆስፒታል ወሰዱት።",
+          "transliteration": "hospital",
+          "difficulty": 3,
+          "category": "places",
+          "definitionEn": "a place where the sick are treated",
+          "exampleEn": "They took the patient to the hospital.",
+          "icon": "🏥"
+        },
+        "መስጊድ": {
+          "meaningEn": "mosque",
+          "meaningAm": "ሙስሊሞች የሚጸልዩበት ቦታ",
+          "exampleAm": "መስጊዱ ሰፊ ነው።",
+          "transliteration": "mesgid",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a place where Muslims pray",
+          "exampleEn": "The mosque is spacious.",
+          "icon": "🕌"
+        }
+      }
+    },
+    {
+      "id": 99,
+      "title": "Places",
+      "chapter": "City Life",
+      "section": "Places",
+      "letters": [
+        "ቁ",
+        "ድ",
+        "ቢ",
+        "ድ",
+        "ሮ",
+        "ሣ",
+        "ል",
+        "ይ"
+      ],
+      "requiredWords": [
+        "ቢሮ",
+        "ድልድይ"
+      ],
+      "wordDetails": {
+        "ቢሮ": {
+          "meaningEn": "office",
+          "meaningAm": "ሰዎች የሚሰሩበት የሥራ ክፍል",
+          "exampleAm": "ቢሮዬ ሁለተኛ ፎቅ ላይ ነው።",
+          "transliteration": "biro",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a workroom where people work",
+          "exampleEn": "My office is on the second floor.",
+          "icon": "🏢"
+        },
+        "ድልድይ": {
+          "meaningEn": "bridge",
+          "meaningAm": "ወንዝ ወይም መንገድ ለማቋረጥ የሚሰራ",
+          "exampleAm": "መኪናው ድልድዩን አቋረጠ።",
+          "transliteration": "dildiy",
+          "difficulty": 3,
+          "category": "places",
+          "definitionEn": "a structure built to cross a river or road",
+          "exampleEn": "The car crossed the bridge.",
+          "icon": "🌉"
+        }
+      }
+    },
+    {
+      "id": 100,
+      "title": "Places",
+      "chapter": "City Life",
+      "section": "Places",
+      "letters": [
+        "ን",
+        "ፕ",
+        "ጣ",
+        "አ",
+        "ሮ",
+        "ው",
+        "ያ",
+        "ላ",
+        "ቢ"
+      ],
+      "requiredWords": [
+        "አውሮፕላን",
+        "ጣቢያ"
+      ],
+      "wordDetails": {
+        "አውሮፕላን": {
+          "meaningEn": "airplane",
+          "meaningAm": "በአየር ላይ የሚበር ማመላለሻ",
+          "exampleAm": "አውሮፕላኑ ወደ ሰማይ በረረ።",
+          "transliteration": "awroplan",
+          "difficulty": 3,
+          "category": "transport",
+          "definitionEn": "a vehicle that flies in the air",
+          "exampleEn": "The airplane flew into the sky.",
+          "icon": "✈️"
+        },
+        "ጣቢያ": {
+          "meaningEn": "station",
+          "meaningAm": "ባቡር ወይም አውቶቡስ የሚቆምበት ቦታ",
+          "exampleAm": "በጣቢያው ባቡር እጠብቃለሁ።",
+          "transliteration": "tabiya",
+          "difficulty": 2,
+          "category": "transport",
+          "definitionEn": "a place where trains or buses stop",
+          "exampleEn": "I wait for the train at the station.",
+          "icon": "🚉"
+        }
+      }
+    },
+    {
+      "id": 101,
+      "title": "The house",
+      "chapter": "City Life",
+      "section": "The house",
+      "letters": [
+        "ግ",
+        "ል",
+        "ሴ",
         "ለ",
+        "ወ",
+        "ዳ",
+        "ድ",
         "ግ"
       ],
       "requiredWords": [
-        "ምግብ"
+        "ወለል",
+        "ግድግዳ"
       ],
-      "bonusWords": [
-        "ግብ"
+      "wordDetails": {
+        "ወለል": {
+          "meaningEn": "floor",
+          "meaningAm": "የቤት የታችኛው የሚረገጥ ክፍል",
+          "exampleAm": "ወለሉን ጠረገች።",
+          "transliteration": "welel",
+          "difficulty": 2,
+          "category": "household",
+          "definitionEn": "the lower surface of a house that is walked on",
+          "exampleEn": "She swept the floor."
+        },
+        "ግድግዳ": {
+          "meaningEn": "wall",
+          "meaningAm": "ቤትን የሚከልል ቀጥ ያለ ክፍል",
+          "exampleAm": "ግድግዳው ላይ ስዕል ሰቀለ።",
+          "transliteration": "gidgida",
+          "difficulty": 3,
+          "category": "household",
+          "definitionEn": "the upright part that encloses a house",
+          "exampleEn": "He hung a picture on the wall.",
+          "icon": "🧱"
+        }
+      },
+      "goal": "I can name parts of a house"
+    },
+    {
+      "id": 102,
+      "title": "The house",
+      "chapter": "City Life",
+      "section": "The house",
+      "letters": [
+        "ሪ",
+        "ር",
+        "ጣ",
+        "ያ",
+        "ጥ",
+        "ጀ",
+        "አ",
+        "ዛ"
+      ],
+      "requiredWords": [
+        "ጣሪያ",
+        "አጥር"
+      ],
+      "wordDetails": {
+        "ጣሪያ": {
+          "meaningEn": "roof",
+          "meaningAm": "የቤት የላይኛው መከለያ",
+          "exampleAm": "ጣሪያው ያፈሳል።",
+          "transliteration": "tariya",
+          "difficulty": 2,
+          "category": "household",
+          "definitionEn": "the upper covering of a house",
+          "exampleEn": "The roof leaks."
+        },
+        "አጥር": {
+          "meaningEn": "fence",
+          "meaningAm": "ግቢን የሚከልል",
+          "exampleAm": "አጥሩ ከፍ ያለ ነው።",
+          "transliteration": "atir",
+          "difficulty": 2,
+          "category": "household",
+          "definitionEn": "what encloses a compound",
+          "exampleEn": "The fence is high."
+        }
+      }
+    },
+    {
+      "id": 103,
+      "title": "At school",
+      "chapter": "City Life",
+      "section": "At school",
+      "letters": [
+        "ስ",
+        "ሳ",
+        "ር",
+        "እ",
+        "ተ",
+        "ባ",
+        "ብ",
+        "ደ"
+      ],
+      "requiredWords": [
+        "እርሳስ",
+        "ደብተር"
+      ],
+      "wordDetails": {
+        "እርሳስ": {
+          "meaningEn": "pencil",
+          "meaningAm": "ለመጻፍ የሚያገለግል መሣሪያ",
+          "exampleAm": "በእርሳስ ጻፍኩ።",
+          "transliteration": "irsas",
+          "difficulty": 2,
+          "category": "school",
+          "definitionEn": "a tool used for writing",
+          "exampleEn": "I wrote with a pencil.",
+          "icon": "✏️"
+        },
+        "ደብተር": {
+          "meaningEn": "notebook",
+          "meaningAm": "ለመጻፍ የሚሆን የወረቀት ስብስብ",
+          "exampleAm": "ደብተሬ ጠፋ።",
+          "transliteration": "debter",
+          "difficulty": 2,
+          "category": "school",
+          "definitionEn": "a collection of paper for writing",
+          "exampleEn": "My notebook is lost.",
+          "icon": "📓"
+        }
+      },
+      "goal": "I can name school things"
+    },
+    {
+      "id": 104,
+      "title": "At school",
+      "chapter": "City Life",
+      "section": "At school",
+      "letters": [
+        "ግ",
+        "ቄ",
+        "ት",
+        "ጥ",
+        "ወ",
+        "ያ",
+        "ረ",
+        "ቀ"
+      ],
+      "requiredWords": [
+        "ወረቀት",
+        "ጥያቄ"
+      ],
+      "wordDetails": {
+        "ወረቀት": {
+          "meaningEn": "paper",
+          "meaningAm": "ለመጻፍና ለማተም የሚሆን",
+          "exampleAm": "ወረቀት ላይ ሣለ።",
+          "transliteration": "wereqet",
+          "difficulty": 2,
+          "category": "school",
+          "definitionEn": "material for writing and printing",
+          "exampleEn": "He drew on paper.",
+          "icon": "📄"
+        },
+        "ጥያቄ": {
+          "meaningEn": "question",
+          "meaningAm": "መልስ የሚፈልግ አባባል",
+          "exampleAm": "አንድ ጥያቄ አለኝ።",
+          "transliteration": "tiyaqe",
+          "difficulty": 2,
+          "category": "school",
+          "definitionEn": "a statement that seeks an answer",
+          "exampleEn": "I have a question.",
+          "icon": "❓"
+        }
+      }
+    },
+    {
+      "id": 105,
+      "title": "At school",
+      "chapter": "City Life",
+      "section": "At school",
+      "letters": [
+        "ት",
+        "ጽ",
+        "ህ",
+        "ር",
+        "ፍ",
+        "ት",
+        "ሐ",
+        "መ",
+        "ም"
+      ],
+      "requiredWords": [
+        "መጽሐፍ",
+        "ትምህርት"
+      ],
+      "wordDetails": {
+        "መጽሐፍ": {
+          "meaningEn": "book",
+          "meaningAm": "ለንባብ የሚሆን የጽሑፍ ስብስብ",
+          "exampleAm": "ይህን መጽሐፍ አንብቤዋለሁ።",
+          "transliteration": "metsehaf",
+          "difficulty": 3,
+          "category": "education",
+          "definitionEn": "a collection of writing meant for reading",
+          "exampleEn": "I have read this book.",
+          "icon": "📖"
+        },
+        "ትምህርት": {
+          "meaningEn": "education; study",
+          "meaningAm": "እውቀትና ክህሎት የማግኘት ሂደት",
+          "exampleAm": "ትምህርት የሕይወት ብርሃን ነው።",
+          "transliteration": "timhirt",
+          "difficulty": 3,
+          "category": "education",
+          "definitionEn": "the process of gaining knowledge and skills",
+          "exampleEn": "Education is the light of life.",
+          "icon": "📚"
+        }
+      }
+    },
+    {
+      "id": 106,
+      "title": "Things I use",
+      "chapter": "City Life",
+      "section": "Things I use",
+      "letters": [
+        "ማ",
+        "ብ",
+        "ል",
+        "ክ",
+        "ጓ",
+        "ስ",
+        "ነ",
+        "ር"
+      ],
+      "requiredWords": [
+        "ብር",
+        "ስልክ"
+      ],
+      "wordDetails": {
+        "ብር": {
+          "meaningEn": "money; birr",
+          "meaningAm": "ለግዢ የሚያገለግል ገንዘብ",
+          "exampleAm": "አስር ብር ከፈልኩ።",
+          "transliteration": "bir",
+          "difficulty": 1,
+          "category": "objects",
+          "definitionEn": "money used for buying (the Ethiopian birr)",
+          "exampleEn": "I paid ten birr.",
+          "icon": "💵"
+        },
+        "ስልክ": {
+          "meaningEn": "phone",
+          "meaningAm": "ለመነጋገር የሚያገለግል መሣሪያ",
+          "exampleAm": "ስልኩ ጠራ።",
+          "transliteration": "silk",
+          "difficulty": 2,
+          "category": "objects",
+          "definitionEn": "a device used for talking",
+          "exampleEn": "The phone rang.",
+          "icon": "📱"
+        }
+      },
+      "goal": "I can name useful things"
+    },
+    {
+      "id": 107,
+      "title": "Things I use",
+      "chapter": "City Life",
+      "section": "Things I use",
+      "letters": [
+        "ፍ",
+        "ኳ",
+        "ጴ",
+        "ቁ",
+        "ል",
+        "ስ",
+        "ዕ",
+        "ይ"
+      ],
+      "requiredWords": [
+        "ኳስ",
+        "ቁልፍ"
+      ],
+      "wordDetails": {
+        "ኳስ": {
+          "meaningEn": "ball",
+          "meaningAm": "ለመጫወት የሚያገለግል ክብ ነገር",
+          "exampleAm": "ልጆቹ ኳስ ይጫወታሉ።",
+          "transliteration": "kuas",
+          "difficulty": 1,
+          "category": "objects",
+          "definitionEn": "a round object used for playing",
+          "exampleEn": "The children play with a ball.",
+          "icon": "⚽"
+        },
+        "ቁልፍ": {
+          "meaningEn": "key",
+          "meaningAm": "በር ለመክፈት የሚያገለግል",
+          "exampleAm": "የቤቱ ቁልፍ ጠፋ።",
+          "transliteration": "qulf",
+          "difficulty": 2,
+          "category": "objects",
+          "definitionEn": "what is used to open a door",
+          "exampleEn": "The house key is lost.",
+          "icon": "🔑"
+        }
+      }
+    },
+    {
+      "id": 108,
+      "title": "Health",
+      "chapter": "City Life",
+      "section": "Health",
+      "letters": [
+        "ና",
+        "መ",
+        "ኒ",
+        "ጤ",
+        "ሃ",
+        "ት",
+        "ሩ",
+        "ድ"
+      ],
+      "requiredWords": [
+        "መድሃኒት",
+        "ጤና"
+      ],
+      "wordDetails": {
+        "መድሃኒት": {
+          "meaningEn": "medicine",
+          "meaningAm": "በሽታን ለማከም የሚወሰድ",
+          "exampleAm": "ሐኪሙ መድሃኒት አዘዘ።",
+          "transliteration": "medhanit",
+          "difficulty": 3,
+          "category": "health",
+          "definitionEn": "what is taken to treat illness",
+          "exampleEn": "The doctor prescribed medicine.",
+          "icon": "💊"
+        },
+        "ጤና": {
+          "meaningEn": "health",
+          "meaningAm": "ጤናማ የመሆን ሁኔታ",
+          "exampleAm": "ጤና ከሁሉ ይበልጣል።",
+          "transliteration": "tena",
+          "difficulty": 2,
+          "category": "health",
+          "definitionEn": "the state of being healthy",
+          "exampleEn": "Health is above everything."
+        }
+      },
+      "goal": "I can talk about health"
+    },
+    {
+      "id": 109,
+      "title": "Health",
+      "chapter": "City Life",
+      "section": "Health",
+      "letters": [
+        "ደ",
+        "ዓ",
+        "ነ",
+        "ም",
+        "ጭ"
+      ],
+      "requiredWords": [
+        "ደም"
+      ],
+      "wordDetails": {
+        "ደም": {
+          "meaningEn": "blood",
+          "meaningAm": "በሰውነት ውስጥ የሚዘዋወር ቀይ ፈሳሽ",
+          "exampleAm": "ቁስሉ ደም አፈሰሰ።",
+          "transliteration": "dem",
+          "difficulty": 2,
+          "category": "body",
+          "definitionEn": "the red liquid that circulates in the body",
+          "exampleEn": "The wound shed blood.",
+          "icon": "🩸"
+        }
+      }
+    },
+    {
+      "id": 110,
+      "title": "Time words",
+      "chapter": "City Life",
+      "section": "Time words",
+      "letters": [
+        "ለ",
+        "ት",
+        "ሾ",
+        "ዓ",
+        "ሰ",
+        "ን",
+        "ም",
+        "ሳ"
+      ],
+      "requiredWords": [
+        "ሰዓት",
+        "ሳምንት"
+      ],
+      "wordDetails": {
+        "ሰዓት": {
+          "meaningEn": "hour; time",
+          "meaningAm": "ጊዜ የሚለካበት፤ 60 ደቂቃ",
+          "exampleAm": "አሁን ስንት ሰዓት ነው?",
+          "transliteration": "se'at",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "a unit of time; 60 minutes",
+          "exampleEn": "What time is it now?"
+        },
+        "ሳምንት": {
+          "meaningEn": "week",
+          "meaningAm": "ሰባት ቀናት ያሉት ጊዜ",
+          "exampleAm": "በሳምንት ሰባት ቀን አለ።",
+          "transliteration": "samint",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "a period of seven days",
+          "exampleEn": "There are seven days in a week."
+        }
+      },
+      "goal": "I can name units of time"
+    },
+    {
+      "id": 111,
+      "title": "Time words",
+      "chapter": "City Life",
+      "section": "Time words",
+      "letters": [
+        "ቄ",
+        "ል",
+        "መ",
+        "ዓ",
+        "ት",
+        "ር",
+        "ሱ",
+        "ወ"
+      ],
+      "requiredWords": [
+        "ወር",
+        "ዓመት"
+      ],
+      "wordDetails": {
+        "ወር": {
+          "meaningEn": "month",
+          "meaningAm": "ሰላሳ ቀናት ገደማ ያለው ጊዜ",
+          "exampleAm": "በዓመት አስራ ሁለት ወራት አሉ።",
+          "transliteration": "wer",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "a period of about thirty days",
+          "exampleEn": "There are twelve months in a year."
+        },
+        "ዓመት": {
+          "meaningEn": "year",
+          "meaningAm": "አስራ ሁለት ወራት ያሉት ጊዜ",
+          "exampleAm": "አዲስ ዓመት መጣ።",
+          "transliteration": "amet",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "a period of twelve months",
+          "exampleEn": "The new year has come."
+        }
+      }
+    },
+    {
+      "id": 112,
+      "title": "Easy & hard",
+      "chapter": "City Life",
+      "section": "Easy & hard",
+      "letters": [
+        "ሣ",
+        "ባ",
+        "ቀ",
+        "ከ",
+        "ድ",
+        "ል",
+        "ሩ",
+        "ላ"
+      ],
+      "requiredWords": [
+        "ቀላል",
+        "ከባድ"
+      ],
+      "wordDetails": {
+        "ቀላል": {
+          "meaningEn": "easy; light",
+          "meaningAm": "የማይከብድ",
+          "exampleAm": "ጥያቄው ቀላል ነበር።",
+          "transliteration": "qelal",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "not difficult",
+          "exampleEn": "The question was easy."
+        },
+        "ከባድ": {
+          "meaningEn": "hard; heavy",
+          "meaningAm": "የሚከብድ",
+          "exampleAm": "ሸክሙ ከባድ ነው።",
+          "transliteration": "kebad",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "difficult; weighty",
+          "exampleEn": "The load is heavy."
+        }
+      },
+      "goal": "I can describe more things"
+    },
+    {
+      "id": 113,
+      "title": "More words",
+      "chapter": "City Life",
+      "section": "More words",
+      "letters": [
+        "ግ",
+        "ሬ",
+        "ር",
+        "ፍ",
+        "ም",
+        "ቅ",
+        "ብ",
+        "ጆ"
+      ],
+      "requiredWords": [
+        "ምግብ",
+        "ፍቅር"
       ],
       "wordDetails": {
         "ምግብ": {
@@ -3964,34 +4653,6 @@
           "exampleEn": "This food is very delicious.",
           "icon": "🍽️"
         },
-        "ግብ": {
-          "meaningEn": "goal; target",
-          "meaningAm": "ለመድረስ የሚፈለግ ዓላማ",
-          "exampleAm": "ግቡ ላይ ደረሰ።",
-          "transliteration": "gib",
-          "difficulty": 2,
-          "category": "common",
-          "definitionEn": "an aim one wants to reach",
-          "exampleEn": "He reached his goal."
-        }
-      }
-    },
-    {
-      "id": 98,
-      "title": "Love",
-      "section": "Everyday Life",
-      "chapter": "Foundations",
-      "letters": [
-        "ር",
-        "ሰ",
-        "ፍ",
-        "ት",
-        "ቅ"
-      ],
-      "requiredWords": [
-        "ፍቅር"
-      ],
-      "wordDetails": {
         "ፍቅር": {
           "meaningEn": "love",
           "meaningAm": "ለሰው ወይም ለነገር የሚሰማ ጥልቅ የመውደድ ስሜት",
@@ -4003,94 +4664,27 @@
           "exampleEn": "A mother's love has no limit.",
           "icon": "❤️"
         }
-      }
+      },
+      "goal": "I can use a few more words"
     },
     {
-      "id": 99,
-      "title": "The Book",
-      "section": "Everyday Life",
-      "chapter": "Foundations",
+      "id": 114,
+      "title": "More words",
+      "chapter": "City Life",
+      "section": "More words",
       "letters": [
-        "ፍ",
-        "መ",
-        "ር",
-        "ሐ",
-        "ጽ"
-      ],
-      "requiredWords": [
-        "መጽሐፍ"
-      ],
-      "wordDetails": {
-        "መጽሐፍ": {
-          "meaningEn": "book",
-          "meaningAm": "ለንባብ የሚሆን የጽሑፍ ስብስብ",
-          "exampleAm": "ይህን መጽሐፍ አንብቤዋለሁ።",
-          "transliteration": "metsehaf",
-          "difficulty": 3,
-          "category": "education",
-          "definitionEn": "a collection of writing meant for reading",
-          "exampleEn": "I have read this book.",
-          "icon": "📖"
-        }
-      }
-    },
-    {
-      "id": 100,
-      "title": "Education",
-      "section": "Everyday Life",
-      "chapter": "Foundations",
-      "letters": [
-        "ም",
-        "ት",
-        "ስ",
-        "ር",
-        "ህ",
-        "ት"
-      ],
-      "requiredWords": [
-        "ትምህርት"
-      ],
-      "bonusWords": [
-        "ስም"
-      ],
-      "wordDetails": {
-        "ትምህርት": {
-          "meaningEn": "education; study",
-          "meaningAm": "እውቀትና ክህሎት የማግኘት ሂደት",
-          "exampleAm": "ትምህርት የሕይወት ብርሃን ነው።",
-          "transliteration": "timhirt",
-          "difficulty": 3,
-          "category": "education",
-          "definitionEn": "the process of gaining knowledge and skills",
-          "exampleEn": "Education is the light of life.",
-          "icon": "📚"
-        },
-        "ስም": {
-          "meaningEn": "name",
-          "meaningAm": "ሰውን ወይም ነገርን የሚጠሩበት ቃል",
-          "exampleAm": "ስምህ ማን ነው?",
-          "transliteration": "sim",
-          "difficulty": 1,
-          "category": "common",
-          "definitionEn": "the word by which a person or thing is called",
-          "exampleEn": "What is your name?"
-        }
-      }
-    },
-    {
-      "id": 101,
-      "title": "Flower",
-      "section": "Food & Nature",
-      "chapter": "Foundations",
-      "letters": [
+        "ወ",
         "በ",
-        "ት",
-        "አ",
         "ባ",
-        "ሰ"
+        "ነ",
+        "ል",
+        "ጋ",
+        "አ",
+        "ዴ"
       ],
       "requiredWords": [
-        "አበባ"
+        "አበባ",
+        "ነጋዴ"
       ],
       "wordDetails": {
         "አበባ": {
@@ -4103,55 +4697,7 @@
           "definitionEn": "the colorful, fragrant part of a plant",
           "exampleEn": "The flower has a pleasant smell.",
           "icon": "🌼"
-        }
-      }
-    },
-    {
-      "id": 102,
-      "title": "Time II",
-      "section": "Colors & More",
-      "chapter": "The World",
-      "letters": [
-        "ሌ",
-        "ሊ",
-        "ት",
-        "ሰ",
-        "ዓ"
-      ],
-      "requiredWords": [
-        "ሰዓት"
-      ],
-      "wordDetails": {
-        "ሰዓት": {
-          "meaningEn": "hour; time",
-          "meaningAm": "ጊዜ የሚለካበት፤ 60 ደቂቃ",
-          "exampleAm": "አሁን ስንት ሰዓት ነው?",
-          "transliteration": "se'at",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "a unit of time; 60 minutes",
-          "exampleEn": "What time is it now?"
-        }
-      }
-    },
-    {
-      "id": 103,
-      "title": "Jobs II",
-      "section": "Jobs",
-      "chapter": "Daily Life",
-      "letters": [
-        "ዶ",
-        "ክ",
-        "ተ",
-        "ር",
-        "ነ",
-        "ጋ",
-        "ዴ"
-      ],
-      "requiredWords": [
-        "ነጋዴ"
-      ],
-      "wordDetails": {
+        },
         "ነጋዴ": {
           "meaningEn": "merchant",
           "meaningAm": "ዕቃ የሚሸጥና የሚገዛ ሰው",
@@ -4166,7 +4712,7 @@
       }
     },
     {
-      "id": 104,
+      "id": 115,
       "title": "Reading & Writing",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -4207,7 +4753,7 @@
       }
     },
     {
-      "id": 105,
+      "id": 116,
       "title": "Speaking & Loving",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -4237,89 +4783,7 @@
       }
     },
     {
-      "id": 106,
-      "title": "Money & Phone",
-      "section": "Things",
-      "chapter": "Around You",
-      "letters": [
-        "ብ",
-        "ር",
-        "ስ",
-        "ል",
-        "ክ"
-      ],
-      "requiredWords": [
-        "ብር",
-        "ስልክ"
-      ],
-      "wordDetails": {
-        "ብር": {
-          "meaningEn": "money; birr",
-          "meaningAm": "ለግዢ የሚያገለግል ገንዘብ",
-          "exampleAm": "አስር ብር ከፈልኩ።",
-          "transliteration": "bir",
-          "difficulty": 1,
-          "category": "objects",
-          "definitionEn": "money used for buying (the Ethiopian birr)",
-          "exampleEn": "I paid ten birr.",
-          "icon": "💵"
-        },
-        "ስልክ": {
-          "meaningEn": "phone",
-          "meaningAm": "ለመነጋገር የሚያገለግል መሣሪያ",
-          "exampleAm": "ስልኩ ጠራ።",
-          "transliteration": "silk",
-          "difficulty": 2,
-          "category": "objects",
-          "definitionEn": "a device used for talking",
-          "exampleEn": "The phone rang.",
-          "icon": "📱"
-        }
-      }
-    },
-    {
-      "id": 107,
-      "title": "Ball & Key",
-      "section": "Things",
-      "chapter": "Around You",
-      "letters": [
-        "ኳ",
-        "ስ",
-        "ቁ",
-        "ል",
-        "ፍ"
-      ],
-      "requiredWords": [
-        "ኳስ",
-        "ቁልፍ"
-      ],
-      "wordDetails": {
-        "ኳስ": {
-          "meaningEn": "ball",
-          "meaningAm": "ለመጫወት የሚያገለግል ክብ ነገር",
-          "exampleAm": "ልጆቹ ኳስ ይጫወታሉ።",
-          "transliteration": "kuas",
-          "difficulty": 1,
-          "category": "objects",
-          "definitionEn": "a round object used for playing",
-          "exampleEn": "The children play with a ball.",
-          "icon": "⚽"
-        },
-        "ቁልፍ": {
-          "meaningEn": "key",
-          "meaningAm": "በር ለመክፈት የሚያገለግል",
-          "exampleAm": "የቤቱ ቁልፍ ጠፋ።",
-          "transliteration": "qulf",
-          "difficulty": 2,
-          "category": "objects",
-          "definitionEn": "what is used to open a door",
-          "exampleEn": "The house key is lost.",
-          "icon": "🔑"
-        }
-      }
-    },
-    {
-      "id": 108,
+      "id": 117,
       "title": "Morning Routine",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -4360,7 +4824,7 @@
       }
     },
     {
-      "id": 109,
+      "id": 118,
       "title": "In & Out",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -4400,7 +4864,7 @@
       }
     },
     {
-      "id": 110,
+      "id": 119,
       "title": "Give & Take",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -4441,7 +4905,7 @@
       }
     },
     {
-      "id": 111,
+      "id": 120,
       "title": "Buy & Sell",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -4481,325 +4945,7 @@
       }
     },
     {
-      "id": 112,
-      "title": "At the Clinic",
-      "section": "Health",
-      "chapter": "Around You",
-      "letters": [
-        "መ",
-        "ድ",
-        "ሃ",
-        "ኒ",
-        "ት",
-        "ህ",
-        "ም"
-      ],
-      "requiredWords": [
-        "መድሃኒት"
-      ],
-      "wordDetails": {
-        "መድሃኒት": {
-          "meaningEn": "medicine",
-          "meaningAm": "በሽታን ለማከም የሚወሰድ",
-          "exampleAm": "ሐኪሙ መድሃኒት አዘዘ።",
-          "transliteration": "medhanit",
-          "difficulty": 3,
-          "category": "health",
-          "definitionEn": "what is taken to treat illness",
-          "exampleEn": "The doctor prescribed medicine.",
-          "icon": "💊"
-        }
-      }
-    },
-    {
-      "id": 113,
-      "title": "Body & Health",
-      "section": "Health",
-      "chapter": "Around You",
-      "letters": [
-        "ጤ",
-        "ና",
-        "ደ",
-        "ም"
-      ],
-      "requiredWords": [
-        "ጤና",
-        "ደም"
-      ],
-      "wordDetails": {
-        "ጤና": {
-          "meaningEn": "health",
-          "meaningAm": "ጤናማ የመሆን ሁኔታ",
-          "exampleAm": "ጤና ከሁሉ ይበልጣል።",
-          "transliteration": "tena",
-          "difficulty": 2,
-          "category": "health",
-          "definitionEn": "the state of being healthy",
-          "exampleEn": "Health is above everything."
-        },
-        "ደም": {
-          "meaningEn": "blood",
-          "meaningAm": "በሰውነት ውስጥ የሚዘዋወር ቀይ ፈሳሽ",
-          "exampleAm": "ቁስሉ ደም አፈሰሰ።",
-          "transliteration": "dem",
-          "difficulty": 2,
-          "category": "body",
-          "definitionEn": "the red liquid that circulates in the body",
-          "exampleEn": "The wound shed blood.",
-          "icon": "🩸"
-        }
-      }
-    },
-    {
-      "id": 114,
-      "title": "Writing",
-      "section": "School",
-      "chapter": "Daily Life",
-      "letters": [
-        "እ",
-        "ር",
-        "ሳ",
-        "ስ",
-        "ደ",
-        "ብ",
-        "ተ"
-      ],
-      "requiredWords": [
-        "እርሳስ",
-        "ደብተር"
-      ],
-      "wordDetails": {
-        "እርሳስ": {
-          "meaningEn": "pencil",
-          "meaningAm": "ለመጻፍ የሚያገለግል መሣሪያ",
-          "exampleAm": "በእርሳስ ጻፍኩ።",
-          "transliteration": "irsas",
-          "difficulty": 2,
-          "category": "school",
-          "definitionEn": "a tool used for writing",
-          "exampleEn": "I wrote with a pencil.",
-          "icon": "✏️"
-        },
-        "ደብተር": {
-          "meaningEn": "notebook",
-          "meaningAm": "ለመጻፍ የሚሆን የወረቀት ስብስብ",
-          "exampleAm": "ደብተሬ ጠፋ።",
-          "transliteration": "debter",
-          "difficulty": 2,
-          "category": "school",
-          "definitionEn": "a collection of paper for writing",
-          "exampleEn": "My notebook is lost.",
-          "icon": "📓"
-        }
-      }
-    },
-    {
-      "id": 115,
-      "title": "At School",
-      "section": "School",
-      "chapter": "Daily Life",
-      "letters": [
-        "ወ",
-        "ረ",
-        "ቀ",
-        "ት",
-        "ጥ",
-        "ያ",
-        "ቄ"
-      ],
-      "requiredWords": [
-        "ወረቀት",
-        "ጥያቄ"
-      ],
-      "wordDetails": {
-        "ወረቀት": {
-          "meaningEn": "paper",
-          "meaningAm": "ለመጻፍና ለማተም የሚሆን",
-          "exampleAm": "ወረቀት ላይ ሣለ።",
-          "transliteration": "wereqet",
-          "difficulty": 2,
-          "category": "school",
-          "definitionEn": "material for writing and printing",
-          "exampleEn": "He drew on paper.",
-          "icon": "📄"
-        },
-        "ጥያቄ": {
-          "meaningEn": "question",
-          "meaningAm": "መልስ የሚፈልግ አባባል",
-          "exampleAm": "አንድ ጥያቄ አለኝ።",
-          "transliteration": "tiyaqe",
-          "difficulty": 2,
-          "category": "school",
-          "definitionEn": "a statement that seeks an answer",
-          "exampleEn": "I have a question.",
-          "icon": "❓"
-        }
-      }
-    },
-    {
-      "id": 116,
-      "title": "Week & Year",
-      "section": "Time",
-      "chapter": "Foundations",
-      "letters": [
-        "ሳ",
-        "ም",
-        "ን",
-        "ት",
-        "ዓ",
-        "መ"
-      ],
-      "requiredWords": [
-        "ሳምንት",
-        "ዓመት"
-      ],
-      "wordDetails": {
-        "ሳምንት": {
-          "meaningEn": "week",
-          "meaningAm": "ሰባት ቀናት ያሉት ጊዜ",
-          "exampleAm": "በሳምንት ሰባት ቀን አለ።",
-          "transliteration": "samint",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "a period of seven days",
-          "exampleEn": "There are seven days in a week."
-        },
-        "ዓመት": {
-          "meaningEn": "year",
-          "meaningAm": "አስራ ሁለት ወራት ያሉት ጊዜ",
-          "exampleAm": "አዲስ ዓመት መጣ።",
-          "transliteration": "amet",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "a period of twelve months",
-          "exampleEn": "The new year has come."
-        }
-      }
-    },
-    {
-      "id": 117,
-      "title": "Easy & Hard",
-      "section": "More Describing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ቀ",
-        "ላ",
-        "ል",
-        "ከ",
-        "ባ",
-        "ድ"
-      ],
-      "requiredWords": [
-        "ቀላል",
-        "ከባድ"
-      ],
-      "wordDetails": {
-        "ቀላል": {
-          "meaningEn": "easy; light",
-          "meaningAm": "የማይከብድ",
-          "exampleAm": "ጥያቄው ቀላል ነበር።",
-          "transliteration": "qelal",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "not difficult",
-          "exampleEn": "The question was easy."
-        },
-        "ከባድ": {
-          "meaningEn": "hard; heavy",
-          "meaningAm": "የሚከብድ",
-          "exampleAm": "ሸክሙ ከባድ ነው።",
-          "transliteration": "kebad",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "difficult; weighty",
-          "exampleEn": "The load is heavy."
-        }
-      }
-    },
-    {
-      "id": 118,
-      "title": "Floor & Wall",
-      "section": "The House",
-      "chapter": "Around You",
-      "letters": [
-        "ወ",
-        "ለ",
-        "ል",
-        "ግ",
-        "ግ",
-        "ድ",
-        "ዳ"
-      ],
-      "requiredWords": [
-        "ወለል",
-        "ግድግዳ"
-      ],
-      "wordDetails": {
-        "ወለል": {
-          "meaningEn": "floor",
-          "meaningAm": "የቤት የታችኛው የሚረገጥ ክፍል",
-          "exampleAm": "ወለሉን ጠረገች።",
-          "transliteration": "welel",
-          "difficulty": 2,
-          "category": "household",
-          "definitionEn": "the lower surface of a house that is walked on",
-          "exampleEn": "She swept the floor."
-        },
-        "ግድግዳ": {
-          "meaningEn": "wall",
-          "meaningAm": "ቤትን የሚከልል ቀጥ ያለ ክፍል",
-          "exampleAm": "ግድግዳው ላይ ስዕል ሰቀለ።",
-          "transliteration": "gidgida",
-          "difficulty": 3,
-          "category": "household",
-          "definitionEn": "the upright part that encloses a house",
-          "exampleEn": "He hung a picture on the wall.",
-          "icon": "🧱"
-        }
-      }
-    },
-    {
-      "id": 119,
-      "title": "Roof & Fence",
-      "section": "The House",
-      "chapter": "Around You",
-      "letters": [
-        "ጣ",
-        "ሪ",
-        "ያ",
-        "አ",
-        "ጥ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ጣሪያ",
-        "አጥር"
-      ],
-      "wordDetails": {
-        "ጣሪያ": {
-          "meaningEn": "roof",
-          "meaningAm": "የቤት የላይኛው መከለያ",
-          "exampleAm": "ጣሪያው ያፈሳል።",
-          "transliteration": "tariya",
-          "difficulty": 2,
-          "category": "household",
-          "definitionEn": "the upper covering of a house",
-          "exampleEn": "The roof leaks."
-        },
-        "አጥር": {
-          "meaningEn": "fence",
-          "meaningAm": "ግቢን የሚከልል",
-          "exampleAm": "አጥሩ ከፍ ያለ ነው።",
-          "transliteration": "atir",
-          "difficulty": 2,
-          "category": "household",
-          "definitionEn": "what encloses a compound",
-          "exampleEn": "The fence is high."
-        }
-      }
-    },
-    {
-      "id": 120,
+      "id": 121,
       "title": "Everyday Verbs I",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4840,7 +4986,7 @@
       }
     },
     {
-      "id": 121,
+      "id": 122,
       "title": "Everyday Verbs II",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4890,35 +5036,6 @@
           "category": "verbs",
           "definitionEn": "to carry out work",
           "exampleEn": "I work in an office."
-        }
-      }
-    },
-    {
-      "id": 122,
-      "title": "Time Words I",
-      "section": "Time Words",
-      "chapter": "Foundations",
-      "letters": [
-        "ት",
-        "ት",
-        "ና",
-        "ን",
-        "ወ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ወር"
-      ],
-      "wordDetails": {
-        "ወር": {
-          "meaningEn": "month",
-          "meaningAm": "ሰላሳ ቀናት ገደማ ያለው ጊዜ",
-          "exampleAm": "በዓመት አስራ ሁለት ወራት አሉ።",
-          "transliteration": "wer",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "a period of about thirty days",
-          "exampleEn": "There are twelve months in a year."
         }
       }
     },
@@ -5121,199 +5238,6 @@
           "category": "verbs",
           "definitionEn": "to perform a song",
           "exampleEn": "The singer sang well."
-        }
-      }
-    },
-    {
-      "id": 128,
-      "title": "Plane & Bike",
-      "section": "Transport",
-      "chapter": "Daily Life",
-      "letters": [
-        "አ",
-        "ው",
-        "ሮ",
-        "ፕ",
-        "ላ",
-        "ን",
-        "ብ",
-        "ስ",
-        "ክ",
-        "ሌ",
-        "ት"
-      ],
-      "requiredWords": [
-        "አውሮፕላን"
-      ],
-      "wordDetails": {
-        "አውሮፕላን": {
-          "meaningEn": "airplane",
-          "meaningAm": "በአየር ላይ የሚበር ማመላለሻ",
-          "exampleAm": "አውሮፕላኑ ወደ ሰማይ በረረ።",
-          "transliteration": "awroplan",
-          "difficulty": 3,
-          "category": "transport",
-          "definitionEn": "a vehicle that flies in the air",
-          "exampleEn": "The airplane flew into the sky.",
-          "icon": "✈️"
-        }
-      }
-    },
-    {
-      "id": 129,
-      "title": "Boat & Station",
-      "section": "Transport",
-      "chapter": "Daily Life",
-      "letters": [
-        "ጀ",
-        "ል",
-        "ባ",
-        "ጣ",
-        "ቢ",
-        "ያ"
-      ],
-      "requiredWords": [
-        "ጣቢያ"
-      ],
-      "wordDetails": {
-        "ጣቢያ": {
-          "meaningEn": "station",
-          "meaningAm": "ባቡር ወይም አውቶቡስ የሚቆምበት ቦታ",
-          "exampleAm": "በጣቢያው ባቡር እጠብቃለሁ።",
-          "transliteration": "tabiya",
-          "difficulty": 2,
-          "category": "transport",
-          "definitionEn": "a place where trains or buses stop",
-          "exampleEn": "I wait for the train at the station.",
-          "icon": "🚉"
-        }
-      }
-    },
-    {
-      "id": 130,
-      "title": "Hotel & Bank",
-      "section": "Places II",
-      "chapter": "Daily Life",
-      "letters": [
-        "ሆ",
-        "ቴ",
-        "ል",
-        "ባ",
-        "ን",
-        "ክ"
-      ],
-      "requiredWords": [
-        "ሆቴል",
-        "ባንክ"
-      ],
-      "wordDetails": {
-        "ሆቴል": {
-          "meaningEn": "hotel",
-          "meaningAm": "ለማደርና ለመመገብ የሚያገለግል ቦታ",
-          "exampleAm": "በሆቴል ውስጥ አደርን።",
-          "transliteration": "hotel",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a place for staying overnight and eating",
-          "exampleEn": "We stayed in a hotel.",
-          "icon": "🏨"
-        },
-        "ባንክ": {
-          "meaningEn": "bank",
-          "meaningAm": "ገንዘብ የሚቀመጥበትና የሚበደርበት ተቋም",
-          "exampleAm": "ገንዘብ ለማስቀመጥ ወደ ባንክ ሄድኩ።",
-          "transliteration": "bank",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "an institution where money is kept and borrowed",
-          "exampleEn": "I went to the bank to deposit money.",
-          "icon": "🏦"
-        }
-      }
-    },
-    {
-      "id": 131,
-      "title": "Hospital & Mosque",
-      "section": "Places II",
-      "chapter": "Daily Life",
-      "letters": [
-        "ሆ",
-        "ስ",
-        "ፒ",
-        "ታ",
-        "ል",
-        "መ",
-        "ጊ",
-        "ድ"
-      ],
-      "requiredWords": [
-        "ሆስፒታል",
-        "መስጊድ"
-      ],
-      "wordDetails": {
-        "ሆስፒታል": {
-          "meaningEn": "hospital",
-          "meaningAm": "በሽተኞች የሚታከሙበት ቦታ",
-          "exampleAm": "ሕመምተኛውን ወደ ሆስፒታል ወሰዱት።",
-          "transliteration": "hospital",
-          "difficulty": 3,
-          "category": "places",
-          "definitionEn": "a place where the sick are treated",
-          "exampleEn": "They took the patient to the hospital.",
-          "icon": "🏥"
-        },
-        "መስጊድ": {
-          "meaningEn": "mosque",
-          "meaningAm": "ሙስሊሞች የሚጸልዩበት ቦታ",
-          "exampleAm": "መስጊዱ ሰፊ ነው።",
-          "transliteration": "mesgid",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a place where Muslims pray",
-          "exampleEn": "The mosque is spacious.",
-          "icon": "🕌"
-        }
-      }
-    },
-    {
-      "id": 132,
-      "title": "Office & Bridge",
-      "section": "Places II",
-      "chapter": "Daily Life",
-      "letters": [
-        "ቢ",
-        "ሮ",
-        "ድ",
-        "ድ",
-        "ል",
-        "ይ"
-      ],
-      "requiredWords": [
-        "ቢሮ",
-        "ድልድይ"
-      ],
-      "wordDetails": {
-        "ቢሮ": {
-          "meaningEn": "office",
-          "meaningAm": "ሰዎች የሚሰሩበት የሥራ ክፍል",
-          "exampleAm": "ቢሮዬ ሁለተኛ ፎቅ ላይ ነው።",
-          "transliteration": "biro",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a workroom where people work",
-          "exampleEn": "My office is on the second floor.",
-          "icon": "🏢"
-        },
-        "ድልድይ": {
-          "meaningEn": "bridge",
-          "meaningAm": "ወንዝ ወይም መንገድ ለማቋረጥ የሚሰራ",
-          "exampleAm": "መኪናው ድልድዩን አቋረጠ።",
-          "transliteration": "dildiy",
-          "difficulty": 3,
-          "category": "places",
-          "definitionEn": "a structure built to cross a river or road",
-          "exampleEn": "The car crossed the bridge.",
-          "icon": "🌉"
         }
       }
     }
