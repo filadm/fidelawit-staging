@@ -746,7 +746,9 @@
           "exampleAm": "ራሴ ያመኛል።",
           "transliteration": "ras",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the upper part of the body, where the brain is",
+          "exampleEn": "My head hurts."
         },
         "እጅ": {
           "meaningEn": "hand",
@@ -754,7 +756,9 @@
           "exampleAm": "በእጄ እጽፋለሁ።",
           "transliteration": "ij",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the body part we use to hold and work",
+          "exampleEn": "I write with my hand."
         },
         "አፍ": {
           "meaningEn": "mouth",
@@ -762,7 +766,9 @@
           "exampleAm": "አፍህን ክፈት።",
           "transliteration": "af",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the part of the face used for eating and speaking",
+          "exampleEn": "Open your mouth."
         }
       }
     },
@@ -792,7 +798,9 @@
           "exampleAm": "በእግሬ ወደ ትምህርት ቤት እሄዳለሁ።",
           "transliteration": "igir",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the body part we use to walk",
+          "exampleEn": "I go to school on foot."
         },
         "ጆሮ": {
           "meaningEn": "ear",
@@ -800,7 +808,9 @@
           "exampleAm": "በጆሮ እንሰማለን።",
           "transliteration": "joro",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the body part used for hearing",
+          "exampleEn": "We hear with our ears."
         },
         "ልብ": {
           "meaningEn": "heart",
@@ -808,7 +818,9 @@
           "exampleAm": "ልቤ በፍጥነት ይመታል።",
           "transliteration": "lib",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the organ that pumps blood; the center of emotion",
+          "exampleEn": "My heart beats fast."
         }
       }
     },
@@ -836,7 +848,9 @@
           "exampleAm": "ዓይኖቿ ቆንጆ ናቸው።",
           "transliteration": "ayn",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the body part used for seeing",
+          "exampleEn": "Her eyes are beautiful."
         },
         "ጥርስ": {
           "meaningEn": "tooth",
@@ -844,7 +858,9 @@
           "exampleAm": "ጥርስህን በደንብ ጥረግ።",
           "transliteration": "tirs",
           "difficulty": 2,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the part in the mouth used to chew food",
+          "exampleEn": "Brush your teeth well."
         }
       }
     },
@@ -873,7 +889,9 @@
           "exampleAm": "ወንድሜ ከእኔ ይበልጣል።",
           "transliteration": "wendim",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a male child of the same parents",
+          "exampleEn": "My brother is older than me."
         },
         "እህት": {
           "meaningEn": "sister",
@@ -881,7 +899,9 @@
           "exampleAm": "እህቴ ተማሪ ናት።",
           "transliteration": "ihit",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a female child of the same parents",
+          "exampleEn": "My sister is a student."
         }
       }
     },
@@ -908,7 +928,9 @@
           "exampleAm": "ያቺ ሴት አስተማሪ ናት።",
           "transliteration": "set",
           "difficulty": 1,
-          "category": "people"
+          "category": "people",
+          "definitionEn": "a person of the female sex",
+          "exampleEn": "That woman is a teacher."
         },
         "ወንድ": {
           "meaningEn": "man",
@@ -916,7 +938,9 @@
           "exampleAm": "ያ ወንድ ረጅም ነው።",
           "transliteration": "wend",
           "difficulty": 1,
-          "category": "people"
+          "category": "people",
+          "definitionEn": "a person of the male sex",
+          "exampleEn": "That man is tall."
         }
       }
     },
@@ -943,7 +967,9 @@
           "exampleAm": "በማለዳ ወተት እጠጣለሁ።",
           "transliteration": "wetet",
           "difficulty": 1,
-          "category": "drink"
+          "category": "drink",
+          "definitionEn": "a white drink that comes from cattle",
+          "exampleEn": "I drink milk in the morning."
         },
         "ሻይ": {
           "meaningEn": "tea",
@@ -951,7 +977,9 @@
           "exampleAm": "ሻይ ከስኳር ጋር እወዳለሁ።",
           "transliteration": "shay",
           "difficulty": 1,
-          "category": "drink"
+          "category": "drink",
+          "definitionEn": "a warm drink brewed from leaves",
+          "exampleEn": "I like tea with sugar."
         }
       }
     },
@@ -981,7 +1009,9 @@
           "exampleAm": "ጠዋት ዳቦ በላሁ።",
           "transliteration": "dabo",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a food baked from flour",
+          "exampleEn": "I ate bread in the morning."
         },
         "ጨው": {
           "meaningEn": "salt",
@@ -989,7 +1019,9 @@
           "exampleAm": "ወጡ ጨው ይጎድለዋል።",
           "transliteration": "chew",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a white seasoning that flavors food",
+          "exampleEn": "The stew needs salt."
         },
         "ስኳር": {
           "meaningEn": "sugar",
@@ -997,7 +1029,9 @@
           "exampleAm": "ቡናዬ ውስጥ ስኳር ጨምር።",
           "transliteration": "sukar",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "what makes food and drink sweet",
+          "exampleEn": "Add sugar to my coffee."
         }
       }
     },
@@ -1026,7 +1060,9 @@
           "exampleAm": "ስጋ ወጥ እወዳለሁ።",
           "transliteration": "siga",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a food that comes from animals",
+          "exampleEn": "I like meat stew."
         },
         "እንቁላል": {
           "meaningEn": "egg",
@@ -1034,7 +1070,9 @@
           "exampleAm": "ጠዋት እንቁላል ተመገብኩ።",
           "transliteration": "inkulal",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "an oval food that comes from a hen",
+          "exampleEn": "I ate an egg in the morning."
         }
       }
     },
@@ -1062,7 +1100,9 @@
           "exampleAm": "ድመቷ ወተት ትጠጣለች።",
           "transliteration": "dimet",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a small animal kept at home",
+          "exampleEn": "The cat drinks milk."
         },
         "ፈረስ": {
           "meaningEn": "horse",
@@ -1070,7 +1110,9 @@
           "exampleAm": "ፈረሱ በፍጥነት ይሮጣል።",
           "transliteration": "feres",
           "difficulty": 2,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a strong animal used for riding",
+          "exampleEn": "The horse runs fast."
         }
       }
     },
@@ -1099,7 +1141,9 @@
           "exampleAm": "ዶሮዋ እንቁላል ጣለች።",
           "transliteration": "doro",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a domestic bird that lays eggs",
+          "exampleEn": "The hen laid an egg."
         },
         "አሳ": {
           "meaningEn": "fish",
@@ -1107,7 +1151,9 @@
           "exampleAm": "አሳ በወንዝ ውስጥ ይዋኛል።",
           "transliteration": "asa",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "an animal that lives in water",
+          "exampleEn": "The fish swims in the river."
         },
         "በግ": {
           "meaningEn": "sheep",
@@ -1115,7 +1161,9 @@
           "exampleAm": "በጉ ሣር ይበላል።",
           "transliteration": "beg",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a domestic animal with wool",
+          "exampleEn": "The sheep eats grass."
         }
       }
     },
@@ -1143,7 +1191,9 @@
           "exampleAm": "ሰማዩ ጥርት ብሏል።",
           "transliteration": "semay",
           "difficulty": 1,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the wide expanse above the earth",
+          "exampleEn": "The sky is clear."
         },
         "ኮከብ": {
           "meaningEn": "star",
@@ -1151,7 +1201,9 @@
           "exampleAm": "ኮከቦች በሌሊት ያበራሉ።",
           "transliteration": "kokeb",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a body that shines in the sky at night",
+          "exampleEn": "The stars shine at night."
         }
       }
     },
@@ -1178,7 +1230,9 @@
           "exampleAm": "ዛፉ ጥላ ይሰጣል።",
           "transliteration": "zaf",
           "difficulty": 1,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a large plant with branches and leaves",
+          "exampleEn": "The tree gives shade."
         },
         "ባህር": {
           "meaningEn": "sea",
@@ -1186,7 +1240,9 @@
           "exampleAm": "ባህሩ በጣም ሰፊ ነው።",
           "transliteration": "bahir",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a large body of salt water",
+          "exampleEn": "The sea is very wide."
         }
       }
     },
@@ -1214,7 +1270,9 @@
           "exampleAm": "ዛሬ ዝናብ ዘነበ።",
           "transliteration": "zinab",
           "difficulty": 2,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "water that falls from the clouds",
+          "exampleEn": "It rained today."
         },
         "ነፋስ": {
           "meaningEn": "wind",
@@ -1222,7 +1280,9 @@
           "exampleAm": "ነፋሱ ዛፎችን ያወዛውዛል።",
           "transliteration": "nefas",
           "difficulty": 2,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "moving air",
+          "exampleEn": "The wind sways the trees."
         }
       }
     },
@@ -1252,7 +1312,9 @@
           "exampleAm": "ቀይ አበባ ወደድኩ።",
           "transliteration": "qey",
           "difficulty": 1,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of blood",
+          "exampleEn": "I liked the red flower."
         },
         "ነጭ": {
           "meaningEn": "white",
@@ -1260,7 +1322,9 @@
           "exampleAm": "ነጭ ሸሚዝ ለበሰ።",
           "transliteration": "nech",
           "difficulty": 1,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of milk",
+          "exampleEn": "He wore a white shirt."
         },
         "ጥቁር": {
           "meaningEn": "black",
@@ -1268,7 +1332,9 @@
           "exampleAm": "ጥቁር ጫማ ገዛሁ።",
           "transliteration": "tiqur",
           "difficulty": 2,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of darkness",
+          "exampleEn": "I bought black shoes."
         }
       }
     },
@@ -1295,7 +1361,9 @@
           "exampleAm": "ሌሊት ላይ ኮከቦች ይታያሉ።",
           "transliteration": "lelit",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the dark time from evening to dawn",
+          "exampleEn": "Stars appear at night."
         },
         "ሰዓት": {
           "meaningEn": "hour; time",
@@ -1303,7 +1371,9 @@
           "exampleAm": "አሁን ስንት ሰዓት ነው?",
           "transliteration": "se'at",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "a unit of time; 60 minutes",
+          "exampleEn": "What time is it now?"
         }
       }
     },
@@ -1331,7 +1401,9 @@
           "exampleAm": "ምሳ መብላት እፈልጋለሁ።",
           "transliteration": "meblat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to take food into the body",
+          "exampleEn": "I want to eat lunch."
         },
         "መጠጣት": {
           "meaningEn": "to drink",
@@ -1339,7 +1411,9 @@
           "exampleAm": "ውሃ መጠጣት ለጤና ጠቃሚ ነው።",
           "transliteration": "metetat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to take in liquid",
+          "exampleEn": "Drinking water is good for your health."
         }
       }
     },
@@ -1369,7 +1443,9 @@
           "exampleAm": "ትልቅ ቤት አላቸው።",
           "transliteration": "tiliq",
           "difficulty": 1,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "large in size",
+          "exampleEn": "They have a big house."
         },
         "ትንሽ": {
           "meaningEn": "small",
@@ -1377,7 +1453,9 @@
           "exampleAm": "ትንሽ ድመት አለኝ።",
           "transliteration": "tinish",
           "difficulty": 1,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "small in size",
+          "exampleEn": "I have a small cat."
         },
         "ጥሩ": {
           "meaningEn": "good",
@@ -1385,7 +1463,9 @@
           "exampleAm": "እሱ ጥሩ ሰው ነው።",
           "transliteration": "tiru",
           "difficulty": 1,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "fine; pleasing",
+          "exampleEn": "He is a good person."
         }
       }
     },
@@ -1413,7 +1493,9 @@
           "exampleAm": "ወደ ገበያ ሄጄ አትክልት ገዛሁ።",
           "transliteration": "gebeya",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a place where goods are bought and sold",
+          "exampleEn": "I went to the market and bought vegetables."
         },
         "መንገድ": {
           "meaningEn": "road; way",
@@ -1421,7 +1503,9 @@
           "exampleAm": "መንገዱ ረጅም ነው።",
           "transliteration": "menged",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a passage for going from place to place",
+          "exampleEn": "The road is long."
         }
       }
     },
@@ -1449,7 +1533,9 @@
           "exampleAm": "አዲስ አበባ ትልቅ ከተማ ናት።",
           "transliteration": "ketema",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a large place where many people live",
+          "exampleEn": "Addis Ababa is a big city."
         },
         "አገር": {
           "meaningEn": "country",
@@ -1457,7 +1543,9 @@
           "exampleAm": "ኢትዮጵያ የእኔ አገር ናት።",
           "transliteration": "ager",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a territory where a people lives",
+          "exampleEn": "Ethiopia is my country."
         }
       }
     },
@@ -1484,7 +1572,9 @@
           "exampleAm": "ከሱቅ ዳቦ ገዛሁ።",
           "transliteration": "suq",
           "difficulty": 1,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a small store where goods are sold",
+          "exampleEn": "I bought bread from the shop."
         },
         "ባቡር": {
           "meaningEn": "train",
@@ -1492,7 +1582,9 @@
           "exampleAm": "ባቡሩ በፍጥነት ይሄዳል።",
           "transliteration": "babur",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a long vehicle that travels on rails",
+          "exampleEn": "The train goes fast."
         }
       }
     },
@@ -1519,7 +1611,9 @@
           "exampleAm": "አበበች ቀይ ቀሚስ ለበሰች።",
           "transliteration": "qemis",
           "difficulty": 2,
-          "category": "clothing"
+          "category": "clothing",
+          "definitionEn": "a garment worn by women",
+          "exampleEn": "Abebech wore a red dress."
         },
         "ጫማ": {
           "meaningEn": "shoe",
@@ -1527,7 +1621,9 @@
           "exampleAm": "አዲስ ጫማ ገዛሁ።",
           "transliteration": "chama",
           "difficulty": 1,
-          "category": "clothing"
+          "category": "clothing",
+          "definitionEn": "footwear worn on the feet",
+          "exampleEn": "I bought new shoes."
         }
       }
     },
@@ -1554,7 +1650,9 @@
           "exampleAm": "ሰማያዊ ሱሪ ለበሰ።",
           "transliteration": "suri",
           "difficulty": 2,
-          "category": "clothing"
+          "category": "clothing",
+          "definitionEn": "a garment worn below the waist",
+          "exampleEn": "He wore blue trousers."
         },
         "ኮፍያ": {
           "meaningEn": "hat",
@@ -1562,7 +1660,9 @@
           "exampleAm": "ፀሐይ ሲኖር ኮፍያ አደርጋለሁ።",
           "transliteration": "kofiya",
           "difficulty": 2,
-          "category": "clothing"
+          "category": "clothing",
+          "definitionEn": "a covering worn on the head",
+          "exampleEn": "I wear a hat when it's sunny."
         }
       }
     },
@@ -1589,7 +1689,9 @@
           "exampleAm": "አስተማሪው ትምህርት ሰጠ።",
           "transliteration": "astemari",
           "difficulty": 3,
-          "category": "jobs"
+          "category": "jobs",
+          "definitionEn": "a person who teaches students",
+          "exampleEn": "The teacher gave a lesson."
         },
         "ተማሪ": {
           "meaningEn": "student",
@@ -1597,7 +1699,9 @@
           "exampleAm": "እሷ ጎበዝ ተማሪ ናት።",
           "transliteration": "temari",
           "difficulty": 2,
-          "category": "jobs"
+          "category": "jobs",
+          "definitionEn": "a person who studies",
+          "exampleEn": "She is a clever student."
         }
       }
     },
@@ -1626,7 +1730,9 @@
           "exampleAm": "ዶክተሩ ታካሚውን መረመረ።",
           "transliteration": "dokter",
           "difficulty": 2,
-          "category": "jobs"
+          "category": "jobs",
+          "definitionEn": "a professional who treats the sick",
+          "exampleEn": "The doctor examined the patient."
         },
         "ነጋዴ": {
           "meaningEn": "merchant",
@@ -1634,7 +1740,9 @@
           "exampleAm": "ነጋዴው ዕቃ ይሸጣል።",
           "transliteration": "negade",
           "difficulty": 2,
-          "category": "jobs"
+          "category": "jobs",
+          "definitionEn": "a person who buys and sells goods",
+          "exampleEn": "The merchant sells goods."
         }
       }
     },
@@ -1659,7 +1767,9 @@
           "exampleAm": "ይህ ሰው ማን ነው?",
           "transliteration": "man",
           "difficulty": 1,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about a person",
+          "exampleEn": "Who is this person?"
         },
         "ምን": {
           "meaningEn": "what",
@@ -1667,7 +1777,9 @@
           "exampleAm": "ምን ትፈልጋለህ?",
           "transliteration": "min",
           "difficulty": 1,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about a thing",
+          "exampleEn": "What do you want?"
         }
       }
     },
@@ -1693,7 +1805,9 @@
           "exampleAm": "የት ትኖራለህ?",
           "transliteration": "yet",
           "difficulty": 1,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about a place",
+          "exampleEn": "Where do you live?"
         },
         "መቼ": {
           "meaningEn": "when",
@@ -1701,7 +1815,9 @@
           "exampleAm": "መቼ ትመጣለህ?",
           "transliteration": "meche",
           "difficulty": 2,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about time",
+          "exampleEn": "When are you coming?"
         }
       }
     },
@@ -1729,7 +1845,9 @@
           "exampleAm": "ለምን አዘንክ?",
           "transliteration": "lemin",
           "difficulty": 2,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about a reason",
+          "exampleEn": "Why are you sad?"
         },
         "እንዴት": {
           "meaningEn": "how",
@@ -1737,7 +1855,9 @@
           "exampleAm": "እንዴት ነህ?",
           "transliteration": "indet",
           "difficulty": 2,
-          "category": "questions"
+          "category": "questions",
+          "definitionEn": "a word used to ask about manner",
+          "exampleEn": "How are you?"
         }
       }
     },
@@ -1765,7 +1885,9 @@
           "exampleAm": "ወደ ቤት መሄድ እፈልጋለሁ።",
           "transliteration": "mehed",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to move from one place to another",
+          "exampleEn": "I want to go home."
         },
         "መምጣት": {
           "meaningEn": "to come",
@@ -1773,7 +1895,9 @@
           "exampleAm": "በሰዓቱ መምጣት አለብህ።",
           "transliteration": "memtat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to approach here",
+          "exampleEn": "You must come on time."
         }
       }
     },
@@ -1802,7 +1926,9 @@
           "exampleAm": "መጽሐፍ ማንበብ እወዳለሁ።",
           "transliteration": "manbeb",
           "difficulty": 3,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to look at and understand what is written",
+          "exampleEn": "I like to read books."
         },
         "መጻፍ": {
           "meaningEn": "to write",
@@ -1810,7 +1936,9 @@
           "exampleAm": "ደብዳቤ መጻፍ ጀመረ።",
           "transliteration": "metsaf",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to put down letters with a pen",
+          "exampleEn": "He began to write a letter."
         }
       }
     },
@@ -1838,7 +1966,9 @@
           "exampleAm": "ረጅም ዛፍ ይታያል።",
           "transliteration": "rejim",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "great in height or length",
+          "exampleEn": "A tall tree is visible."
         },
         "አጭር": {
           "meaningEn": "short",
@@ -1846,7 +1976,9 @@
           "exampleAm": "አጭር መንገድ ተጠቀምን።",
           "transliteration": "achir",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "small in height or length",
+          "exampleEn": "We took a short road."
         }
       }
     },
@@ -1874,7 +2006,9 @@
           "exampleAm": "ዛሬ አየሩ ሞቃት ነው።",
           "transliteration": "moqat",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "having heat",
+          "exampleEn": "The weather is hot today."
         },
         "ቀዝቃዛ": {
           "meaningEn": "cold",
@@ -1882,7 +2016,9 @@
           "exampleAm": "ቀዝቃዛ ውሃ ጠጣሁ።",
           "transliteration": "qezqaza",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "having coldness",
+          "exampleEn": "I drank cold water."
         }
       }
     },
@@ -1911,7 +2047,9 @@
           "exampleAm": "ፈጣን መኪና ነው።",
           "transliteration": "fetan",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "moving quickly",
+          "exampleEn": "It is a fast car."
         },
         "ቀርፋፋ": {
           "meaningEn": "slow",
@@ -1919,7 +2057,9 @@
           "exampleAm": "ቀርፋፋ ኤሊ ነው።",
           "transliteration": "qerfafa",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "moving slowly; lacking speed",
+          "exampleEn": "It is a slow tortoise."
         }
       }
     },
@@ -1947,7 +2087,9 @@
           "exampleAm": "መጽሐፉ ጠረጴዛው ላይ ነው።",
           "transliteration": "terepeza",
           "difficulty": 3,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "a legged piece of furniture for placing things on",
+          "exampleEn": "The book is on the table."
         },
         "በር": {
           "meaningEn": "door",
@@ -1955,7 +2097,9 @@
           "exampleAm": "በሩን ዝጋው።",
           "transliteration": "ber",
           "difficulty": 1,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "the entrance and exit of a house",
+          "exampleEn": "Close the door."
         }
       }
     },
@@ -1984,7 +2128,9 @@
           "exampleAm": "ወንበሩ ላይ ተቀመጠ።",
           "transliteration": "wenber",
           "difficulty": 2,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "a piece of furniture used for sitting",
+          "exampleEn": "He sat on the chair."
         },
         "አልጋ": {
           "meaningEn": "bed",
@@ -1992,7 +2138,9 @@
           "exampleAm": "ልጁ አልጋ ላይ ተኛ።",
           "transliteration": "alga",
           "difficulty": 2,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "a piece of furniture used for sleeping",
+          "exampleEn": "The child slept on the bed."
         }
       }
     },
@@ -2020,7 +2168,9 @@
           "exampleAm": "ፊቷ ላይ ደስታ ይነበባል።",
           "transliteration": "desta",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of joy",
+          "exampleEn": "Happiness can be read on her face."
         },
         "ሐዘን": {
           "meaningEn": "sadness",
@@ -2028,7 +2178,9 @@
           "exampleAm": "ዜናው ሐዘን አመጣ።",
           "transliteration": "hazen",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of sorrow",
+          "exampleEn": "The news brought sadness."
         }
       }
     },
@@ -2056,7 +2208,9 @@
           "exampleAm": "ጨለማ ፍርሃት ይፈጥርብኛል።",
           "transliteration": "firhat",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of being afraid",
+          "exampleEn": "Darkness creates fear in me."
         },
         "ቁጣ": {
           "meaningEn": "anger",
@@ -2064,7 +2218,9 @@
           "exampleAm": "በቁጣ ተናገረ።",
           "transliteration": "qutta",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of being angry",
+          "exampleEn": "He spoke in anger."
         }
       }
     },
@@ -2091,7 +2247,9 @@
           "exampleAm": "ፊልም ማየት እወዳለሁ።",
           "transliteration": "mayet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to look with the eyes",
+          "exampleEn": "I like to watch films."
         },
         "መስማት": {
           "meaningEn": "to hear",
@@ -2099,7 +2257,9 @@
           "exampleAm": "ሙዚቃ መስማት ያስደስታል።",
           "transliteration": "mesmat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to receive sound with the ears",
+          "exampleEn": "Listening to music is enjoyable."
         }
       }
     },
@@ -2128,7 +2288,9 @@
           "exampleAm": "በአደባባይ መናገር ይፈራል።",
           "transliteration": "menager",
           "difficulty": 3,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to express a thought in words",
+          "exampleEn": "He is afraid to speak in public."
         },
         "መውደድ": {
           "meaningEn": "to love",
@@ -2136,7 +2298,9 @@
           "exampleAm": "ልጆችን መውደድ ተፈጥሮ ነው።",
           "transliteration": "mewded",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to show love for something",
+          "exampleEn": "Loving children is natural."
         }
       }
     },
@@ -2163,7 +2327,9 @@
           "exampleAm": "ሙዝ መብላት እወዳለሁ።",
           "transliteration": "muz",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a sweet yellow fruit",
+          "exampleEn": "I like to eat bananas."
         },
         "ድንች": {
           "meaningEn": "potato",
@@ -2171,7 +2337,9 @@
           "exampleAm": "የድንች ጥብስ ጣፋጭ ነው።",
           "transliteration": "dinch",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a crop that grows underground",
+          "exampleEn": "Fried potatoes are delicious."
         }
       }
     },
@@ -2197,7 +2365,9 @@
           "exampleAm": "ሩዝ ከወጥ ጋር በላን።",
           "transliteration": "ruz",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a grain eaten after being boiled in water",
+          "exampleEn": "We ate rice with stew."
         },
         "ቅቤ": {
           "meaningEn": "butter",
@@ -2205,7 +2375,9 @@
           "exampleAm": "ዳቦውን በቅቤ ቀባ።",
           "transliteration": "qibe",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a fat made from milk",
+          "exampleEn": "He spread butter on the bread."
         }
       }
     },
@@ -2231,7 +2403,9 @@
           "exampleAm": "ዕቃው መደርደሪያው ላይ ነው።",
           "transliteration": "lay",
           "difficulty": 1,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "the direction above something",
+          "exampleEn": "The item is on the shelf."
         },
         "ታች": {
           "meaningEn": "down; under",
@@ -2239,7 +2413,9 @@
           "exampleAm": "ኳሷ ታች ወደቀች።",
           "transliteration": "tach",
           "difficulty": 1,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "the direction below something",
+          "exampleEn": "The ball fell down."
         }
       }
     },
@@ -2265,7 +2441,9 @@
           "exampleAm": "ውሻው ቤት ውስጥ ነው።",
           "transliteration": "wist",
           "difficulty": 1,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "located within something",
+          "exampleEn": "The dog is inside the house."
         },
         "ውጭ": {
           "meaningEn": "outside",
@@ -2273,7 +2451,9 @@
           "exampleAm": "ልጆቹ ውጭ ይጫወታሉ።",
           "transliteration": "wich",
           "difficulty": 1,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "located outside something",
+          "exampleEn": "The children play outside."
         }
       }
     },
@@ -2299,7 +2479,9 @@
           "exampleAm": "ቀኝ እጁን አወጣ።",
           "transliteration": "qegn",
           "difficulty": 2,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "the direction opposite to left",
+          "exampleEn": "He raised his right hand."
         },
         "ግራ": {
           "meaningEn": "left",
@@ -2307,7 +2489,9 @@
           "exampleAm": "ግራ በኩል ታጠፍ።",
           "transliteration": "gra",
           "difficulty": 1,
-          "category": "directions"
+          "category": "directions",
+          "definitionEn": "the direction opposite to right",
+          "exampleEn": "Turn to the left."
         }
       }
     },
@@ -2333,7 +2517,9 @@
           "exampleAm": "ወንዙ ሞልቶ ይፈሳል።",
           "transliteration": "wenz",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a large flowing channel of water",
+          "exampleEn": "The river flows full."
         },
         "ደን": {
           "meaningEn": "forest",
@@ -2341,7 +2527,9 @@
           "exampleAm": "በደኑ ውስጥ እንስሳት አሉ።",
           "transliteration": "den",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a place with many trees",
+          "exampleEn": "There are animals in the forest."
         }
       }
     },
@@ -2369,7 +2557,9 @@
           "exampleAm": "ተራራው በጣም ከፍ ያለ ነው።",
           "transliteration": "terara",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a high landform",
+          "exampleEn": "The mountain is very high."
         },
         "በረዶ": {
           "meaningEn": "snow; ice",
@@ -2377,7 +2567,9 @@
           "exampleAm": "ተራራው ላይ በረዶ አለ።",
           "transliteration": "beredo",
           "difficulty": 2,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "frozen white water",
+          "exampleEn": "There is snow on the mountain."
         }
       }
     },
@@ -2482,7 +2674,9 @@
           "exampleAm": "ፊቱን ታጠበ።",
           "transliteration": "fit",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the front part of the head",
+          "exampleEn": "He washed his face."
         },
         "ጸጉር": {
           "meaningEn": "hair",
@@ -2490,7 +2684,9 @@
           "exampleAm": "ጸጉሯ ረጅም ነው።",
           "transliteration": "tsegur",
           "difficulty": 2,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "what grows on the head",
+          "exampleEn": "Her hair is long."
         }
       }
     },
@@ -2516,7 +2712,9 @@
           "exampleAm": "በጣቱ አመለከተ።",
           "transliteration": "tat",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the tips of the hand",
+          "exampleEn": "He pointed with his finger."
         },
         "ሆድ": {
           "meaningEn": "belly; stomach",
@@ -2524,7 +2722,9 @@
           "exampleAm": "ሆዴ ራበኝ።",
           "transliteration": "hod",
           "difficulty": 1,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the body part where food is digested",
+          "exampleEn": "I am hungry."
         }
       }
     },
@@ -2551,7 +2751,9 @@
           "exampleAm": "አህያው ሸክም ተሸከመ።",
           "transliteration": "ahya",
           "difficulty": 2,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "an animal used to carry goods",
+          "exampleEn": "The donkey carried a load."
         },
         "በሬ": {
           "meaningEn": "ox",
@@ -2559,7 +2761,9 @@
           "exampleAm": "በሬው መሬት ያርሳል።",
           "transliteration": "bere",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a male ox used for farming",
+          "exampleEn": "The ox plows the land."
         }
       }
     },
@@ -2586,7 +2790,9 @@
           "exampleAm": "እባቡ በሳር ውስጥ ተሸሸገ።",
           "transliteration": "ibab",
           "difficulty": 2,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a legless crawling animal",
+          "exampleEn": "The snake hid in the grass."
         },
         "ጦጣ": {
           "meaningEn": "monkey",
@@ -2594,7 +2800,9 @@
           "exampleAm": "ጦጣው ዛፍ ላይ ወጣ።",
           "transliteration": "tota",
           "difficulty": 2,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "an animal that lives in trees",
+          "exampleEn": "The monkey climbed the tree."
         }
       }
     },
@@ -2622,7 +2830,9 @@
           "exampleAm": "ደመናው ዝናብ አመጣ።",
           "transliteration": "demena",
           "difficulty": 2,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "water vapor seen in the sky",
+          "exampleEn": "The cloud brought rain."
         },
         "ጨረቃ": {
           "meaningEn": "moon",
@@ -2630,7 +2840,9 @@
           "exampleAm": "ጨረቃዋ ሞላች።",
           "transliteration": "chereqa",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the body seen in the sky at night",
+          "exampleEn": "The moon is full."
         }
       }
     },
@@ -2658,7 +2870,9 @@
           "exampleAm": "መብረቅ ብልጭ አለ።",
           "transliteration": "mebreq",
           "difficulty": 3,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "light that flashes from the clouds",
+          "exampleEn": "Lightning flashed."
         },
         "ጉም": {
           "meaningEn": "fog; mist",
@@ -2666,7 +2880,9 @@
           "exampleAm": "ጠዋት ጉም ወረደ።",
           "transliteration": "gum",
           "difficulty": 2,
-          "category": "weather"
+          "category": "weather",
+          "definitionEn": "cloud that settles near the ground",
+          "exampleEn": "Fog settled in the morning."
         }
       }
     },
@@ -2693,7 +2909,9 @@
           "exampleAm": "አስር ብር ከፈልኩ።",
           "transliteration": "bir",
           "difficulty": 1,
-          "category": "objects"
+          "category": "objects",
+          "definitionEn": "money used for buying (the Ethiopian birr)",
+          "exampleEn": "I paid ten birr."
         },
         "ስልክ": {
           "meaningEn": "phone",
@@ -2701,7 +2919,9 @@
           "exampleAm": "ስልኩ ጠራ።",
           "transliteration": "silk",
           "difficulty": 2,
-          "category": "objects"
+          "category": "objects",
+          "definitionEn": "a device used for talking",
+          "exampleEn": "The phone rang."
         }
       }
     },
@@ -2728,7 +2948,9 @@
           "exampleAm": "ልጆቹ ኳስ ይጫወታሉ።",
           "transliteration": "kuas",
           "difficulty": 1,
-          "category": "objects"
+          "category": "objects",
+          "definitionEn": "a round object used for playing",
+          "exampleEn": "The children play with a ball."
         },
         "ቁልፍ": {
           "meaningEn": "key",
@@ -2736,7 +2958,9 @@
           "exampleAm": "የቤቱ ቁልፍ ጠፋ።",
           "transliteration": "qulf",
           "difficulty": 2,
-          "category": "objects"
+          "category": "objects",
+          "definitionEn": "what is used to open a door",
+          "exampleEn": "The house key is lost."
         }
       }
     },
@@ -2765,7 +2989,9 @@
           "exampleAm": "በማለዳ መነሳት ጥሩ ነው።",
           "transliteration": "menesat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to wake from sleep; to rise",
+          "exampleEn": "Getting up early is good."
         },
         "መታጠብ": {
           "meaningEn": "to wash",
@@ -2773,7 +2999,9 @@
           "exampleAm": "ጠዋት መታጠብ ያነቃቃል።",
           "transliteration": "metateb",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to clean the body with water",
+          "exampleEn": "Washing in the morning is refreshing."
         }
       }
     },
@@ -2801,7 +3029,9 @@
           "exampleAm": "ወደ ክፍሉ መግባት ይፈልጋል።",
           "transliteration": "megbat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to go inside",
+          "exampleEn": "He wants to enter the room."
         },
         "መውጣት": {
           "meaningEn": "to go out",
@@ -2809,7 +3039,9 @@
           "exampleAm": "ከቤት መውጣት ጊዜው ደረሰ።",
           "transliteration": "mewtat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to go outside",
+          "exampleEn": "It's time to leave the house."
         }
       }
     },
@@ -2838,7 +3070,9 @@
           "exampleAm": "አረንጓዴ ሣር በዝቷል።",
           "transliteration": "arenguade",
           "difficulty": 3,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of leaves",
+          "exampleEn": "The green grass is plentiful."
         },
         "ቢጫ": {
           "meaningEn": "yellow",
@@ -2846,7 +3080,9 @@
           "exampleAm": "ቢጫ ልብስ ለበሰች።",
           "transliteration": "bicha",
           "difficulty": 1,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of a banana",
+          "exampleEn": "She wore a yellow dress."
         }
       }
     },
@@ -2874,7 +3110,9 @@
           "exampleAm": "ሰማያዊ ሱሪ ገዛሁ።",
           "transliteration": "semayawi",
           "difficulty": 2,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of the sky",
+          "exampleEn": "I bought blue trousers."
         },
         "ቡናማ": {
           "meaningEn": "brown",
@@ -2882,7 +3120,9 @@
           "exampleAm": "ቡናማ ጫማ አደረገ።",
           "transliteration": "bunama",
           "difficulty": 2,
-          "category": "colors"
+          "category": "colors",
+          "definitionEn": "the color of coffee",
+          "exampleEn": "He wore brown shoes."
         }
       }
     },
@@ -2911,7 +3151,9 @@
           "exampleAm": "ስጦታ መስጠት ያስደስታል።",
           "transliteration": "mestet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to hand over to another person",
+          "exampleEn": "Giving a gift is delightful."
         },
         "መውሰድ": {
           "meaningEn": "to take",
@@ -2919,7 +3161,9 @@
           "exampleAm": "ዣንጥላ መውሰድ አትርሳ።",
           "transliteration": "mewsed",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to carry away",
+          "exampleEn": "Don't forget to take an umbrella."
         }
       }
     },
@@ -2947,7 +3191,9 @@
           "exampleAm": "ዳቦ መግዛት እፈልጋለሁ።",
           "transliteration": "megzat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to obtain goods with money",
+          "exampleEn": "I want to buy bread."
         },
         "መሸጥ": {
           "meaningEn": "to sell",
@@ -2955,7 +3201,9 @@
           "exampleAm": "ነጋዴው ዕቃ መሸጥ ጀመረ።",
           "transliteration": "meshet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to exchange goods for money",
+          "exampleEn": "The merchant began to sell goods."
         }
       }
     },
@@ -2982,7 +3230,9 @@
           "exampleAm": "ማር በጣም ጣፋጭ ነው።",
           "transliteration": "mar",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a sweet liquid that comes from bees",
+          "exampleEn": "Honey is very sweet."
         },
         "ቅመም": {
           "meaningEn": "spice",
@@ -2990,7 +3240,9 @@
           "exampleAm": "ወጡ ቅመም ይፈልጋል።",
           "transliteration": "qimem",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "what gives food flavor",
+          "exampleEn": "The stew needs spice."
         }
       }
     },
@@ -3019,7 +3271,9 @@
           "exampleAm": "ሽንኩርት ስቆርጥ አለቀስኩ።",
           "transliteration": "shinkurt",
           "difficulty": 3,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a vegetable used for stew",
+          "exampleEn": "I cried while cutting the onion."
         },
         "ዘይት": {
           "meaningEn": "oil",
@@ -3027,7 +3281,9 @@
           "exampleAm": "ምግቡን በዘይት ጠበሰች።",
           "transliteration": "zeyt",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a liquid used for cooking",
+          "exampleEn": "She fried the food in oil."
         }
       }
     },
@@ -3053,7 +3309,9 @@
           "exampleAm": "አያቴ ተረት ትነግረኛለች።",
           "transliteration": "ayat",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a parent's mother or father",
+          "exampleEn": "My grandmother tells me stories."
         },
         "አጎት": {
           "meaningEn": "uncle",
@@ -3061,7 +3319,9 @@
           "exampleAm": "አጎቴ ከሩቅ መጣ።",
           "transliteration": "agot",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a mother's or father's brother",
+          "exampleEn": "My uncle came from far away."
         }
       }
     },
@@ -3088,7 +3348,9 @@
           "exampleAm": "አክስቴ ምግብ አበሰለች።",
           "transliteration": "akist",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a mother's or father's sister",
+          "exampleEn": "My aunt cooked food."
         },
         "ሚስት": {
           "meaningEn": "wife",
@@ -3096,7 +3358,9 @@
           "exampleAm": "ሚስቱ መምህር ናት።",
           "transliteration": "mist",
           "difficulty": 2,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a married woman; a husband's spouse",
+          "exampleEn": "His wife is a teacher."
         }
       }
     },
@@ -3125,7 +3389,9 @@
           "exampleAm": "ሐኪሙ መድሃኒት አዘዘ።",
           "transliteration": "medhanit",
           "difficulty": 3,
-          "category": "health"
+          "category": "health",
+          "definitionEn": "what is taken to treat illness",
+          "exampleEn": "The doctor prescribed medicine."
         },
         "ህመም": {
           "meaningEn": "pain; illness",
@@ -3133,7 +3399,9 @@
           "exampleAm": "የራስ ህመም አለብኝ።",
           "transliteration": "hmem",
           "difficulty": 2,
-          "category": "health"
+          "category": "health",
+          "definitionEn": "a feeling of being unwell",
+          "exampleEn": "I have a headache."
         }
       }
     },
@@ -3159,7 +3427,9 @@
           "exampleAm": "ጤና ከሁሉ ይበልጣል።",
           "transliteration": "tena",
           "difficulty": 2,
-          "category": "health"
+          "category": "health",
+          "definitionEn": "the state of being healthy",
+          "exampleEn": "Health is above everything."
         },
         "ደም": {
           "meaningEn": "blood",
@@ -3167,7 +3437,9 @@
           "exampleAm": "ቁስሉ ደም አፈሰሰ።",
           "transliteration": "dem",
           "difficulty": 2,
-          "category": "body"
+          "category": "body",
+          "definitionEn": "the red liquid that circulates in the body",
+          "exampleEn": "The wound shed blood."
         }
       }
     },
@@ -3196,7 +3468,9 @@
           "exampleAm": "በእርሳስ ጻፍኩ።",
           "transliteration": "irsas",
           "difficulty": 2,
-          "category": "school"
+          "category": "school",
+          "definitionEn": "a tool used for writing",
+          "exampleEn": "I wrote with a pencil."
         },
         "ደብተር": {
           "meaningEn": "notebook",
@@ -3204,7 +3478,9 @@
           "exampleAm": "ደብተሬ ጠፋ።",
           "transliteration": "debter",
           "difficulty": 2,
-          "category": "school"
+          "category": "school",
+          "definitionEn": "a collection of paper for writing",
+          "exampleEn": "My notebook is lost."
         }
       }
     },
@@ -3233,7 +3509,9 @@
           "exampleAm": "ወረቀት ላይ ሣለ።",
           "transliteration": "wereqet",
           "difficulty": 2,
-          "category": "school"
+          "category": "school",
+          "definitionEn": "material for writing and printing",
+          "exampleEn": "He drew on paper."
         },
         "ጥያቄ": {
           "meaningEn": "question",
@@ -3241,7 +3519,9 @@
           "exampleAm": "አንድ ጥያቄ አለኝ።",
           "transliteration": "tiyaqe",
           "difficulty": 2,
-          "category": "school"
+          "category": "school",
+          "definitionEn": "a statement that seeks an answer",
+          "exampleEn": "I have a question."
         }
       }
     },
@@ -3347,7 +3627,9 @@
           "exampleAm": "ንጹህ ልብስ ለበሰ።",
           "transliteration": "nitsuh",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "having no dirt",
+          "exampleEn": "He wore clean clothes."
         },
         "ቆሻሻ": {
           "meaningEn": "dirty",
@@ -3355,7 +3637,9 @@
           "exampleAm": "ቆሻሻ እጅ አታስገባ።",
           "transliteration": "qoshasha",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "soiled; lacking cleanliness",
+          "exampleEn": "Don't reach in with a dirty hand."
         }
       }
     },
@@ -3383,7 +3667,9 @@
           "exampleAm": "ጥያቄው ቀላል ነበር።",
           "transliteration": "qelal",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "not difficult",
+          "exampleEn": "The question was easy."
         },
         "ከባድ": {
           "meaningEn": "hard; heavy",
@@ -3391,7 +3677,9 @@
           "exampleAm": "ሸክሙ ከባድ ነው።",
           "transliteration": "kebad",
           "difficulty": 2,
-          "category": "adjectives"
+          "category": "adjectives",
+          "definitionEn": "difficult; weighty",
+          "exampleEn": "The load is heavy."
         }
       }
     },
@@ -3419,7 +3707,9 @@
           "exampleAm": "ከስራ በኋላ ድካም ይሰማኛል።",
           "transliteration": "dikam",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of being tired",
+          "exampleEn": "I feel tired after work."
         },
         "ረሃብ": {
           "meaningEn": "hunger",
@@ -3427,7 +3717,9 @@
           "exampleAm": "ረሃብ ተሰማው።",
           "transliteration": "rehab",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of being hungry",
+          "exampleEn": "He felt hunger."
         }
       }
     },
@@ -3456,7 +3748,9 @@
           "exampleAm": "በሙቀቱ ጥም ተሰማኝ።",
           "transliteration": "tim",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "a feeling of needing water",
+          "exampleEn": "I felt thirsty in the heat."
         },
         "እንቅልፍ": {
           "meaningEn": "sleep",
@@ -3464,7 +3758,9 @@
           "exampleAm": "ጥሩ እንቅልፍ ተኛሁ።",
           "transliteration": "inqilf",
           "difficulty": 2,
-          "category": "feelings"
+          "category": "feelings",
+          "definitionEn": "the state of sleeping",
+          "exampleEn": "I slept well."
         }
       }
     },
@@ -3492,7 +3788,9 @@
           "exampleAm": "አይብ ከእንጀራ ጋር በላሁ።",
           "transliteration": "ayb",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a food made from milk",
+          "exampleEn": "I ate cheese with injera."
         },
         "እርጎ": {
           "meaningEn": "yogurt",
@@ -3500,7 +3798,9 @@
           "exampleAm": "እርጎ ጣፋጭ ነው።",
           "transliteration": "irgo",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "curdled milk",
+          "exampleEn": "Yogurt is delicious."
         }
       }
     },
@@ -3527,7 +3827,9 @@
           "exampleAm": "ወጡ በጣም ጣፋጭ ነው።",
           "transliteration": "wet",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a dish made from meat or vegetables",
+          "exampleEn": "The stew is very delicious."
         },
         "ሾርባ": {
           "meaningEn": "soup",
@@ -3535,7 +3837,9 @@
           "exampleAm": "ሙቅ ሾርባ ጠጣ።",
           "transliteration": "shorba",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a liquid food",
+          "exampleEn": "He drank hot soup."
         }
       }
     },
@@ -3562,7 +3866,9 @@
           "exampleAm": "ከብቶቹ ሣር ይበላሉ።",
           "transliteration": "sar",
           "difficulty": 1,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a green plant that grows on the ground",
+          "exampleEn": "The cattle eat grass."
         },
         "ቅጠል": {
           "meaningEn": "leaf",
@@ -3570,7 +3876,9 @@
           "exampleAm": "ቅጠሉ ረገፈ።",
           "transliteration": "qitel",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the green part of a plant",
+          "exampleEn": "The leaf fell."
         }
       }
     },
@@ -3595,7 +3903,9 @@
           "exampleAm": "ገበሬው ዘር ዘራ።",
           "transliteration": "zer",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "what a new plant grows from",
+          "exampleEn": "The farmer sowed seed."
         },
         "ስር": {
           "meaningEn": "root",
@@ -3603,7 +3913,9 @@
           "exampleAm": "የዛፉ ስር ጠንካራ ነው።",
           "transliteration": "sir",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the underground part of a plant",
+          "exampleEn": "The tree's roots are strong."
         }
       }
     },
@@ -3632,7 +3944,9 @@
           "exampleAm": "ወለሉን ጠረገች።",
           "transliteration": "welel",
           "difficulty": 2,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "the lower surface of a house that is walked on",
+          "exampleEn": "She swept the floor."
         },
         "ግድግዳ": {
           "meaningEn": "wall",
@@ -3640,7 +3954,9 @@
           "exampleAm": "ግድግዳው ላይ ስዕል ሰቀለ።",
           "transliteration": "gidgida",
           "difficulty": 3,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "the upright part that encloses a house",
+          "exampleEn": "He hung a picture on the wall."
         }
       }
     },
@@ -3668,7 +3984,9 @@
           "exampleAm": "ጣሪያው ያፈሳል።",
           "transliteration": "tariya",
           "difficulty": 2,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "the upper covering of a house",
+          "exampleEn": "The roof leaks."
         },
         "አጥር": {
           "meaningEn": "fence",
@@ -3676,7 +3994,9 @@
           "exampleAm": "አጥሩ ከፍ ያለ ነው።",
           "transliteration": "atir",
           "difficulty": 2,
-          "category": "household"
+          "category": "household",
+          "definitionEn": "what encloses a compound",
+          "exampleEn": "The fence is high."
         }
       }
     },
@@ -3705,7 +4025,9 @@
           "exampleAm": "መልሱን አውቃለሁ።",
           "transliteration": "mawiq",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to have an understanding of something",
+          "exampleEn": "I know the answer."
         },
         "መፈለግ": {
           "meaningEn": "to want",
@@ -3713,7 +4035,9 @@
           "exampleAm": "ውሃ እፈልጋለሁ።",
           "transliteration": "mefeleg",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to desire something",
+          "exampleEn": "I want water."
         }
       }
     },
@@ -3745,7 +4069,9 @@
           "exampleAm": "ምን እያደረግህ ነው?",
           "transliteration": "madreg",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to carry out an action",
+          "exampleEn": "What are you doing?"
         },
         "መማር": {
           "meaningEn": "to learn",
@@ -3753,7 +4079,9 @@
           "exampleAm": "አማርኛ እማራለሁ።",
           "transliteration": "memar",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to gain new knowledge",
+          "exampleEn": "I am learning Amharic."
         },
         "መስራት": {
           "meaningEn": "to work",
@@ -3761,7 +4089,9 @@
           "exampleAm": "በቢሮ እሰራለሁ።",
           "transliteration": "mesrat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to carry out work",
+          "exampleEn": "I work in an office."
         }
       }
     },
@@ -3961,7 +4291,9 @@
           "exampleAm": "እባክህ እዚህ ተቀመጥ።",
           "transliteration": "mekemet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to rest on a seat",
+          "exampleEn": "Please sit here."
         },
         "መቆም": {
           "meaningEn": "to stand",
@@ -3969,7 +4301,9 @@
           "exampleAm": "ተማሪዎቹ ተነስተው ቆሙ።",
           "transliteration": "mekom",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to stand upright",
+          "exampleEn": "The students stood up."
         }
       }
     },
@@ -3997,7 +4331,9 @@
           "exampleAm": "ልጁ በሜዳ ሮጠ።",
           "transliteration": "merot",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to move quickly on foot",
+          "exampleEn": "The boy ran in the field."
         },
         "መራመድ": {
           "meaningEn": "to walk",
@@ -4005,7 +4341,9 @@
           "exampleAm": "በየቀኑ ብዙ እራመዳለሁ።",
           "transliteration": "meramed",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to go slowly on foot",
+          "exampleEn": "I walk a lot every day."
         }
       }
     },
@@ -4033,7 +4371,9 @@
           "exampleAm": "በሩን ክፈት።",
           "transliteration": "mekfet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to unclose something that is shut",
+          "exampleEn": "Open the door."
         },
         "መዝጋት": {
           "meaningEn": "to close",
@@ -4041,7 +4381,9 @@
           "exampleAm": "መስኮቱን ዝጋ።",
           "transliteration": "mezgat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to shut something that is open",
+          "exampleEn": "Close the window."
         }
       }
     },
@@ -4069,7 +4411,9 @@
           "exampleAm": "እናቴን በሥራ እረዳለሁ።",
           "transliteration": "merdat",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to give support to another person",
+          "exampleEn": "I help my mother with work."
         },
         "መጫወት": {
           "meaningEn": "to play",
@@ -4077,7 +4421,9 @@
           "exampleAm": "ልጆች ኳስ ይጫወታሉ።",
           "transliteration": "mechawet",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to take part in a game",
+          "exampleEn": "The children play ball."
         }
       }
     },
@@ -4107,7 +4453,9 @@
           "exampleAm": "እናት ወጥ ታበስላለች።",
           "transliteration": "mabsel",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to prepare food",
+          "exampleEn": "Mother cooks stew."
         },
         "መጠየቅ": {
           "meaningEn": "to ask",
@@ -4115,7 +4463,9 @@
           "exampleAm": "መምህሩን ጥያቄ ጠየቅሁ።",
           "transliteration": "meteyek",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to pose a question",
+          "exampleEn": "I asked the teacher a question."
         }
       }
     },
@@ -4143,7 +4493,9 @@
           "exampleAm": "ልጆቹ በደስታ ሳቁ።",
           "transliteration": "mesak",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to laugh with joy",
+          "exampleEn": "The children laughed happily."
         },
         "መዝፈን": {
           "meaningEn": "to sing",
@@ -4151,7 +4503,9 @@
           "exampleAm": "ድምጻዊው ጥሩ ዘፈነ።",
           "transliteration": "mezfen",
           "difficulty": 2,
-          "category": "verbs"
+          "category": "verbs",
+          "definitionEn": "to perform a song",
+          "exampleEn": "The singer sang well."
         }
       }
     },
@@ -4181,7 +4535,9 @@
           "exampleAm": "አውቶቡሱ በሰዓቱ ደረሰ።",
           "transliteration": "awtobus",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a large public vehicle that carries many people",
+          "exampleEn": "The bus arrived on time."
         },
         "ታክሲ": {
           "meaningEn": "taxi",
@@ -4189,7 +4545,9 @@
           "exampleAm": "ታክሲ ይዤ ወደ ቤት ሄድኩ።",
           "transliteration": "taksi",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a car that carries people for a fee",
+          "exampleEn": "I took a taxi home."
         }
       }
     },
@@ -4222,7 +4580,9 @@
           "exampleAm": "አውሮፕላኑ ወደ ሰማይ በረረ።",
           "transliteration": "awroplan",
           "difficulty": 3,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a vehicle that flies in the air",
+          "exampleEn": "The airplane flew into the sky."
         },
         "ብስክሌት": {
           "meaningEn": "bicycle",
@@ -4230,7 +4590,9 @@
           "exampleAm": "ልጁ ብስክሌት ይነዳል።",
           "transliteration": "biskilet",
           "difficulty": 3,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a two-wheeled vehicle driven by the feet",
+          "exampleEn": "The boy rides a bicycle."
         }
       }
     },
@@ -4258,7 +4620,9 @@
           "exampleAm": "ጀልባዋ በወንዙ ላይ ትንሳፈፋለች።",
           "transliteration": "jelba",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a craft that floats on water",
+          "exampleEn": "The boat floats on the river."
         },
         "ጣቢያ": {
           "meaningEn": "station",
@@ -4266,7 +4630,9 @@
           "exampleAm": "በጣቢያው ባቡር እጠብቃለሁ።",
           "transliteration": "tabiya",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a place where trains or buses stop",
+          "exampleEn": "I wait for the train at the station."
         }
       }
     },
@@ -4294,7 +4660,9 @@
           "exampleAm": "በሆቴል ውስጥ አደርን።",
           "transliteration": "hotel",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a place for staying overnight and eating",
+          "exampleEn": "We stayed in a hotel."
         },
         "ባንክ": {
           "meaningEn": "bank",
@@ -4302,7 +4670,9 @@
           "exampleAm": "ገንዘብ ለማስቀመጥ ወደ ባንክ ሄድኩ።",
           "transliteration": "bank",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "an institution where money is kept and borrowed",
+          "exampleEn": "I went to the bank to deposit money."
         }
       }
     },
@@ -4332,7 +4702,9 @@
           "exampleAm": "ሕመምተኛውን ወደ ሆስፒታል ወሰዱት።",
           "transliteration": "hospital",
           "difficulty": 3,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a place where the sick are treated",
+          "exampleEn": "They took the patient to the hospital."
         },
         "መስጊድ": {
           "meaningEn": "mosque",
@@ -4340,7 +4712,9 @@
           "exampleAm": "መስጊዱ ሰፊ ነው።",
           "transliteration": "mesgid",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a place where Muslims pray",
+          "exampleEn": "The mosque is spacious."
         }
       }
     },
@@ -4368,7 +4742,9 @@
           "exampleAm": "ቢሮዬ ሁለተኛ ፎቅ ላይ ነው።",
           "transliteration": "biro",
           "difficulty": 2,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a workroom where people work",
+          "exampleEn": "My office is on the second floor."
         },
         "ድልድይ": {
           "meaningEn": "bridge",
@@ -4376,7 +4752,9 @@
           "exampleAm": "መኪናው ድልድዩን አቋረጠ።",
           "transliteration": "dildiy",
           "difficulty": 3,
-          "category": "places"
+          "category": "places",
+          "definitionEn": "a structure built to cross a river or road",
+          "exampleEn": "The car crossed the bridge."
         }
       }
     }
