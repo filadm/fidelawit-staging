@@ -6,9 +6,9 @@
       "chapter": "First Steps",
       "section": "Hello",
       "letters": [
-        "ቢ",
+        "ቡ",
+        "ኩ",
         "ኪ",
-        "ካ",
         "ሰ",
         "ላ",
         "ም"
@@ -37,13 +37,13 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "ም",
+        "ሰ",
         "እ",
         "ላ",
         "ባ",
         "አ",
         "ና",
-        "ሰ",
+        "ም",
         "ት"
       ],
       "requiredWords": [
@@ -83,12 +83,12 @@
       "section": "Family",
       "letters": [
         "ወ",
-        "እ",
+        "ት",
         "ን",
         "ም",
         "ድ",
-        "ሰ",
-        "ት"
+        "እ",
+        "ና"
       ],
       "requiredWords": [
         "ወንድም"
@@ -113,9 +113,9 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "ሰ",
         "ን",
-        "ና",
+        "ሰ",
+        "ድ",
         "ት",
         "ህ",
         "ጅ",
@@ -163,8 +163,8 @@
         "ሁ",
         "ለ",
         "ት",
-        "ላ",
-        "ህ"
+        "ም",
+        "ጅ"
       ],
       "requiredWords": [
         "አንድ",
@@ -203,12 +203,12 @@
       "section": "Numbers",
       "letters": [
         "አ",
-        "ም",
+        "ላ",
         "ት",
         "ስ",
         "ራ",
-        "ላ",
-        "ድ",
+        "ህ",
+        "ን",
         "ሦ"
       ],
       "requiredWords": [
@@ -246,11 +246,11 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ጅ",
+        "ባ",
         "ስ",
         "ም",
-        "ላ",
-        "ድ",
+        "እ",
+        "ወ",
         "ት",
         "አ"
       ],
@@ -279,8 +279,8 @@
       "letters": [
         "ት",
         "ስ",
+        "ል",
         "ም",
-        "ሁ",
         "ድ",
         "ስ",
         "ባ",
@@ -366,11 +366,11 @@
       "section": "Numbers",
       "letters": [
         "ር",
-        "ና",
+        "ን",
         "ስ",
         "ህ",
         "አ",
-        "ዘ"
+        "ሁ"
       ],
       "requiredWords": [
         "አስር"
@@ -396,11 +396,11 @@
       "section": "Animals",
       "letters": [
         "ም",
-        "ሁ",
+        "ል",
         "ላ",
-        "ና",
+        "ን",
         "መ",
-        "ባ",
+        "አ",
         "ት",
         "ድ"
       ],
@@ -440,12 +440,12 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ለ",
+        "ላ",
         "ሻ",
         "ስ",
         "ረ",
-        "ን",
-        "ሦ",
+        "ሰ",
+        "ና",
         "ው",
         "ፈ"
       ],
@@ -484,10 +484,10 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ጠ",
-        "ዶ",
         "ት",
-        "ሦ",
+        "ዶ",
+        "ሻ",
+        "ና",
         "ሮ"
       ],
       "requiredWords": [
@@ -514,11 +514,11 @@
       "section": "Food & buna",
       "letters": [
         "ሃ",
-        "አ",
-        "ጅ",
+        "ለ",
+        "ወ",
         "ው",
         "ዳ",
-        "ና",
+        "ን",
         "ቦ"
       ],
       "requiredWords": [
@@ -560,11 +560,11 @@
         "ተ",
         "ት",
         "ና",
-        "ው",
+        "ን",
         "ወ",
-        "ለ",
+        "ጅ",
         "ቡ",
-        "ስ"
+        "እ"
       ],
       "requiredWords": [
         "ቡና",
@@ -601,11 +601,11 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ቡ",
-        "ዶ",
+        "ሻ",
+        "ጠ",
         "ራ",
         "ን",
-        "ድ",
+        "ቡ",
         "ጀ",
         "እ"
       ],
@@ -634,10 +634,10 @@
       "letters": [
         "ይ",
         "ጭ",
-        "ድ",
-        "ዳ",
+        "ቦ",
+        "ት",
         "ቀ",
-        "ህ",
+        "ሮ",
         "ነ"
       ],
       "requiredWords": [
@@ -676,10 +676,10 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ጠ",
-        "ም",
+        "ሁ",
+        "ተ",
         "እ",
-        "ላ",
+        "ጀ",
         "ራ",
         "ስ",
         "ጅ"
@@ -719,10 +719,10 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ነ",
+        "ቀ",
         "ግ",
         "ን",
-        "ት",
+        "ዳ",
         "እ",
         "ይ",
         "ዓ",
@@ -764,10 +764,10 @@
       "section": "Colors & body",
       "letters": [
         "ጆ",
-        "ይ",
-        "ሻ",
+        "ል",
+        "ዳ",
         "ሮ",
-        "ሁ"
+        "ድ"
       ],
       "requiredWords": [
         "ጆሮ"
@@ -793,9 +793,9 @@
       "section": "Home",
       "letters": [
         "ት",
-        "ም",
+        "ሃ",
+        "ቦ",
         "ድ",
-        "ቀ",
         "በ",
         "ር",
         "ቤ"
@@ -842,7 +842,7 @@
         "ወ",
         "ል",
         "ጋ",
-        "መ",
+        "ም",
         "ር"
       ],
       "requiredWords": [
@@ -881,11 +881,11 @@
       "section": "Home",
       "letters": [
         "ጠ",
-        "ው",
-        "ላ",
+        "መ",
+        "ጀ",
         "ረ",
         "ጴ",
-        "ዘ",
+        "ኝ",
         "ዛ"
       ],
       "requiredWords": [
@@ -910,14 +910,14 @@
       "chapter": "Everyday Words",
       "section": "Yes, no & please",
       "letters": [
-        "ዓ",
+        "ዘ",
         "የ",
         "አ",
-        "ወ",
+        "በ",
         "ም",
         "ዎ",
         "ለ",
-        "ጅ"
+        "ቤ"
       ],
       "requiredWords": [
         "አዎ",
@@ -956,11 +956,11 @@
         "ባ",
         "ክ",
         "እ",
-        "ል",
+        "ተ",
         "ህ",
         "ሺ",
         "ቤ",
-        "ዎ"
+        "ቡ"
       ],
       "requiredWords": [
         "እባክህ",
@@ -996,11 +996,11 @@
       "section": "Asking",
       "letters": [
         "ም",
-        "ቀ",
+        "ግ",
         "ን",
         "ማ",
-        "ባ",
-        "ለ"
+        "ል",
+        "ዛ"
       ],
       "requiredWords": [
         "ማን",
@@ -1036,11 +1036,11 @@
       "chapter": "Everyday Words",
       "section": "Asking",
       "letters": [
-        "ጋ",
+        "አ",
         "የ",
-        "ማ",
+        "ጀ",
         "መ",
-        "ዳ",
+        "ድ",
         "ቼ",
         "ት"
       ],
@@ -1078,11 +1078,11 @@
       "section": "Asking",
       "letters": [
         "ም",
-        "ር",
+        "ዘ",
         "ዴ",
         "ን",
         "ት",
-        "ቦ",
+        "ህ",
         "እ",
         "ለ"
       ],
@@ -1120,9 +1120,9 @@
       "section": "Where things are",
       "letters": [
         "ታ",
-        "ቤ",
-        "ጅ",
-        "ነ",
+        "ስ",
+        "ለ",
+        "ሺ",
         "ላ",
         "ች",
         "ይ"
@@ -1164,10 +1164,10 @@
       "section": "Where things are",
       "letters": [
         "ጭ",
-        "የ",
+        "ሃ",
         "ጥ",
-        "ኝ",
-        "ዎ",
+        "ዴ",
+        "ጠ",
         "ው",
         "ስ"
       ],
@@ -1205,11 +1205,11 @@
       "section": "Where things are",
       "letters": [
         "ቀ",
-        "ጅ",
+        "ስ",
         "ኝ",
-        "ች",
+        "ት",
         "ግ",
-        "ጀ",
+        "ላ",
         "ራ"
       ],
       "requiredWords": [
@@ -1248,13 +1248,13 @@
       "section": "Sky & nature",
       "letters": [
         "ጨ",
-        "ታ",
+        "ባ",
         "ይ",
         "ሐ",
         "ረ",
         "ቃ",
         "ፀ",
-        "ጭ"
+        "ሰ"
       ],
       "requiredWords": [
         "ፀሐይ",
@@ -1292,13 +1292,13 @@
       "chapter": "Everyday Words",
       "section": "Sky & nature",
       "letters": [
-        "ጅ",
+        "ፀ",
         "ብ",
         "ይ",
         "ኮ",
         "ማ",
         "ሰ",
-        "የ",
+        "ሁ",
         "ከ"
       ],
       "requiredWords": [
@@ -1340,10 +1340,10 @@
         "ዝ",
         "ፍ",
         "ዛ",
-        "የ",
-        "ቼ",
+        "እ",
+        "ሻ",
         "ብ",
-        "ዓ"
+        "ይ"
       ],
       "requiredWords": [
         "ዛፍ",
@@ -1380,11 +1380,11 @@
       "chapter": "Everyday Words",
       "section": "Time",
       "letters": [
-        "ሁ",
-        "ረ",
+        "ድ",
+        "ጥ",
         "ነ",
         "ሬ",
-        "ግ",
+        "የ",
         "ዛ",
         "ገ"
       ],
@@ -1424,10 +1424,10 @@
       "letters": [
         "ን",
         "ቀ",
-        "ጀ",
+        "ህ",
         "ት",
-        "ሦ",
-        "ዓ",
+        "ቃ",
+        "ዘ",
         "ና",
         "ት"
       ],
@@ -1466,10 +1466,10 @@
       "letters": [
         "ሊ",
         "ት",
-        "ቦ",
+        "ራ",
         "ሌ",
-        "ማ",
-        "ሺ"
+        "ቤ",
+        "ሬ"
       ],
       "requiredWords": [
         "ሌሊት"
@@ -1494,13 +1494,13 @@
       "section": "In town",
       "letters": [
         "ገ",
-        "ክ",
+        "ሮ",
         "ን",
         "ያ",
         "መ",
         "በ",
         "ድ",
-        "ዴ"
+        "ነ"
       ],
       "requiredWords": [
         "ገበያ",
@@ -1541,10 +1541,10 @@
         "ከ",
         "ቅ",
         "ሱ",
-        "እ",
-        "ብ",
+        "ባ",
+        "ጀ",
         "ተ",
-        "ዝ",
+        "በ",
         "ማ"
       ],
       "requiredWords": [
@@ -1583,11 +1583,11 @@
       "section": "In town",
       "letters": [
         "ገ",
-        "ክ",
+        "ሮ",
         "ር",
-        "ት",
+        "ማ",
         "አ",
-        "ል"
+        "ያ"
       ],
       "requiredWords": [
         "አገር"
@@ -1611,13 +1611,13 @@
       "chapter": "Out & About",
       "section": "Getting around",
       "letters": [
-        "ቅ",
+        "ጠ",
         "መ",
         "ኪ",
         "ቡ",
         "ባ",
         "ር",
-        "ቦ",
+        "ም",
         "ና"
       ],
       "requiredWords": [
@@ -1746,8 +1746,8 @@
       "letters": [
         "ጣ",
         "ድ",
-        "ከ",
-        "ዎ",
+        "ጆ",
+        "ጋ",
         "ም",
         "ት",
         "መ",
@@ -1791,8 +1791,8 @@
         "መ",
         "መ",
         "ጥ",
-        "የ",
-        "ዘ",
+        "ዓ",
+        "እ",
         "ራ",
         "ሮ"
       ],
@@ -1831,10 +1831,10 @@
       "letters": [
         "ብ",
         "መ",
-        "በ",
+        "ቀ",
         "ት",
         "ላ",
-        "ች",
+        "ድ",
         "ጠ",
         "ጣ"
       ],
@@ -1874,12 +1874,12 @@
       "letters": [
         "ስ",
         "መ",
-        "ፀ",
+        "ና",
         "ት",
         "የ",
-        "ጥ",
+        "ተ",
         "ማ",
-        "ዘ"
+        "እ"
       ],
       "requiredWords": [
         "ማየት",
@@ -1915,12 +1915,12 @@
       "section": "Everyday actions",
       "letters": [
         "ገ",
-        "ዎ",
-        "ቅ",
+        "ኝ",
+        "ጠ",
         "ር",
         "ና",
         "መ",
-        "ሦ"
+        "ዓ"
       ],
       "requiredWords": [
         "መናገር"
@@ -1947,11 +1947,11 @@
         "ማ",
         "ጫ",
         "ቀ",
-        "ኝ",
+        "ሐ",
         "ስ",
-        "ባ",
+        "ት",
         "ሚ",
-        "በ"
+        "ቶ"
       ],
       "requiredWords": [
         "ቀሚስ",
@@ -1989,14 +1989,14 @@
       "chapter": "Out & About",
       "section": "What I wear",
       "letters": [
-        "ጭ",
+        "ግ",
         "ያ",
         "ኮ",
         "ሱ",
         "ሪ",
         "ፍ",
-        "ዝ",
-        "ቼ"
+        "ጨ",
+        "ጴ"
       ],
       "requiredWords": [
         "ሱሪ",
@@ -2033,13 +2033,13 @@
       "chapter": "Out & About",
       "section": "More food",
       "letters": [
-        "ክ",
+        "ና",
         "ሙ",
         "ዝ",
-        "ሲ",
+        "ወ",
         "ች",
         "ን",
-        "ዛ",
+        "ታ",
         "ድ"
       ],
       "requiredWords": [
@@ -2078,13 +2078,13 @@
       "chapter": "Out & About",
       "section": "More food",
       "letters": [
-        "ሌ",
+        "እ",
         "ሩ",
-        "በ",
+        "ቶ",
         "ቅ",
         "ቤ",
         "ዝ",
-        "ጠ"
+        "ድ"
       ],
       "requiredWords": [
         "ሩዝ",
@@ -2125,9 +2125,9 @@
         "ን",
         "ት",
         "ሴ",
-        "ጴ",
-        "ታ",
-        "ዝ",
+        "ሰ",
+        "ቀ",
+        "ቡ",
         "ወ"
       ],
       "requiredWords": [
@@ -2213,10 +2213,10 @@
         "ተ",
         "ዶ",
         "ር",
-        "ት",
+        "ሌ",
         "ክ",
         "ሪ",
-        "መ",
+        "ኪ",
         "ማ"
       ],
       "requiredWords": [
@@ -2254,13 +2254,13 @@
       "chapter": "Out & About",
       "section": "Describing",
       "letters": [
-        "ግ",
+        "ጭ",
         "ሽ",
         "ን",
-        "ቤ",
+        "ስ",
         "ት",
         "ቅ",
-        "ሱ",
+        "ረ",
         "ል"
       ],
       "requiredWords": [
@@ -2302,8 +2302,8 @@
         "ጭ",
         "ረ",
         "አ",
-        "ዘ",
-        "ቼ",
+        "እ",
+        "ሱ",
         "ም"
       ],
       "requiredWords": [
@@ -2340,10 +2340,10 @@
       "section": "Describing",
       "letters": [
         "ሩ",
-        "መ",
+        "ኪ",
         "ጥ",
-        "ሦ",
-        "ት"
+        "ይ",
+        "ተ"
       ],
       "requiredWords": [
         "ጥሩ"
@@ -2372,9 +2372,9 @@
         "ት",
         "ዛ",
         "ሞ",
-        "ተ",
+        "ቦ",
         "ዝ",
-        "ዘ"
+        "ብ"
       ],
       "requiredWords": [
         "ሞቃት",
@@ -2417,7 +2417,7 @@
         "ጣ",
         "ፈ",
         "ን",
-        "ሬ"
+        "ሴ"
       ],
       "requiredWords": [
         "ፈጣን",
@@ -2455,10 +2455,10 @@
         "ን",
         "ሻ",
         "ጹ",
-        "ሩ",
+        "ዘ",
         "ህ",
         "ቆ",
-        "ጠ",
+        "ቅ",
         "ሻ"
       ],
       "requiredWords": [
@@ -2496,11 +2496,11 @@
       "letters": [
         "ደ",
         "ስ",
-        "ሲ",
+        "ወ",
         "ን",
         "ሐ",
         "ታ",
-        "ቶ",
+        "ማ",
         "ዘ"
       ],
       "requiredWords": [
@@ -2539,10 +2539,10 @@
       "chapter": "Out & About",
       "section": "Feelings",
       "letters": [
-        "አ",
+        "ኮ",
         "ር",
         "ፍ",
-        "ወ",
+        "ቆ",
         "ሃ",
         "ቁ",
         "ጣ",
@@ -2583,11 +2583,11 @@
       "chapter": "Out & About",
       "section": "Body & health",
       "letters": [
-        "ጨ",
+        "ው",
         "ጥ",
         "ሃ",
-        "ሮ",
-        "ህ",
+        "ፍ",
+        "ቁ",
         "ረ",
         "ብ",
         "ም"
@@ -2669,10 +2669,10 @@
       "chapter": "Out & About",
       "section": "Body & health",
       "letters": [
-        "ገ",
-        "ሬ",
+        "ጆ",
+        "ሴ",
         "ህ",
-        "ጠ",
+        "ቅ",
         "መ",
         "ም"
       ],
@@ -2702,9 +2702,9 @@
         "ክ",
         "ሰ",
         "ማ",
-        "ሚ",
-        "ዓ",
-        "ቅ"
+        "ካ",
+        "ጅ",
+        "ራ"
       ],
       "requiredWords": [
         "ሰኞ",
@@ -2746,8 +2746,8 @@
         "ስ",
         "ዕ",
         "ሙ",
-        "ፍ",
-        "ቶ"
+        "ኝ",
+        "ጫ"
       ],
       "requiredWords": [
         "ረቡዕ",
@@ -2782,14 +2782,14 @@
       "chapter": "Out & About",
       "section": "Days of the week",
       "letters": [
-        "ሙ",
+        "ሩ",
         "ዳ",
         "ሜ",
         "ር",
         "ቅ",
         "ብ",
         "ዓ",
-        "ወ"
+        "ዛ"
       ],
       "requiredWords": [
         "ዓርብ",
@@ -2824,10 +2824,10 @@
       "chapter": "Out & About",
       "section": "Days of the week",
       "letters": [
-        "ው",
-        "ት",
+        "ፀ",
+        "ጓ",
         "ሁ",
-        "ሙ",
+        "ሩ",
         "እ",
         "ድ"
       ],
@@ -2853,12 +2853,12 @@
       "chapter": "The Living World",
       "section": "My face",
       "letters": [
-        "ሻ",
+        "ተ",
         "ፊ",
         "ፍ",
         "አ",
-        "ቆ",
-        "ሚ",
+        "ጴ",
+        "ሲ",
         "ት"
       ],
       "requiredWords": [
@@ -2898,12 +2898,12 @@
       "section": "My face",
       "letters": [
         "ስ",
-        "ሞ",
+        "ት",
         "ጉ",
         "ጸ",
         "ጥ",
-        "ሱ",
-        "ጋ",
+        "ረ",
+        "ቡ",
         "ር"
       ],
       "requiredWords": [
@@ -2941,13 +2941,13 @@
       "chapter": "The Living World",
       "section": "My body",
       "letters": [
-        "ጅ",
+        "ቼ",
         "ት",
         "ሆ",
         "ጣ",
         "ድ",
-        "ሙ",
-        "ፈ"
+        "ሩ",
+        "ሦ"
       ],
       "requiredWords": [
         "ጣት",
@@ -2986,9 +2986,9 @@
       "letters": [
         "ል",
         "ብ",
-        "ቡ",
-        "ካ",
-        "ጫ"
+        "ዳ",
+        "ይ",
+        "ክ"
       ],
       "requiredWords": [
         "ልብ"
@@ -3013,13 +3013,13 @@
       "chapter": "The Living World",
       "section": "More animals",
       "letters": [
-        "ያ",
+        "ሊ",
         "አ",
         "በ",
         "ሳ",
         "ግ",
-        "ሽ",
-        "ሻ"
+        "ራ",
+        "ተ"
       ],
       "requiredWords": [
         "አሳ",
@@ -3058,11 +3058,11 @@
       "section": "More animals",
       "letters": [
         "ሬ",
-        "ብ",
-        "እ",
+        "ደ",
+        "ለ",
         "በ",
         "ህ",
-        "የ",
+        "ጆ",
         "አ",
         "ያ"
       ],
@@ -3101,12 +3101,12 @@
       "chapter": "The Living World",
       "section": "More animals",
       "letters": [
-        "ቼ",
+        "ጴ",
         "ብ",
-        "የ",
+        "ሰ",
         "ባ",
         "እ",
-        "ቆ",
+        "ለ",
         "ጦ",
         "ጣ"
       ],
@@ -3150,7 +3150,7 @@
         "ስ",
         "ቁ",
         "እ",
-        "ግ",
+        "ዝ",
         "ን",
         "ላ"
       ],
@@ -3191,11 +3191,11 @@
       "section": "Food on the table",
       "letters": [
         "ው",
-        "ጉ",
-        "ጦ",
+        "ፈ",
+        "ቡ",
         "ይ",
         "ሻ",
-        "ዕ",
+        "ግ",
         "ጨ"
       ],
       "requiredWords": [
@@ -3233,12 +3233,12 @@
       "chapter": "The Living World",
       "section": "Food on the table",
       "letters": [
-        "መ",
+        "ህ",
         "ኳ",
-        "ዛ",
+        "ን",
         "ስ",
         "ር",
-        "ሻ"
+        "ፈ"
       ],
       "requiredWords": [
         "ስኳር"
@@ -3264,13 +3264,13 @@
       "section": "In the kitchen",
       "letters": [
         "ቅ",
-        "ኮ",
+        "ጭ",
         "መ",
         "ም",
         "ር",
         "ማ",
-        "ቆ",
-        "ሁ"
+        "ጴ",
+        "ኛ"
       ],
       "requiredWords": [
         "ማር",
@@ -3313,7 +3313,7 @@
         "ን",
         "ኩ",
         "ር",
-        "ና",
+        "ኳ",
         "ዘ"
       ],
       "requiredWords": [
@@ -3354,9 +3354,9 @@
         "ብ",
         "አ",
         "ር",
-        "ኛ",
+        "ሐ",
         "ጎ",
-        "ደ",
+        "ሬ",
         "እ"
       ],
       "requiredWords": [
@@ -3395,10 +3395,10 @@
       "chapter": "The Living World",
       "section": "On the plate",
       "letters": [
-        "ሰ",
-        "ኳ",
+        "ታ",
+        "ገ",
         "ጥ",
-        "ጀ",
+        "ህ",
         "ባ",
         "ር",
         "ወ",
@@ -3439,11 +3439,11 @@
       "chapter": "The Living World",
       "section": "Water & land",
       "letters": [
-        "ጸ",
+        "ሃ",
         "ወ",
         "ን",
         "ር",
-        "ሱ",
+        "ሽ",
         "ህ",
         "ዝ",
         "ባ"
@@ -3484,14 +3484,14 @@
       "chapter": "The Living World",
       "section": "Water & land",
       "letters": [
-        "ላ",
+        "ሄ",
         "ተ",
         "ደ",
         "ን",
-        "ል",
+        "ች",
         "ራ",
         "ራ",
-        "ታ"
+        "ሻ"
       ],
       "requiredWords": [
         "ተራራ",
@@ -3530,12 +3530,12 @@
       "letters": [
         "በ",
         "ረ",
-        "ሆ",
+        "ከ",
         "ስ",
         "ዶ",
         "ፋ",
         "ነ",
-        "ሻ"
+        "ሌ"
       ],
       "requiredWords": [
         "ነፋስ",
@@ -3573,13 +3573,13 @@
       "chapter": "The Living World",
       "section": "Weather & sky",
       "letters": [
-        "ሁ",
+        "ኛ",
         "ና",
         "ደ",
         "ቅ",
         "መ",
         "ብ",
-        "ራ",
+        "ዳ",
         "ረ"
       ],
       "requiredWords": [
@@ -3619,9 +3619,9 @@
       "letters": [
         "ም",
         "ጉ",
-        "ጥ",
-        "ን",
-        "ካ"
+        "ጓ",
+        "ሩ",
+        "ይ"
       ],
       "requiredWords": [
         "ጉም"
@@ -3649,10 +3649,10 @@
         "ጠ",
         "ል",
         "ሣ",
-        "ሾ",
-        "ሪ",
+        "ዝ",
+        "ኳ",
         "ቅ",
-        "ግ",
+        "ኪ",
         "ር"
       ],
       "requiredWords": [
@@ -3691,9 +3691,9 @@
       "chapter": "The Living World",
       "section": "Plants",
       "letters": [
-        "ድ",
-        "ጸ",
-        "ሮ",
+        "ጠ",
+        "ኩ",
+        "ፍ",
         "ስ",
         "ዘ",
         "ር"
@@ -3734,9 +3734,9 @@
       "letters": [
         "ር",
         "ቢ",
-        "ሜ",
-        "ጹ",
-        "ሮ",
+        "ደ",
+        "ጆ",
+        "ፍ",
         "ቁ",
         "ጫ",
         "ጥ"
@@ -3822,11 +3822,11 @@
       "chapter": "The Living World",
       "section": "More colors",
       "letters": [
-        "ሱ",
+        "ቶ",
         "ና",
         "ቡ",
-        "ሰ",
-        "ዓ",
+        "ኳ",
+        "ጅ",
         "ማ"
       ],
       "requiredWords": [
@@ -3852,11 +3852,11 @@
       "chapter": "The Living World",
       "section": "My relatives",
       "letters": [
-        "ጸ",
+        "ሩ",
         "አ",
         "ጎ",
-        "ሚ",
-        "ካ",
+        "ሲ",
+        "ይ",
         "ት",
         "ያ"
       ],
@@ -3896,11 +3896,11 @@
       "chapter": "The Living World",
       "section": "My relatives",
       "letters": [
-        "ጅ",
-        "ዛ",
+        "ብ",
+        "ን",
         "ስ",
         "ክ",
-        "ረ",
+        "ዕ",
         "ሚ",
         "ት",
         "አ"
@@ -3941,9 +3941,9 @@
       "section": "Places",
       "letters": [
         "ን",
-        "ዴ",
+        "ገ",
         "ሆ",
-        "ላ",
+        "ጠ",
         "ክ",
         "ል",
         "ቴ",
@@ -4029,12 +4029,12 @@
       "chapter": "City Life",
       "section": "Places",
       "letters": [
-        "ቁ",
+        "ጋ",
         "ድ",
         "ቢ",
         "ድ",
         "ሮ",
-        "ሣ",
+        "ሲ",
         "ል",
         "ይ"
       ],
@@ -4120,7 +4120,7 @@
       "letters": [
         "ግ",
         "ል",
-        "ሴ",
+        "ገ",
         "ለ",
         "ወ",
         "ዳ",
@@ -4167,9 +4167,9 @@
         "ጣ",
         "ያ",
         "ጥ",
-        "ጀ",
+        "ህ",
         "አ",
-        "ዛ"
+        "ን"
       ],
       "requiredWords": [
         "ጣሪያ",
@@ -4209,7 +4209,7 @@
         "ር",
         "እ",
         "ተ",
-        "ባ",
+        "ሃ",
         "ብ",
         "ደ"
       ],
@@ -4249,7 +4249,7 @@
       "chapter": "City Life",
       "section": "At school",
       "letters": [
-        "ግ",
+        "ኪ",
         "ቄ",
         "ት",
         "ጥ",
@@ -4338,13 +4338,13 @@
       "chapter": "City Life",
       "section": "Things I use",
       "letters": [
-        "ማ",
+        "ጸ",
         "ብ",
         "ል",
         "ክ",
-        "ጓ",
+        "በ",
         "ስ",
-        "ነ",
+        "ባ",
         "ር"
       ],
       "requiredWords": [
@@ -4385,12 +4385,12 @@
       "letters": [
         "ፍ",
         "ኳ",
-        "ጴ",
+        "ጆ",
         "ቁ",
         "ል",
         "ስ",
-        "ዕ",
-        "ይ"
+        "ቅ",
+        "ዎ"
       ],
       "requiredWords": [
         "ኳስ",
@@ -4433,7 +4433,7 @@
         "ጤ",
         "ሃ",
         "ት",
-        "ሩ",
+        "ዕ",
         "ድ"
       ],
       "requiredWords": [
@@ -4472,10 +4472,10 @@
       "section": "Health",
       "letters": [
         "ደ",
-        "ዓ",
-        "ነ",
+        "ጨ",
+        "ሺ",
         "ም",
-        "ጭ"
+        "ሙ"
       ],
       "requiredWords": [
         "ደም"
@@ -4500,9 +4500,9 @@
       "chapter": "City Life",
       "section": "Time words",
       "letters": [
-        "ለ",
+        "ጊ",
         "ት",
-        "ሾ",
+        "ጭ",
         "ዓ",
         "ሰ",
         "ን",
@@ -4543,13 +4543,13 @@
       "chapter": "City Life",
       "section": "Time words",
       "letters": [
-        "ቄ",
-        "ል",
+        "ቴ",
+        "ሦ",
         "መ",
         "ዓ",
         "ት",
         "ር",
-        "ሱ",
+        "ረ",
         "ወ"
       ],
       "requiredWords": [
@@ -4585,13 +4585,13 @@
       "chapter": "City Life",
       "section": "Easy & hard",
       "letters": [
-        "ሣ",
+        "ፊ",
         "ባ",
         "ቀ",
         "ከ",
         "ድ",
         "ል",
-        "ሩ",
+        "ኞ",
         "ላ"
       ],
       "requiredWords": [
@@ -4629,13 +4629,13 @@
       "section": "More words",
       "letters": [
         "ግ",
-        "ሬ",
+        "ዊ",
         "ር",
         "ፍ",
         "ም",
         "ቅ",
         "ብ",
-        "ጆ"
+        "ጉ"
       ],
       "requiredWords": [
         "ምግብ",
@@ -4673,11 +4673,11 @@
       "chapter": "City Life",
       "section": "More words",
       "letters": [
-        "ወ",
+        "ረ",
         "በ",
         "ባ",
         "ነ",
-        "ል",
+        "ቢ",
         "ጋ",
         "አ",
         "ዴ"
@@ -4713,17 +4713,18 @@
     },
     {
       "id": 115,
-      "title": "Reading & Writing",
-      "section": "Action Verbs",
-      "chapter": "Daily Life",
+      "title": "Learning",
+      "chapter": "Things We Do",
+      "section": "Learning",
       "letters": [
-        "ማ",
         "ን",
+        "ጻ",
         "በ",
+        "ፍ",
+        "ማ",
         "ብ",
         "መ",
-        "ጻ",
-        "ፍ"
+        "ግ"
       ],
       "requiredWords": [
         "ማንበብ",
@@ -4750,51 +4751,65 @@
           "definitionEn": "to put down letters with a pen",
           "exampleEn": "He began to write a letter."
         }
-      }
+      },
+      "goal": "I can talk about learning"
     },
     {
       "id": 116,
-      "title": "Speaking & Loving",
-      "section": "Senses & Actions",
-      "chapter": "Around You",
+      "title": "Learning",
+      "chapter": "Things We Do",
+      "section": "Learning",
       "letters": [
-        "መ",
-        "ና",
-        "ገ",
         "ር",
-        "ው",
-        "ደ",
-        "ድ"
+        "ማ",
+        "ቅ",
+        "ወ",
+        "ቁ",
+        "ሣ",
+        "መ",
+        "ሪ"
       ],
       "requiredWords": [
-        "መውደድ"
+        "መማር",
+        "ማወቅ"
       ],
       "wordDetails": {
-        "መውደድ": {
-          "meaningEn": "to love",
-          "meaningAm": "ለአንድ ነገር ፍቅር ማሳየት",
-          "exampleAm": "ልጆችን መውደድ ተፈጥሮ ነው።",
-          "transliteration": "mewded",
+        "መማር": {
+          "meaningEn": "to learn",
+          "meaningAm": "አዲስ ዕውቀት ማግኘት",
+          "exampleAm": "አማርኛ እማራለሁ።",
+          "transliteration": "memar",
           "difficulty": 2,
           "category": "verbs",
-          "definitionEn": "to show love for something",
-          "exampleEn": "Loving children is natural."
+          "definitionEn": "to gain new knowledge",
+          "exampleEn": "I am learning Amharic."
+        },
+        "ማወቅ": {
+          "meaningEn": "to know",
+          "meaningAm": "ስለ አንድ ነገር ግንዛቤ መያዝ",
+          "exampleAm": "መልሱን አውቃለሁ።",
+          "transliteration": "mawiq",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to have an understanding of something",
+          "exampleEn": "I know the answer."
         }
       }
     },
     {
       "id": 117,
-      "title": "Morning Routine",
-      "section": "Daily Routine",
-      "chapter": "Daily Life",
+      "title": "My routine",
+      "chapter": "Things We Do",
+      "section": "My routine",
       "letters": [
-        "መ",
-        "ነ",
+        "ብ",
         "ሳ",
         "ት",
+        "ጹ",
+        "ነ",
         "ታ",
         "ጠ",
-        "ብ"
+        "መ"
       ],
       "requiredWords": [
         "መነሳት",
@@ -4821,20 +4836,23 @@
           "definitionEn": "to clean the body with water",
           "exampleEn": "Washing in the morning is refreshing."
         }
-      }
+      },
+      "goal": "I can describe my routine"
     },
     {
       "id": 118,
-      "title": "In & Out",
-      "section": "Daily Routine",
-      "chapter": "Daily Life",
+      "title": "My routine",
+      "chapter": "Things We Do",
+      "section": "My routine",
       "letters": [
-        "መ",
-        "ግ",
-        "ባ",
-        "ት",
+        "ጉ",
         "ው",
-        "ጣ"
+        "ጣ",
+        "ት",
+        "ፊ",
+        "ባ",
+        "መ",
+        "ግ"
       ],
       "requiredWords": [
         "መግባት",
@@ -4865,17 +4883,18 @@
     },
     {
       "id": 119,
-      "title": "Give & Take",
-      "section": "More Verbs",
-      "chapter": "Daily Life",
+      "title": "Buying & selling",
+      "chapter": "Things We Do",
+      "section": "Buying & selling",
       "letters": [
-        "መ",
-        "ስ",
-        "ጠ",
-        "ት",
         "ው",
+        "መ",
         "ሰ",
-        "ድ"
+        "ድ",
+        "ጠ",
+        "ኩ",
+        "ስ",
+        "ት"
       ],
       "requiredWords": [
         "መስጠት",
@@ -4902,20 +4921,23 @@
           "definitionEn": "to carry away",
           "exampleEn": "Don't forget to take an umbrella."
         }
-      }
+      },
+      "goal": "I can talk about buying"
     },
     {
       "id": 120,
-      "title": "Buy & Sell",
-      "section": "More Verbs",
-      "chapter": "Daily Life",
+      "title": "Buying & selling",
+      "chapter": "Things We Do",
+      "section": "Buying & selling",
       "letters": [
-        "መ",
-        "ግ",
-        "ዛ",
         "ት",
         "ሸ",
-        "ጥ"
+        "ዛ",
+        "ተ",
+        "መ",
+        "ያ",
+        "ጥ",
+        "ግ"
       ],
       "requiredWords": [
         "መግዛት",
@@ -4946,111 +4968,61 @@
     },
     {
       "id": 121,
-      "title": "Everyday Verbs I",
-      "section": "Everyday Verbs",
-      "chapter": "Daily Life",
+      "title": "Around the house",
+      "chapter": "Things We Do",
+      "section": "Around the house",
       "letters": [
-        "ማ",
-        "ወ",
-        "ቅ",
         "መ",
+        "ዝ",
+        "ኝ",
+        "ክ",
+        "ጋ",
+        "ዳ",
         "ፈ",
-        "ለ",
-        "ግ"
-      ],
-      "requiredWords": [
-        "ማወቅ",
-        "መፈለግ"
-      ],
-      "wordDetails": {
-        "ማወቅ": {
-          "meaningEn": "to know",
-          "meaningAm": "ስለ አንድ ነገር ግንዛቤ መያዝ",
-          "exampleAm": "መልሱን አውቃለሁ።",
-          "transliteration": "mawiq",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to have an understanding of something",
-          "exampleEn": "I know the answer."
-        },
-        "መፈለግ": {
-          "meaningEn": "to want",
-          "meaningAm": "አንድ ነገር መሻት",
-          "exampleAm": "ውሃ እፈልጋለሁ።",
-          "transliteration": "mefeleg",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to desire something",
-          "exampleEn": "I want water."
-        }
-      }
-    },
-    {
-      "id": 122,
-      "title": "Everyday Verbs II",
-      "section": "Everyday Verbs",
-      "chapter": "Daily Life",
-      "letters": [
-        "ማ",
-        "ድ",
-        "ረ",
-        "ግ",
-        "መ",
-        "ር",
-        "ስ",
-        "ራ",
         "ት"
       ],
       "requiredWords": [
-        "ማድረግ",
-        "መማር",
-        "መስራት"
+        "መክፈት",
+        "መዝጋት"
       ],
       "wordDetails": {
-        "ማድረግ": {
-          "meaningEn": "to do",
-          "meaningAm": "አንድ ተግባር መፈጸም",
-          "exampleAm": "ምን እያደረግህ ነው?",
-          "transliteration": "madreg",
+        "መክፈት": {
+          "meaningEn": "to open",
+          "meaningAm": "የተዘጋን ነገር መግለጥ",
+          "exampleAm": "በሩን ክፈት።",
+          "transliteration": "mekfet",
           "difficulty": 2,
           "category": "verbs",
-          "definitionEn": "to carry out an action",
-          "exampleEn": "What are you doing?"
+          "definitionEn": "to unclose something that is shut",
+          "exampleEn": "Open the door."
         },
-        "መማር": {
-          "meaningEn": "to learn",
-          "meaningAm": "አዲስ ዕውቀት ማግኘት",
-          "exampleAm": "አማርኛ እማራለሁ።",
-          "transliteration": "memar",
+        "መዝጋት": {
+          "meaningEn": "to close",
+          "meaningAm": "የተከፈተን ነገር መድፈን",
+          "exampleAm": "መስኮቱን ዝጋ።",
+          "transliteration": "mezgat",
           "difficulty": 2,
           "category": "verbs",
-          "definitionEn": "to gain new knowledge",
-          "exampleEn": "I am learning Amharic."
-        },
-        "መስራት": {
-          "meaningEn": "to work",
-          "meaningAm": "ሥራ መፈጸም",
-          "exampleAm": "በቢሮ እሰራለሁ።",
-          "transliteration": "mesrat",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to carry out work",
-          "exampleEn": "I work in an office."
+          "definitionEn": "to shut something that is open",
+          "exampleEn": "Close the window."
         }
-      }
+      },
+      "goal": "I can say everyday actions"
     },
     {
-      "id": 123,
-      "title": "Sit & Stand",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
+      "id": 122,
+      "title": "Around the house",
+      "chapter": "Things We Do",
+      "section": "Around the house",
       "letters": [
-        "መ",
-        "መ",
-        "ቀ",
-        "ጥ",
         "ቆ",
-        "ም"
+        "ቀ",
+        "ብ",
+        "ሳ",
+        "ም",
+        "መ",
+        "መ",
+        "ጥ"
       ],
       "requiredWords": [
         "መቀመጥ",
@@ -5080,63 +5052,78 @@
       }
     },
     {
-      "id": 124,
-      "title": "Open & Close",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
+      "id": 123,
+      "title": "Getting things done",
+      "chapter": "Things We Do",
+      "section": "Getting things done",
       "letters": [
-        "መ",
-        "ክ",
-        "ፈ",
         "ት",
-        "ዝ",
-        "ጋ"
+        "ድ",
+        "መ",
+        "ረ",
+        "ማ",
+        "ስ",
+        "ራ",
+        "ግ"
       ],
       "requiredWords": [
-        "መክፈት",
-        "መዝጋት"
+        "ማድረግ",
+        "መስራት"
       ],
       "wordDetails": {
-        "መክፈት": {
-          "meaningEn": "to open",
-          "meaningAm": "የተዘጋን ነገር መግለጥ",
-          "exampleAm": "በሩን ክፈት።",
-          "transliteration": "mekfet",
+        "ማድረግ": {
+          "meaningEn": "to do",
+          "meaningAm": "አንድ ተግባር መፈጸም",
+          "exampleAm": "ምን እያደረግህ ነው?",
+          "transliteration": "madreg",
           "difficulty": 2,
           "category": "verbs",
-          "definitionEn": "to unclose something that is shut",
-          "exampleEn": "Open the door."
+          "definitionEn": "to carry out an action",
+          "exampleEn": "What are you doing?"
         },
-        "መዝጋት": {
-          "meaningEn": "to close",
-          "meaningAm": "የተከፈተን ነገር መድፈን",
-          "exampleAm": "መስኮቱን ዝጋ።",
-          "transliteration": "mezgat",
+        "መስራት": {
+          "meaningEn": "to work",
+          "meaningAm": "ሥራ መፈጸም",
+          "exampleAm": "በቢሮ እሰራለሁ።",
+          "transliteration": "mesrat",
           "difficulty": 2,
           "category": "verbs",
-          "definitionEn": "to shut something that is open",
-          "exampleEn": "Close the window."
+          "definitionEn": "to carry out work",
+          "exampleEn": "I work in an office."
         }
-      }
+      },
+      "goal": "I can talk about doing things"
     },
     {
-      "id": 125,
-      "title": "Help & Play",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
+      "id": 124,
+      "title": "Getting things done",
+      "chapter": "Things We Do",
+      "section": "Getting things done",
       "letters": [
-        "መ",
         "ር",
+        "ዶ",
+        "ግ",
+        "ፈ",
+        "መ",
         "ዳ",
         "ት",
-        "ጫ",
-        "ወ"
+        "ለ"
       ],
       "requiredWords": [
-        "መርዳት",
-        "መጫወት"
+        "መፈለግ",
+        "መርዳት"
       ],
       "wordDetails": {
+        "መፈለግ": {
+          "meaningEn": "to want",
+          "meaningAm": "አንድ ነገር መሻት",
+          "exampleAm": "ውሃ እፈልጋለሁ።",
+          "transliteration": "mefeleg",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to desire something",
+          "exampleEn": "I want water."
+        },
         "መርዳት": {
           "meaningEn": "to help",
           "meaningAm": "ለሌላ ሰው ድጋፍ ማድረግ",
@@ -5146,7 +5133,29 @@
           "category": "verbs",
           "definitionEn": "to give support to another person",
           "exampleEn": "I help my mother with work."
-        },
+        }
+      }
+    },
+    {
+      "id": 125,
+      "title": "Fun & games",
+      "chapter": "Things We Do",
+      "section": "Fun & games",
+      "letters": [
+        "መ",
+        "ቅ",
+        "ወ",
+        "ቴ",
+        "ሳ",
+        "ት",
+        "ጫ",
+        "ጭ"
+      ],
+      "requiredWords": [
+        "መጫወት",
+        "መሳቅ"
+      ],
+      "wordDetails": {
         "መጫወት": {
           "meaningEn": "to play",
           "meaningAm": "ጨዋታ ማድረግ",
@@ -5156,69 +5165,7 @@
           "category": "verbs",
           "definitionEn": "to take part in a game",
           "exampleEn": "The children play ball."
-        }
-      }
-    },
-    {
-      "id": 126,
-      "title": "Cook & Ask",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
-      "letters": [
-        "ማ",
-        "ብ",
-        "ሰ",
-        "ል",
-        "መ",
-        "ጠ",
-        "የ",
-        "ቅ"
-      ],
-      "requiredWords": [
-        "ማብሰል",
-        "መጠየቅ"
-      ],
-      "wordDetails": {
-        "ማብሰል": {
-          "meaningEn": "to cook",
-          "meaningAm": "ምግብ ማዘጋጀት",
-          "exampleAm": "እናት ወጥ ታበስላለች።",
-          "transliteration": "mabsel",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to prepare food",
-          "exampleEn": "Mother cooks stew."
         },
-        "መጠየቅ": {
-          "meaningEn": "to ask",
-          "meaningAm": "ጥያቄ ማቅረብ",
-          "exampleAm": "መምህሩን ጥያቄ ጠየቅሁ።",
-          "transliteration": "meteyek",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to pose a question",
-          "exampleEn": "I asked the teacher a question."
-        }
-      }
-    },
-    {
-      "id": 127,
-      "title": "Laugh & Sing",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
-      "letters": [
-        "መ",
-        "ሳ",
-        "ቅ",
-        "ዝ",
-        "ፈ",
-        "ን"
-      ],
-      "requiredWords": [
-        "መሳቅ",
-        "መዝፈን"
-      ],
-      "wordDetails": {
         "መሳቅ": {
           "meaningEn": "to laugh",
           "meaningAm": "በደስታ መሳቅ",
@@ -5228,7 +5175,30 @@
           "category": "verbs",
           "definitionEn": "to laugh with joy",
           "exampleEn": "The children laughed happily."
-        },
+        }
+      },
+      "goal": "I can talk about play"
+    },
+    {
+      "id": 126,
+      "title": "Fun & games",
+      "chapter": "Things We Do",
+      "section": "Fun & games",
+      "letters": [
+        "ሰ",
+        "ዝ",
+        "ብ",
+        "ማ",
+        "መ",
+        "ል",
+        "ፈ",
+        "ን"
+      ],
+      "requiredWords": [
+        "መዝፈን",
+        "ማብሰል"
+      ],
+      "wordDetails": {
         "መዝፈን": {
           "meaningEn": "to sing",
           "meaningAm": "ዘፈን ማቅረብ",
@@ -5238,6 +5208,58 @@
           "category": "verbs",
           "definitionEn": "to perform a song",
           "exampleEn": "The singer sang well."
+        },
+        "ማብሰል": {
+          "meaningEn": "to cook",
+          "meaningAm": "ምግብ ማዘጋጀት",
+          "exampleAm": "እናት ወጥ ታበስላለች።",
+          "transliteration": "mabsel",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to prepare food",
+          "exampleEn": "Mother cooks stew."
+        }
+      }
+    },
+    {
+      "id": 127,
+      "title": "Fun & games",
+      "chapter": "Things We Do",
+      "section": "Fun & games",
+      "letters": [
+        "ደ",
+        "የ",
+        "ድ",
+        "መ",
+        "ጠ",
+        "ው",
+        "ሬ",
+        "ቅ"
+      ],
+      "requiredWords": [
+        "መጠየቅ",
+        "መውደድ"
+      ],
+      "wordDetails": {
+        "መጠየቅ": {
+          "meaningEn": "to ask",
+          "meaningAm": "ጥያቄ ማቅረብ",
+          "exampleAm": "መምህሩን ጥያቄ ጠየቅሁ።",
+          "transliteration": "meteyek",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to pose a question",
+          "exampleEn": "I asked the teacher a question."
+        },
+        "መውደድ": {
+          "meaningEn": "to love",
+          "meaningAm": "ለአንድ ነገር ፍቅር ማሳየት",
+          "exampleAm": "ልጆችን መውደድ ተፈጥሮ ነው።",
+          "transliteration": "mewded",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to show love for something",
+          "exampleEn": "Loving children is natural."
         }
       }
     }
