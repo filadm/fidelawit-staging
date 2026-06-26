@@ -6,12 +6,12 @@
       "chapter": "First Steps",
       "section": "Hello",
       "letters": [
-        "ሦ",
-        "ቼ",
+        "ላ",
         "ም",
         "ሰ",
-        "ሃ",
-        "ላ"
+        "ዴ",
+        "ጅ",
+        "ዛ"
       ],
       "requiredWords": [
         "ሰላም"
@@ -37,14 +37,14 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
+        "ሰ",
         "ባ",
-        "ና",
+        "ም",
+        "አ",
+        "ት",
         "ላ",
         "እ",
-        "ት",
-        "አ",
-        "ም",
-        "ሰ"
+        "ና"
       ],
       "requiredWords": [
         "እናት",
@@ -82,13 +82,13 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "እ",
-        "ም",
-        "ን",
         "ድ",
-        "ላ",
+        "ን",
+        "ና",
+        "ሰ",
+        "ም",
         "ወ",
-        "ሰ"
+        "እ"
       ],
       "requiredWords": [
         "ወንድም"
@@ -113,14 +113,14 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "ባ",
-        "ጅ",
-        "ህ",
-        "ል",
-        "ት",
+        "እ",
+        "አ",
         "ወ",
-        "ሰ",
-        "እ"
+        "ል",
+        "ህ",
+        "ት",
+        "ጅ",
+        "ና"
       ],
       "requiredWords": [
         "እህት",
@@ -157,13 +157,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "አ",
-        "ት",
         "ም",
-        "ለ",
-        "ን",
         "ድ",
-        "ወ",
+        "ት",
+        "ን",
+        "ለ",
+        "ባ",
+        "አ",
         "ሁ"
       ],
       "requiredWords": [
@@ -202,14 +202,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ሁ",
-        "ት",
-        "ሦ",
         "ራ",
         "ስ",
+        "ት",
+        "ድ",
+        "ሦ",
+        "ና",
         "አ",
-        "ም",
-        "ን"
+        "ል"
       ],
       "requiredWords": [
         "ሦስት",
@@ -246,13 +246,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ት",
-        "አ",
-        "ድ",
         "ም",
+        "ባ",
+        "ት",
+        "እ",
         "ስ",
-        "ጅ",
-        "ባ"
+        "አ",
+        "ና"
       ],
       "requiredWords": [
         "አምስት"
@@ -277,14 +277,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ድ",
-        "ባ",
-        "ሰ",
-        "ስ",
-        "ና",
         "ት",
-        "ሁ",
-        "ስ"
+        "ሰ",
+        "ህ",
+        "ባ",
+        "ስ",
+        "ስ",
+        "ድ",
+        "ወ"
       ],
       "requiredWords": [
         "ስድስት",
@@ -321,14 +321,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ላ",
-        "ም",
-        "ኝ",
-        "ስ",
         "ት",
-        "ን",
+        "ወ",
+        "ስ",
+        "ኝ",
         "ዘ",
-        "ጠ"
+        "ን",
+        "ጠ",
+        "ም"
       ],
       "requiredWords": [
         "ስምንት",
@@ -365,12 +365,12 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ለ",
-        "ስ",
-        "ድ",
         "አ",
+        "ላ",
+        "ዘ",
+        "ስ",
         "ር",
-        "ዘ"
+        "ኝ"
       ],
       "requiredWords": [
         "አስር"
@@ -395,14 +395,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
+        "እ",
         "ት",
-        "መ",
-        "ም",
         "ድ",
-        "ለ",
+        "መ",
         "ላ",
         "ል",
-        "ሁ"
+        "ባ",
+        "ም"
       ],
       "requiredWords": [
         "ላም",
@@ -440,14 +440,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ፈ",
-        "ስ",
-        "ው",
+        "ላ",
+        "ር",
         "ረ",
+        "ው",
         "ሻ",
-        "ጠ",
-        "አ",
-        "እ"
+        "ሁ",
+        "ስ",
+        "ፈ"
       ],
       "requiredWords": [
         "ውሻ",
@@ -484,11 +484,11 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ው",
-        "ኝ",
-        "ባ",
+        "ላ",
+        "ዶ",
+        "ረ",
         "ሮ",
-        "ዶ"
+        "ም"
       ],
       "requiredWords": [
         "ዶሮ"
@@ -513,13 +513,13 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "መ",
-        "ዳ",
-        "ራ",
-        "ው",
         "ሃ",
+        "ሮ",
+        "ን",
+        "ዳ",
         "ቦ",
-        "ሁ"
+        "ው",
+        "አ"
       ],
       "requiredWords": [
         "ውሃ",
@@ -557,14 +557,14 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ና",
+        "ት",
         "ቡ",
-        "ወ",
-        "አ",
-        "ረ",
-        "ዳ",
+        "ዶ",
+        "ባ",
         "ተ",
-        "ት"
+        "ና",
+        "ጠ",
+        "ወ"
       ],
       "requiredWords": [
         "ቡና",
@@ -601,13 +601,13 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "እ",
         "ራ",
         "ጀ",
-        "ት",
-        "ህ",
-        "ሦ",
-        "ን"
+        "ዳ",
+        "ን",
+        "ስ",
+        "እ",
+        "ል"
       ],
       "requiredWords": [
         "እንጀራ"
@@ -632,13 +632,13 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ቀ",
-        "ሦ",
+        "ጀ",
         "ነ",
-        "ጅ",
-        "ለ",
         "ይ",
-        "ጭ"
+        "ረ",
+        "ጭ",
+        "ቀ",
+        "ጅ"
       ],
       "requiredWords": [
         "ቀይ",
@@ -677,12 +677,12 @@
       "section": "Colors & body",
       "letters": [
         "ራ",
-        "ጠ",
-        "ጅ",
         "ስ",
-        "ር",
-        "ም",
-        "እ"
+        "እ",
+        "ኝ",
+        "ሃ",
+        "ጅ",
+        "ይ"
       ],
       "requiredWords": [
         "ራስ",
@@ -719,14 +719,14 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ረ",
-        "ን",
+        "ይ",
+        "ኝ",
+        "ዓ",
+        "ም",
         "ር",
-        "ሦ",
         "እ",
         "ግ",
-        "ዓ",
-        "ይ"
+        "ን"
       ],
       "requiredWords": [
         "እግር",
@@ -763,11 +763,11 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ኝ",
-        "ቦ",
-        "ሮ",
+        "ረ",
         "ጆ",
-        "ስ"
+        "ር",
+        "ሮ",
+        "ሃ"
       ],
       "requiredWords": [
         "ጆሮ"
@@ -792,13 +792,13 @@
       "chapter": "Everyday Words",
       "section": "Home",
       "letters": [
-        "በ",
-        "ቤ",
-        "ም",
-        "ር",
         "ት",
-        "ለ",
-        "ጀ"
+        "ወ",
+        "ነ",
+        "ቤ",
+        "በ",
+        "ኝ",
+        "ር"
       ],
       "requiredWords": [
         "ቤት",
@@ -836,14 +836,14 @@
       "chapter": "Everyday Words",
       "section": "Home",
       "letters": [
-        "አ",
-        "ጋ",
-        "ል",
-        "ን",
-        "ጆ",
         "በ",
-        "ር",
-        "ወ"
+        "ጋ",
+        "ግ",
+        "ል",
+        "አ",
+        "ወ",
+        "ን",
+        "ር"
       ],
       "requiredWords": [
         "ወንበር",
@@ -880,13 +880,13 @@
       "chapter": "Everyday Words",
       "section": "Home",
       "letters": [
-        "ጴ",
-        "ነ",
+        "ሦ",
+        "ቦ",
         "ረ",
-        "ኝ",
-        "ባ",
+        "ጠ",
+        "ዓ",
         "ዛ",
-        "ጠ"
+        "ጴ"
       ],
       "requiredWords": [
         "ጠረጴዛ"
@@ -910,14 +910,14 @@
       "chapter": "Everyday Words",
       "section": "Yes, no & please",
       "letters": [
-        "ጆ",
-        "ም",
-        "የ",
         "ዎ",
-        "ሃ",
+        "የ",
+        "ላ",
+        "አ",
+        "ድ",
+        "ጅ",
         "ለ",
-        "ጠ",
-        "አ"
+        "ም"
       ],
       "requiredWords": [
         "አዎ",
@@ -954,12 +954,12 @@
       "section": "Yes, no & please",
       "letters": [
         "ክ",
-        "ረ",
+        "እ",
         "ባ",
         "ሺ",
-        "ሰ",
-        "ቀ",
-        "እ",
+        "ተ",
+        "አ",
+        "ት",
         "ህ"
       ],
       "requiredWords": [
@@ -995,12 +995,12 @@
       "chapter": "Everyday Words",
       "section": "Asking",
       "letters": [
-        "ጋ",
-        "ዛ",
         "ም",
-        "ዘ",
-        "ን",
-        "ማ"
+        "አ",
+        "እ",
+        "ማ",
+        "መ",
+        "ን"
       ],
       "requiredWords": [
         "ማን",
@@ -1036,13 +1036,13 @@
       "chapter": "Everyday Words",
       "section": "Asking",
       "letters": [
-        "ድ",
-        "ም",
         "ት",
+        "ዘ",
+        "ን",
         "ቼ",
+        "የ",
         "መ",
-        "ላ",
-        "የ"
+        "ር"
       ],
       "requiredWords": [
         "የት",
@@ -1077,14 +1077,14 @@
       "chapter": "Everyday Words",
       "section": "Asking",
       "letters": [
+        "ት",
         "ም",
         "ዴ",
         "ለ",
         "እ",
-        "ት",
+        "ረ",
         "ን",
-        "ግ",
-        "ጋ"
+        "ዶ"
       ],
       "requiredWords": [
         "ለምን",
@@ -1119,13 +1119,13 @@
       "chapter": "Everyday Words",
       "section": "Where things are",
       "letters": [
-        "ይ",
-        "ቡ",
         "ች",
-        "ሮ",
         "ላ",
-        "ቦ",
-        "ታ"
+        "ር",
+        "ይ",
+        "ታ",
+        "እ",
+        "በ"
       ],
       "requiredWords": [
         "ላይ",
@@ -1163,13 +1163,13 @@
       "chapter": "Everyday Words",
       "section": "Where things are",
       "letters": [
-        "ሻ",
         "ጭ",
-        "ስ",
-        "ጥ",
+        "ሮ",
         "ው",
-        "ራ",
-        "ቀ"
+        "ድ",
+        "ስ",
+        "ዛ",
+        "ጥ"
       ],
       "requiredWords": [
         "ውስጥ",
@@ -1204,13 +1204,13 @@
       "chapter": "Everyday Words",
       "section": "Where things are",
       "letters": [
-        "ች",
-        "ራ",
-        "ተ",
-        "ው",
+        "መ",
+        "ት",
         "ግ",
-        "ቀ",
-        "ኝ"
+        "ራ",
+        "ቡ",
+        "ኝ",
+        "ቀ"
       ],
       "requiredWords": [
         "ቀኝ",
@@ -1247,13 +1247,13 @@
       "chapter": "Everyday Words",
       "section": "Sky & nature",
       "letters": [
-        "ረ",
-        "ሐ",
-        "ላ",
-        "ጴ",
-        "ቃ",
-        "ፀ",
         "ጨ",
+        "ፀ",
+        "ረ",
+        "ሁ",
+        "ቃ",
+        "ራ",
+        "ሐ",
         "ይ"
       ],
       "requiredWords": [
@@ -1292,14 +1292,14 @@
       "chapter": "Everyday Words",
       "section": "Sky & nature",
       "letters": [
-        "ሰ",
-        "ከ",
-        "ባ",
-        "ብ",
-        "ቀ",
+        "ራ",
         "ይ",
+        "ከ",
+        "ሰ",
         "ማ",
-        "ኮ"
+        "ድ",
+        "ኮ",
+        "ብ"
       ],
       "requiredWords": [
         "ኮከብ",
@@ -1336,14 +1336,14 @@
       "chapter": "Everyday Words",
       "section": "Sky & nature",
       "letters": [
-        "ና",
-        "ዝ",
-        "ዴ",
-        "ዛ",
         "መ",
+        "ዴ",
+        "ብ",
         "ፍ",
-        "ግ",
-        "ብ"
+        "ዛ",
+        "ዓ",
+        "ዝ",
+        "ና"
       ],
       "requiredWords": [
         "ዛፍ",
@@ -1380,13 +1380,13 @@
       "chapter": "Everyday Words",
       "section": "Time",
       "letters": [
-        "ሬ",
-        "ዛ",
         "ገ",
-        "ፍ",
-        "ከ",
-        "ሰ",
-        "ነ"
+        "ጅ",
+        "ሬ",
+        "ነ",
+        "መ",
+        "ጴ",
+        "ዛ"
       ],
       "requiredWords": [
         "ዛሬ",
@@ -1422,14 +1422,14 @@
       "chapter": "Everyday Words",
       "section": "Time",
       "letters": [
-        "ቀ",
+        "ፈ",
         "ና",
+        "ት",
         "ን",
         "ት",
-        "ገ",
-        "ህ",
-        "ት",
-        "ፍ"
+        "ቀ",
+        "ጆ",
+        "ሃ"
       ],
       "requiredWords": [
         "ትናንት",
@@ -1465,11 +1465,11 @@
       "section": "Time",
       "letters": [
         "ት",
+        "ዎ",
+        "ክ",
         "ሊ",
-        "ይ",
-        "ሌ",
-        "ፍ",
-        "ጆ"
+        "ሻ",
+        "ሌ"
       ],
       "requiredWords": [
         "ሌሊት"
@@ -1489,18 +1489,140 @@
     },
     {
       "id": 38,
-      "title": "Transport",
-      "section": "Everyday Life",
-      "chapter": "Foundations",
+      "title": "In town",
+      "chapter": "Out & About",
+      "section": "In town",
       "letters": [
-        "ና",
-        "ሮ",
         "መ",
-        "ኪ",
-        "ት"
+        "ድ",
+        "ያ",
+        "ጨ",
+        "በ",
+        "ዝ",
+        "ን",
+        "ገ"
       ],
       "requiredWords": [
-        "መኪና"
+        "ገበያ",
+        "መንገድ"
+      ],
+      "wordDetails": {
+        "ገበያ": {
+          "meaningEn": "market",
+          "meaningAm": "ሸቀጣ ሸቀጥ የሚሸጥበትና የሚገዛበት ቦታ",
+          "exampleAm": "ወደ ገበያ ሄጄ አትክልት ገዛሁ።",
+          "transliteration": "gebeya",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a place where goods are bought and sold",
+          "exampleEn": "I went to the market and bought vegetables.",
+          "icon": "🛒"
+        },
+        "መንገድ": {
+          "meaningEn": "road; way",
+          "meaningAm": "ከቦታ ቦታ መሄጃ መተላለፊያ",
+          "exampleAm": "መንገዱ ረጅም ነው።",
+          "transliteration": "menged",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a passage for going from place to place",
+          "exampleEn": "The road is long.",
+          "icon": "🛣️"
+        }
+      },
+      "goal": "I can name places in town"
+    },
+    {
+      "id": 39,
+      "title": "In town",
+      "chapter": "Out & About",
+      "section": "In town",
+      "letters": [
+        "ቅ",
+        "ህ",
+        "ከ",
+        "ተ",
+        "በ",
+        "ታ",
+        "ሱ",
+        "ማ"
+      ],
+      "requiredWords": [
+        "ከተማ",
+        "ሱቅ"
+      ],
+      "wordDetails": {
+        "ከተማ": {
+          "meaningEn": "city; town",
+          "meaningAm": "ብዙ ሰው የሚኖርበት ሰፊ ቦታ",
+          "exampleAm": "አዲስ አበባ ትልቅ ከተማ ናት።",
+          "transliteration": "ketema",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a large place where many people live",
+          "exampleEn": "Addis Ababa is a big city.",
+          "icon": "🏙️"
+        },
+        "ሱቅ": {
+          "meaningEn": "shop",
+          "meaningAm": "ዕቃ የሚሸጥበት ትንሽ መደብር",
+          "exampleAm": "ከሱቅ ዳቦ ገዛሁ።",
+          "transliteration": "suq",
+          "difficulty": 1,
+          "category": "places",
+          "definitionEn": "a small store where goods are sold",
+          "exampleEn": "I bought bread from the shop.",
+          "icon": "🏪"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "title": "In town",
+      "chapter": "Out & About",
+      "section": "In town",
+      "letters": [
+        "ማ",
+        "ር",
+        "ገ",
+        "ጭ",
+        "አ",
+        "ቃ"
+      ],
+      "requiredWords": [
+        "አገር"
+      ],
+      "wordDetails": {
+        "አገር": {
+          "meaningEn": "country",
+          "meaningAm": "ሕዝብ የሚኖርበት ግዛት",
+          "exampleAm": "ኢትዮጵያ የእኔ አገር ናት።",
+          "transliteration": "ager",
+          "difficulty": 2,
+          "category": "places",
+          "definitionEn": "a territory where a people lives",
+          "exampleEn": "Ethiopia is my country."
+        }
+      }
+    },
+    {
+      "id": 41,
+      "title": "Getting around",
+      "chapter": "Out & About",
+      "section": "Getting around",
+      "letters": [
+        "መ",
+        "ና",
+        "ጀ",
+        "ኪ",
+        "ዳ",
+        "ባ",
+        "ር",
+        "ቡ"
+      ],
+      "requiredWords": [
+        "መኪና",
+        "ባቡር"
       ],
       "wordDetails": {
         "መኪና": {
@@ -1513,11 +1635,1220 @@
           "definitionEn": "a motor-driven vehicle for transport",
           "exampleEn": "My father bought a new car.",
           "icon": "🚗"
+        },
+        "ባቡር": {
+          "meaningEn": "train",
+          "meaningAm": "በሐዲድ ላይ የሚጓዝ ረጅም ተሽከርካሪ",
+          "exampleAm": "ባቡሩ በፍጥነት ይሄዳል።",
+          "transliteration": "babur",
+          "difficulty": 2,
+          "category": "transport",
+          "definitionEn": "a long vehicle that travels on rails",
+          "exampleEn": "The train goes fast.",
+          "icon": "🚂"
+        }
+      },
+      "goal": "I can name ways to travel"
+    },
+    {
+      "id": 42,
+      "title": "Getting around",
+      "chapter": "Out & About",
+      "section": "Getting around",
+      "letters": [
+        "ሲ",
+        "አ",
+        "ስ",
+        "ቡ",
+        "ታ",
+        "ው",
+        "ክ",
+        "ቶ"
+      ],
+      "requiredWords": [
+        "አውቶቡስ",
+        "ታክሲ"
+      ],
+      "wordDetails": {
+        "አውቶቡስ": {
+          "meaningEn": "bus",
+          "meaningAm": "ብዙ ሰው የሚጭን ትልቅ የሕዝብ ማመላለሻ",
+          "exampleAm": "አውቶቡሱ በሰዓቱ ደረሰ።",
+          "transliteration": "awtobus",
+          "difficulty": 2,
+          "category": "transport",
+          "definitionEn": "a large public vehicle that carries many people",
+          "exampleEn": "The bus arrived on time.",
+          "icon": "🚌"
+        },
+        "ታክሲ": {
+          "meaningEn": "taxi",
+          "meaningAm": "በክፍያ ሰዎችን የሚያመላልስ መኪና",
+          "exampleAm": "ታክሲ ይዤ ወደ ቤት ሄድኩ።",
+          "transliteration": "taksi",
+          "difficulty": 2,
+          "category": "transport",
+          "definitionEn": "a car that carries people for a fee",
+          "exampleEn": "I took a taxi home.",
+          "icon": "🚕"
         }
       }
     },
     {
-      "id": 39,
+      "id": 43,
+      "title": "Getting around",
+      "chapter": "Out & About",
+      "section": "Getting around",
+      "letters": [
+        "ብ",
+        "ል",
+        "ባ",
+        "ስ",
+        "ት",
+        "ሌ",
+        "ክ",
+        "ጀ"
+      ],
+      "requiredWords": [
+        "ብስክሌት",
+        "ጀልባ"
+      ],
+      "wordDetails": {
+        "ብስክሌት": {
+          "meaningEn": "bicycle",
+          "meaningAm": "ሁለት ጎማ ያለው በእግር የሚነዳ",
+          "exampleAm": "ልጁ ብስክሌት ይነዳል።",
+          "transliteration": "biskilet",
+          "difficulty": 3,
+          "category": "transport",
+          "definitionEn": "a two-wheeled vehicle driven by the feet",
+          "exampleEn": "The boy rides a bicycle.",
+          "icon": "🚲"
+        },
+        "ጀልባ": {
+          "meaningEn": "boat",
+          "meaningAm": "በውሃ ላይ የሚንሳፈፍ ማመላለሻ",
+          "exampleAm": "ጀልባዋ በወንዙ ላይ ትንሳፈፋለች።",
+          "transliteration": "jelba",
+          "difficulty": 2,
+          "category": "transport",
+          "definitionEn": "a craft that floats on water",
+          "exampleEn": "The boat floats on the river.",
+          "icon": "⛵"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "title": "Coming & going",
+      "chapter": "Out & About",
+      "section": "Coming & going",
+      "letters": [
+        "ት",
+        "ኮ",
+        "መ",
+        "ም",
+        "ሄ",
+        "ድ",
+        "ቃ",
+        "ጣ"
+      ],
+      "requiredWords": [
+        "መሄድ",
+        "መምጣት"
+      ],
+      "wordDetails": {
+        "መሄድ": {
+          "meaningEn": "to go",
+          "meaningAm": "ከአንድ ቦታ ወደ ሌላ መንቀሳቀስ",
+          "exampleAm": "ወደ ቤት መሄድ እፈልጋለሁ።",
+          "transliteration": "mehed",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to move from one place to another",
+          "exampleEn": "I want to go home."
+        },
+        "መምጣት": {
+          "meaningEn": "to come",
+          "meaningAm": "ወደዚህ መቅረብ",
+          "exampleAm": "በሰዓቱ መምጣት አለብህ።",
+          "transliteration": "memtat",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to approach here",
+          "exampleEn": "You must come on time."
+        }
+      },
+      "goal": "I can say how I move"
+    },
+    {
+      "id": 45,
+      "title": "Coming & going",
+      "chapter": "Out & About",
+      "section": "Coming & going",
+      "letters": [
+        "መ",
+        "መ",
+        "ሻ",
+        "ዶ",
+        "ጥ",
+        "ራ",
+        "ሮ",
+        "ድ"
+      ],
+      "requiredWords": [
+        "መሮጥ",
+        "መራመድ"
+      ],
+      "wordDetails": {
+        "መሮጥ": {
+          "meaningEn": "to run",
+          "meaningAm": "በፍጥነት በእግር መንቀሳቀስ",
+          "exampleAm": "ልጁ በሜዳ ሮጠ።",
+          "transliteration": "merot",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to move quickly on foot",
+          "exampleEn": "The boy ran in the field."
+        },
+        "መራመድ": {
+          "meaningEn": "to walk",
+          "meaningAm": "በእግር ቀስ ብሎ መሄድ",
+          "exampleAm": "በየቀኑ ብዙ እራመዳለሁ።",
+          "transliteration": "meramed",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to go slowly on foot",
+          "exampleEn": "I walk a lot every day."
+        }
+      }
+    },
+    {
+      "id": 46,
+      "title": "Everyday actions",
+      "chapter": "Out & About",
+      "section": "Everyday actions",
+      "letters": [
+        "ብ",
+        "ና",
+        "ጣ",
+        "ላ",
+        "መ",
+        "ጠ",
+        "ት",
+        "ኪ"
+      ],
+      "requiredWords": [
+        "መብላት",
+        "መጠጣት"
+      ],
+      "wordDetails": {
+        "መብላት": {
+          "meaningEn": "to eat",
+          "meaningAm": "ምግብ ወደ ሰውነት ማስገባት",
+          "exampleAm": "ምሳ መብላት እፈልጋለሁ።",
+          "transliteration": "meblat",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to take food into the body",
+          "exampleEn": "I want to eat lunch."
+        },
+        "መጠጣት": {
+          "meaningEn": "to drink",
+          "meaningAm": "ፈሳሽ መውሰድ",
+          "exampleAm": "ውሃ መጠጣት ለጤና ጠቃሚ ነው።",
+          "transliteration": "metetat",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to take in liquid",
+          "exampleEn": "Drinking water is good for your health."
+        }
+      },
+      "goal": "I can say what I do"
+    },
+    {
+      "id": 47,
+      "title": "Everyday actions",
+      "chapter": "Out & About",
+      "section": "Everyday actions",
+      "letters": [
+        "ሱ",
+        "ኮ",
+        "መ",
+        "ስ",
+        "ት",
+        "ማ",
+        "ን",
+        "የ"
+      ],
+      "requiredWords": [
+        "ማየት",
+        "መስማት"
+      ],
+      "wordDetails": {
+        "ማየት": {
+          "meaningEn": "to see",
+          "meaningAm": "በዓይን መመልከት",
+          "exampleAm": "ፊልም ማየት እወዳለሁ።",
+          "transliteration": "mayet",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to look with the eyes",
+          "exampleEn": "I like to watch films."
+        },
+        "መስማት": {
+          "meaningEn": "to hear",
+          "meaningAm": "በጆሮ ድምፅ መቀበል",
+          "exampleAm": "ሙዚቃ መስማት ያስደስታል።",
+          "transliteration": "mesmat",
+          "difficulty": 2,
+          "category": "verbs",
+          "definitionEn": "to receive sound with the ears",
+          "exampleEn": "Listening to music is enjoyable."
+        }
+      }
+    },
+    {
+      "id": 48,
+      "title": "Everyday actions",
+      "chapter": "Out & About",
+      "section": "Everyday actions",
+      "letters": [
+        "ሦ",
+        "ኮ",
+        "ገ",
+        "መ",
+        "ር",
+        "ና",
+        "ሁ"
+      ],
+      "requiredWords": [
+        "መናገር"
+      ],
+      "wordDetails": {
+        "መናገር": {
+          "meaningEn": "to speak",
+          "meaningAm": "በቃላት ሐሳብን መግለጽ",
+          "exampleAm": "በአደባባይ መናገር ይፈራል።",
+          "transliteration": "menager",
+          "difficulty": 3,
+          "category": "verbs",
+          "definitionEn": "to express a thought in words",
+          "exampleEn": "He is afraid to speak in public."
+        }
+      }
+    },
+    {
+      "id": 49,
+      "title": "What I wear",
+      "chapter": "Out & About",
+      "section": "What I wear",
+      "letters": [
+        "ጫ",
+        "ቀ",
+        "ዓ",
+        "ር",
+        "ማ",
+        "ሚ",
+        "ሄ",
+        "ስ"
+      ],
+      "requiredWords": [
+        "ቀሚስ",
+        "ጫማ"
+      ],
+      "wordDetails": {
+        "ቀሚስ": {
+          "meaningEn": "dress",
+          "meaningAm": "ሴቶች የሚለብሱት ልብስ",
+          "exampleAm": "አበበች ቀይ ቀሚስ ለበሰች።",
+          "transliteration": "qemis",
+          "difficulty": 2,
+          "category": "clothing",
+          "definitionEn": "a garment worn by women",
+          "exampleEn": "Abebech wore a red dress.",
+          "icon": "👗"
+        },
+        "ጫማ": {
+          "meaningEn": "shoe",
+          "meaningAm": "እግር ላይ የሚደረግ የእግር ልብስ",
+          "exampleAm": "አዲስ ጫማ ገዛሁ።",
+          "transliteration": "chama",
+          "difficulty": 1,
+          "category": "clothing",
+          "definitionEn": "footwear worn on the feet",
+          "exampleEn": "I bought new shoes.",
+          "icon": "👟"
+        }
+      },
+      "goal": "I can name clothes"
+    },
+    {
+      "id": 50,
+      "title": "What I wear",
+      "chapter": "Out & About",
+      "section": "What I wear",
+      "letters": [
+        "ፍ",
+        "ያ",
+        "ሌ",
+        "ኮ",
+        "ሪ",
+        "ኪ",
+        "ጅ",
+        "ሱ"
+      ],
+      "requiredWords": [
+        "ሱሪ",
+        "ኮፍያ"
+      ],
+      "wordDetails": {
+        "ሱሪ": {
+          "meaningEn": "trousers",
+          "meaningAm": "ከወገብ በታች የሚለበስ ልብስ",
+          "exampleAm": "ሰማያዊ ሱሪ ለበሰ።",
+          "transliteration": "suri",
+          "difficulty": 2,
+          "category": "clothing",
+          "definitionEn": "a garment worn below the waist",
+          "exampleEn": "He wore blue trousers.",
+          "icon": "👖"
+        },
+        "ኮፍያ": {
+          "meaningEn": "hat",
+          "meaningAm": "ራስ ላይ የሚደረግ ልብስ",
+          "exampleAm": "ፀሐይ ሲኖር ኮፍያ አደርጋለሁ።",
+          "transliteration": "kofiya",
+          "difficulty": 2,
+          "category": "clothing",
+          "definitionEn": "a covering worn on the head",
+          "exampleEn": "I wear a hat when it's sunny.",
+          "icon": "🧢"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "title": "More food",
+      "chapter": "Out & About",
+      "section": "More food",
+      "letters": [
+        "ዛ",
+        "ዝ",
+        "ን",
+        "ድ",
+        "ች",
+        "ጭ",
+        "እ",
+        "ሙ"
+      ],
+      "requiredWords": [
+        "ሙዝ",
+        "ድንች"
+      ],
+      "wordDetails": {
+        "ሙዝ": {
+          "meaningEn": "banana",
+          "meaningAm": "ጣፋጭ ቢጫ ፍራፍሬ",
+          "exampleAm": "ሙዝ መብላት እወዳለሁ።",
+          "transliteration": "muz",
+          "difficulty": 1,
+          "category": "food",
+          "definitionEn": "a sweet yellow fruit",
+          "exampleEn": "I like to eat bananas.",
+          "icon": "🍌"
+        },
+        "ድንች": {
+          "meaningEn": "potato",
+          "meaningAm": "ከመሬት ውስጥ የሚበቅል ሰብል",
+          "exampleAm": "የድንች ጥብስ ጣፋጭ ነው።",
+          "transliteration": "dinch",
+          "difficulty": 2,
+          "category": "food",
+          "definitionEn": "a crop that grows underground",
+          "exampleEn": "Fried potatoes are delicious.",
+          "icon": "🥔"
+        }
+      },
+      "goal": "I can name more foods"
+    },
+    {
+      "id": 52,
+      "title": "More food",
+      "chapter": "Out & About",
+      "section": "More food",
+      "letters": [
+        "ቤ",
+        "ቡ",
+        "ዝ",
+        "ቅ",
+        "ብ",
+        "ሩ",
+        "ግ"
+      ],
+      "requiredWords": [
+        "ሩዝ",
+        "ቅቤ"
+      ],
+      "wordDetails": {
+        "ሩዝ": {
+          "meaningEn": "rice",
+          "meaningAm": "በውሃ ተቀቅሎ የሚበላ ሰብል",
+          "exampleAm": "ሩዝ ከወጥ ጋር በላን።",
+          "transliteration": "ruz",
+          "difficulty": 1,
+          "category": "food",
+          "definitionEn": "a grain eaten after being boiled in water",
+          "exampleEn": "We ate rice with stew.",
+          "icon": "🍚"
+        },
+        "ቅቤ": {
+          "meaningEn": "butter",
+          "meaningAm": "ከወተት የሚሰራ ቅባት",
+          "exampleAm": "ዳቦውን በቅቤ ቀባ።",
+          "transliteration": "qibe",
+          "difficulty": 2,
+          "category": "food",
+          "definitionEn": "a fat made from milk",
+          "exampleEn": "He spread butter on the bread.",
+          "icon": "🧈"
+        }
+      }
+    },
+    {
+      "id": 53,
+      "title": "People & work",
+      "chapter": "Out & About",
+      "section": "People & work",
+      "letters": [
+        "በ",
+        "ድ",
+        "ት",
+        "ን",
+        "ወ",
+        "ሰ",
+        "ሬ",
+        "ሴ"
+      ],
+      "requiredWords": [
+        "ሴት",
+        "ወንድ"
+      ],
+      "wordDetails": {
+        "ሴት": {
+          "meaningEn": "woman",
+          "meaningAm": "የሴት ጾታ ያላት ሰው",
+          "exampleAm": "ያቺ ሴት አስተማሪ ናት።",
+          "transliteration": "set",
+          "difficulty": 1,
+          "category": "people",
+          "definitionEn": "a person of the female sex",
+          "exampleEn": "That woman is a teacher.",
+          "icon": "👩"
+        },
+        "ወንድ": {
+          "meaningEn": "man",
+          "meaningAm": "የወንድ ጾታ ያለው ሰው",
+          "exampleAm": "ያ ወንድ ረጅም ነው።",
+          "transliteration": "wend",
+          "difficulty": 1,
+          "category": "people",
+          "definitionEn": "a person of the male sex",
+          "exampleEn": "That man is tall.",
+          "icon": "👨"
+        }
+      },
+      "goal": "I can name people and jobs"
+    },
+    {
+      "id": 54,
+      "title": "People & work",
+      "chapter": "Out & About",
+      "section": "People & work",
+      "letters": [
+        "ማ",
+        "ጓ",
+        "ተ",
+        "ኛ",
+        "ስ",
+        "ሪ",
+        "ደ",
+        "አ"
+      ],
+      "requiredWords": [
+        "ጓደኛ",
+        "አስተማሪ"
+      ],
+      "wordDetails": {
+        "ጓደኛ": {
+          "meaningEn": "friend",
+          "meaningAm": "አብሮ የሚውልና የሚዋደድ ሰው",
+          "exampleAm": "ጓደኛዬ በጣም ደግ ነው።",
+          "transliteration": "gwadegna",
+          "difficulty": 2,
+          "category": "people",
+          "definitionEn": "a person one spends time with and is fond of",
+          "exampleEn": "My friend is very kind.",
+          "icon": "🧑‍🤝‍🧑"
+        },
+        "አስተማሪ": {
+          "meaningEn": "teacher",
+          "meaningAm": "ተማሪዎችን የሚያስተምር ሰው",
+          "exampleAm": "አስተማሪው ትምህርት ሰጠ።",
+          "transliteration": "astemari",
+          "difficulty": 3,
+          "category": "jobs",
+          "definitionEn": "a person who teaches students",
+          "exampleEn": "The teacher gave a lesson.",
+          "icon": "👨‍🏫"
+        }
+      }
+    },
+    {
+      "id": 55,
+      "title": "People & work",
+      "chapter": "Out & About",
+      "section": "People & work",
+      "letters": [
+        "ር",
+        "ጴ",
+        "ክ",
+        "ዶ",
+        "ሪ",
+        "ተ",
+        "ማ",
+        "ቀ"
+      ],
+      "requiredWords": [
+        "ተማሪ",
+        "ዶክተር"
+      ],
+      "wordDetails": {
+        "ተማሪ": {
+          "meaningEn": "student",
+          "meaningAm": "ትምህርት የሚማር ሰው",
+          "exampleAm": "እሷ ጎበዝ ተማሪ ናት።",
+          "transliteration": "temari",
+          "difficulty": 2,
+          "category": "jobs",
+          "definitionEn": "a person who studies",
+          "exampleEn": "She is a clever student.",
+          "icon": "🧑‍🎓"
+        },
+        "ዶክተር": {
+          "meaningEn": "doctor",
+          "meaningAm": "በሽተኞችን የሚያክም ባለሙያ",
+          "exampleAm": "ዶክተሩ ታካሚውን መረመረ።",
+          "transliteration": "dokter",
+          "difficulty": 2,
+          "category": "jobs",
+          "definitionEn": "a professional who treats the sick",
+          "exampleEn": "The doctor examined the patient.",
+          "icon": "👨‍⚕️"
+        }
+      }
+    },
+    {
+      "id": 56,
+      "title": "Describing",
+      "chapter": "Out & About",
+      "section": "Describing",
+      "letters": [
+        "ፀ",
+        "ዶ",
+        "ዴ",
+        "ሽ",
+        "ት",
+        "ል",
+        "ቅ",
+        "ን"
+      ],
+      "requiredWords": [
+        "ትልቅ",
+        "ትንሽ"
+      ],
+      "wordDetails": {
+        "ትልቅ": {
+          "meaningEn": "big",
+          "meaningAm": "በመጠን ሰፊ የሆነ",
+          "exampleAm": "ትልቅ ቤት አላቸው።",
+          "transliteration": "tiliq",
+          "difficulty": 1,
+          "category": "adjectives",
+          "definitionEn": "large in size",
+          "exampleEn": "They have a big house."
+        },
+        "ትንሽ": {
+          "meaningEn": "small",
+          "meaningAm": "በመጠን አነስተኛ የሆነ",
+          "exampleAm": "ትንሽ ድመት አለኝ።",
+          "transliteration": "tinish",
+          "difficulty": 1,
+          "category": "adjectives",
+          "definitionEn": "small in size",
+          "exampleEn": "I have a small cat."
+        }
+      },
+      "goal": "I can describe size and quality"
+    },
+    {
+      "id": 57,
+      "title": "Describing",
+      "chapter": "Out & About",
+      "section": "Describing",
+      "letters": [
+        "ም",
+        "ረ",
+        "ጭ",
+        "ሬ",
+        "ህ",
+        "ር",
+        "አ",
+        "ጅ"
+      ],
+      "requiredWords": [
+        "ረጅም",
+        "አጭር"
+      ],
+      "wordDetails": {
+        "ረጅም": {
+          "meaningEn": "tall; long",
+          "meaningAm": "በቁመት ወይም በርዝመት የገዘፈ",
+          "exampleAm": "ረጅም ዛፍ ይታያል።",
+          "transliteration": "rejim",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "great in height or length",
+          "exampleEn": "A tall tree is visible."
+        },
+        "አጭር": {
+          "meaningEn": "short",
+          "meaningAm": "በቁመት ያነሰ",
+          "exampleAm": "አጭር መንገድ ተጠቀምን።",
+          "transliteration": "achir",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "small in height or length",
+          "exampleEn": "We took a short road."
+        }
+      }
+    },
+    {
+      "id": 58,
+      "title": "Describing",
+      "chapter": "Out & About",
+      "section": "Describing",
+      "letters": [
+        "ም",
+        "ጥ",
+        "ፀ",
+        "ሩ",
+        "ዳ"
+      ],
+      "requiredWords": [
+        "ጥሩ"
+      ],
+      "wordDetails": {
+        "ጥሩ": {
+          "meaningEn": "good",
+          "meaningAm": "መልካም፤ ደስ የሚያሰኝ",
+          "exampleAm": "እሱ ጥሩ ሰው ነው።",
+          "transliteration": "tiru",
+          "difficulty": 1,
+          "category": "adjectives",
+          "definitionEn": "fine; pleasing",
+          "exampleEn": "He is a good person."
+        }
+      }
+    },
+    {
+      "id": 59,
+      "title": "Opposites",
+      "chapter": "Out & About",
+      "section": "Opposites",
+      "letters": [
+        "ት",
+        "ቃ",
+        "ባ",
+        "ቀ",
+        "ዛ",
+        "ዝ",
+        "ፈ",
+        "ሞ"
+      ],
+      "requiredWords": [
+        "ሞቃት",
+        "ቀዝቃዛ"
+      ],
+      "wordDetails": {
+        "ሞቃት": {
+          "meaningEn": "hot",
+          "meaningAm": "ሙቀት ያለው",
+          "exampleAm": "ዛሬ አየሩ ሞቃት ነው።",
+          "transliteration": "moqat",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "having heat",
+          "exampleEn": "The weather is hot today."
+        },
+        "ቀዝቃዛ": {
+          "meaningEn": "cold",
+          "meaningAm": "ቅዝቃዜ ያለው",
+          "exampleAm": "ቀዝቃዛ ውሃ ጠጣሁ።",
+          "transliteration": "qezqaza",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "having coldness",
+          "exampleEn": "I drank cold water."
+        }
+      },
+      "goal": "I can describe how things are"
+    },
+    {
+      "id": 60,
+      "title": "Opposites",
+      "chapter": "Out & About",
+      "section": "Opposites",
+      "letters": [
+        "ጫ",
+        "ን",
+        "ር",
+        "ፋ",
+        "ፈ",
+        "ቀ",
+        "ፋ",
+        "ጣ"
+      ],
+      "requiredWords": [
+        "ፈጣን",
+        "ቀርፋፋ"
+      ],
+      "wordDetails": {
+        "ፈጣን": {
+          "meaningEn": "fast",
+          "meaningAm": "በፍጥነት የሚንቀሳቀስ",
+          "exampleAm": "ፈጣን መኪና ነው።",
+          "transliteration": "fetan",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "moving quickly",
+          "exampleEn": "It is a fast car."
+        },
+        "ቀርፋፋ": {
+          "meaningEn": "slow",
+          "meaningAm": "ቀስ የሚል፤ ፍጥነት የሌለው",
+          "exampleAm": "ቀርፋፋ ኤሊ ነው።",
+          "transliteration": "qerfafa",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "moving slowly; lacking speed",
+          "exampleEn": "It is a slow tortoise."
+        }
+      }
+    },
+    {
+      "id": 61,
+      "title": "Opposites",
+      "chapter": "Out & About",
+      "section": "Opposites",
+      "letters": [
+        "ሻ",
+        "ሻ",
+        "ቆ",
+        "ጹ",
+        "ህ",
+        "ወ",
+        "ን",
+        "ሲ"
+      ],
+      "requiredWords": [
+        "ንጹህ",
+        "ቆሻሻ"
+      ],
+      "wordDetails": {
+        "ንጹህ": {
+          "meaningEn": "clean",
+          "meaningAm": "ቆሻሻ የሌለበት",
+          "exampleAm": "ንጹህ ልብስ ለበሰ።",
+          "transliteration": "nitsuh",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "having no dirt",
+          "exampleEn": "He wore clean clothes."
+        },
+        "ቆሻሻ": {
+          "meaningEn": "dirty",
+          "meaningAm": "የቆሸሸ፤ ንጽህና የጎደለው",
+          "exampleAm": "ቆሻሻ እጅ አታስገባ።",
+          "transliteration": "qoshasha",
+          "difficulty": 2,
+          "category": "adjectives",
+          "definitionEn": "soiled; lacking cleanliness",
+          "exampleEn": "Don't reach in with a dirty hand."
+        }
+      }
+    },
+    {
+      "id": 62,
+      "title": "Feelings",
+      "chapter": "Out & About",
+      "section": "Feelings",
+      "letters": [
+        "ስ",
+        "ሃ",
+        "ደ",
+        "ታ",
+        "ዘ",
+        "ሐ",
+        "ሊ",
+        "ን"
+      ],
+      "requiredWords": [
+        "ደስታ",
+        "ሐዘን"
+      ],
+      "wordDetails": {
+        "ደስታ": {
+          "meaningEn": "happiness",
+          "meaningAm": "ደስ የመሰኘት ስሜት",
+          "exampleAm": "ፊቷ ላይ ደስታ ይነበባል።",
+          "transliteration": "desta",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of joy",
+          "exampleEn": "Happiness can be read on her face.",
+          "icon": "😊"
+        },
+        "ሐዘን": {
+          "meaningEn": "sadness",
+          "meaningAm": "የማዘን ስሜት",
+          "exampleAm": "ዜናው ሐዘን አመጣ።",
+          "transliteration": "hazen",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of sorrow",
+          "exampleEn": "The news brought sadness.",
+          "icon": "😢"
+        }
+      },
+      "goal": "I can say how I feel"
+    },
+    {
+      "id": 63,
+      "title": "Feelings",
+      "chapter": "Out & About",
+      "section": "Feelings",
+      "letters": [
+        "ር",
+        "አ",
+        "ፍ",
+        "ጣ",
+        "ሃ",
+        "ት",
+        "ቁ",
+        "ዎ"
+      ],
+      "requiredWords": [
+        "ፍርሃት",
+        "ቁጣ"
+      ],
+      "wordDetails": {
+        "ፍርሃት": {
+          "meaningEn": "fear",
+          "meaningAm": "የመፍራት ስሜት",
+          "exampleAm": "ጨለማ ፍርሃት ይፈጥርብኛል።",
+          "transliteration": "firhat",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of being afraid",
+          "exampleEn": "Darkness creates fear in me.",
+          "icon": "😨"
+        },
+        "ቁጣ": {
+          "meaningEn": "anger",
+          "meaningAm": "የመቆጣት ስሜት",
+          "exampleAm": "በቁጣ ተናገረ።",
+          "transliteration": "qutta",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of being angry",
+          "exampleEn": "He spoke in anger.",
+          "icon": "😠"
+        }
+      }
+    },
+    {
+      "id": 64,
+      "title": "Body & health",
+      "chapter": "Out & About",
+      "section": "Body & health",
+      "letters": [
+        "ሰ",
+        "ብ",
+        "ዎ",
+        "ጥ",
+        "ም",
+        "ሃ",
+        "ረ",
+        "ሦ"
+      ],
+      "requiredWords": [
+        "ረሃብ",
+        "ጥም"
+      ],
+      "wordDetails": {
+        "ረሃብ": {
+          "meaningEn": "hunger",
+          "meaningAm": "የመራብ ስሜት",
+          "exampleAm": "ረሃብ ተሰማው።",
+          "transliteration": "rehab",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of being hungry",
+          "exampleEn": "He felt hunger."
+        },
+        "ጥም": {
+          "meaningEn": "thirst",
+          "meaningAm": "ውሃ የመፈለግ ስሜት",
+          "exampleAm": "በሙቀቱ ጥም ተሰማኝ።",
+          "transliteration": "tim",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of needing water",
+          "exampleEn": "I felt thirsty in the heat."
+        }
+      },
+      "goal": "I can say how my body feels"
+    },
+    {
+      "id": 65,
+      "title": "Body & health",
+      "chapter": "Out & About",
+      "section": "Body & health",
+      "letters": [
+        "ቅ",
+        "ም",
+        "ድ",
+        "ል",
+        "ን",
+        "ፍ",
+        "እ",
+        "ካ"
+      ],
+      "requiredWords": [
+        "ድካም",
+        "እንቅልፍ"
+      ],
+      "wordDetails": {
+        "ድካም": {
+          "meaningEn": "tiredness",
+          "meaningAm": "የመድከም ስሜት",
+          "exampleAm": "ከስራ በኋላ ድካም ይሰማኛል።",
+          "transliteration": "dikam",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "a feeling of being tired",
+          "exampleEn": "I feel tired after work."
+        },
+        "እንቅልፍ": {
+          "meaningEn": "sleep",
+          "meaningAm": "የመተኛት ሁኔታ",
+          "exampleAm": "ጥሩ እንቅልፍ ተኛሁ።",
+          "transliteration": "inqilf",
+          "difficulty": 2,
+          "category": "feelings",
+          "definitionEn": "the state of sleeping",
+          "exampleEn": "I slept well.",
+          "icon": "😴"
+        }
+      }
+    },
+    {
+      "id": 66,
+      "title": "Body & health",
+      "chapter": "Out & About",
+      "section": "Body & health",
+      "letters": [
+        "ቃ",
+        "መ",
+        "ቤ",
+        "ቁ",
+        "ህ",
+        "ም"
+      ],
+      "requiredWords": [
+        "ህመም"
+      ],
+      "wordDetails": {
+        "ህመም": {
+          "meaningEn": "pain; illness",
+          "meaningAm": "የመታመም ስሜት",
+          "exampleAm": "የራስ ህመም አለብኝ።",
+          "transliteration": "hmem",
+          "difficulty": 2,
+          "category": "health",
+          "definitionEn": "a feeling of being unwell",
+          "exampleEn": "I have a headache."
+        }
+      }
+    },
+    {
+      "id": 67,
+      "title": "Days of the week",
+      "chapter": "Out & About",
+      "section": "Days of the week",
+      "letters": [
+        "ሰ",
+        "ክ",
+        "ኞ",
+        "ከ",
+        "ዘ",
+        "ሞ",
+        "ማ"
+      ],
+      "requiredWords": [
+        "ሰኞ",
+        "ማክሰኞ"
+      ],
+      "wordDetails": {
+        "ሰኞ": {
+          "meaningEn": "Monday",
+          "meaningAm": "የሳምንቱ የመጀመሪያ የሥራ ቀን",
+          "exampleAm": "ሰኞ ወደ ሥራ እሄዳለሁ።",
+          "transliteration": "segno",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the first working day of the week",
+          "exampleEn": "On Monday I go to work."
+        },
+        "ማክሰኞ": {
+          "meaningEn": "Tuesday",
+          "meaningAm": "ከሰኞ ቀጥሎ ያለ ቀን",
+          "exampleAm": "ማክሰኞ ፈተና አለ።",
+          "transliteration": "maksegno",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the day after Monday",
+          "exampleEn": "There is an exam on Tuesday."
+        }
+      },
+      "goal": "I can name the days"
+    },
+    {
+      "id": 68,
+      "title": "Days of the week",
+      "chapter": "Out & About",
+      "section": "Days of the week",
+      "letters": [
+        "ቡ",
+        "ስ",
+        "ዕ",
+        "ሐ",
+        "ሙ",
+        "ረ",
+        "ዛ",
+        "ጴ"
+      ],
+      "requiredWords": [
+        "ረቡዕ",
+        "ሐሙስ"
+      ],
+      "wordDetails": {
+        "ረቡዕ": {
+          "meaningEn": "Wednesday",
+          "meaningAm": "የሳምንቱ መካከለኛ ቀን",
+          "exampleAm": "ረቡዕ እንገናኛለን።",
+          "transliteration": "rebu",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the middle day of the week",
+          "exampleEn": "We will meet on Wednesday."
+        },
+        "ሐሙስ": {
+          "meaningEn": "Thursday",
+          "meaningAm": "ከረቡዕ ቀጥሎ ያለ ቀን",
+          "exampleAm": "ሐሙስ ገበያ እወጣለሁ።",
+          "transliteration": "hamus",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the day after Wednesday",
+          "exampleEn": "On Thursday I go to the market."
+        }
+      }
+    },
+    {
+      "id": 69,
+      "title": "Days of the week",
+      "chapter": "Out & About",
+      "section": "Days of the week",
+      "letters": [
+        "ቅ",
+        "ብ",
+        "ዓ",
+        "ሜ",
+        "ደ",
+        "ር",
+        "ሚ",
+        "ዳ"
+      ],
+      "requiredWords": [
+        "ዓርብ",
+        "ቅዳሜ"
+      ],
+      "wordDetails": {
+        "ዓርብ": {
+          "meaningEn": "Friday",
+          "meaningAm": "ከሐሙስ ቀጥሎ ያለ ቀን",
+          "exampleAm": "ዓርብ ጸሎት አለ።",
+          "transliteration": "arb",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the day after Thursday",
+          "exampleEn": "There is prayer on Friday."
+        },
+        "ቅዳሜ": {
+          "meaningEn": "Saturday",
+          "meaningAm": "የሳምንቱ መጨረሻ ቀን",
+          "exampleAm": "ቅዳሜ እናርፋለን።",
+          "transliteration": "qidame",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "a day at the end of the week",
+          "exampleEn": "On Saturday we rest."
+        }
+      }
+    },
+    {
+      "id": 70,
+      "title": "Days of the week",
+      "chapter": "Out & About",
+      "section": "Days of the week",
+      "letters": [
+        "ክ",
+        "ሁ",
+        "እ",
+        "ህ",
+        "ሬ",
+        "ድ"
+      ],
+      "requiredWords": [
+        "እሁድ"
+      ],
+      "wordDetails": {
+        "እሁድ": {
+          "meaningEn": "Sunday",
+          "meaningAm": "የሳምንቱ የዕረፍት ቀን",
+          "exampleAm": "እሁድ እናርፋለን።",
+          "transliteration": "ihud",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the rest day of the week",
+          "exampleEn": "On Sunday we rest."
+        }
+      }
+    },
+    {
+      "id": 71,
       "title": "Food",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -1559,7 +2890,7 @@
       }
     },
     {
-      "id": 40,
+      "id": 72,
       "title": "Love",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -1588,7 +2919,7 @@
       }
     },
     {
-      "id": 41,
+      "id": 73,
       "title": "The Book",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -1617,7 +2948,7 @@
       }
     },
     {
-      "id": 42,
+      "id": 74,
       "title": "Education",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -1660,7 +2991,7 @@
       }
     },
     {
-      "id": 43,
+      "id": 75,
       "title": "Flower",
       "section": "Food & Nature",
       "chapter": "Foundations",
@@ -1689,36 +3020,7 @@
       }
     },
     {
-      "id": 44,
-      "title": "Friend",
-      "section": "People & Around",
-      "chapter": "Foundations",
-      "letters": [
-        "ደ",
-        "ም",
-        "ጓ",
-        "ኛ",
-        "ሩ"
-      ],
-      "requiredWords": [
-        "ጓደኛ"
-      ],
-      "wordDetails": {
-        "ጓደኛ": {
-          "meaningEn": "friend",
-          "meaningAm": "አብሮ የሚውልና የሚዋደድ ሰው",
-          "exampleAm": "ጓደኛዬ በጣም ደግ ነው።",
-          "transliteration": "gwadegna",
-          "difficulty": 2,
-          "category": "people",
-          "definitionEn": "a person one spends time with and is fond of",
-          "exampleEn": "My friend is very kind.",
-          "icon": "🧑‍🤝‍🧑"
-        }
-      }
-    },
-    {
-      "id": 45,
+      "id": 76,
       "title": "Body I",
       "section": "Body",
       "chapter": "The World",
@@ -1748,7 +3050,7 @@
       }
     },
     {
-      "id": 46,
+      "id": 77,
       "title": "Body II",
       "section": "Body",
       "chapter": "The World",
@@ -1779,7 +3081,7 @@
       }
     },
     {
-      "id": 47,
+      "id": 78,
       "title": "Body III",
       "section": "Body",
       "chapter": "The World",
@@ -1809,48 +3111,7 @@
       }
     },
     {
-      "id": 48,
-      "title": "People",
-      "section": "Family & People",
-      "chapter": "The World",
-      "letters": [
-        "ሴ",
-        "ት",
-        "ወ",
-        "ን",
-        "ድ"
-      ],
-      "requiredWords": [
-        "ሴት",
-        "ወንድ"
-      ],
-      "wordDetails": {
-        "ሴት": {
-          "meaningEn": "woman",
-          "meaningAm": "የሴት ጾታ ያላት ሰው",
-          "exampleAm": "ያቺ ሴት አስተማሪ ናት።",
-          "transliteration": "set",
-          "difficulty": 1,
-          "category": "people",
-          "definitionEn": "a person of the female sex",
-          "exampleEn": "That woman is a teacher.",
-          "icon": "👩"
-        },
-        "ወንድ": {
-          "meaningEn": "man",
-          "meaningAm": "የወንድ ጾታ ያለው ሰው",
-          "exampleAm": "ያ ወንድ ረጅም ነው።",
-          "transliteration": "wend",
-          "difficulty": 1,
-          "category": "people",
-          "definitionEn": "a person of the male sex",
-          "exampleEn": "That man is tall.",
-          "icon": "👨"
-        }
-      }
-    },
-    {
-      "id": 49,
+      "id": 79,
       "title": "Drinks",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1879,7 +3140,7 @@
       }
     },
     {
-      "id": 50,
+      "id": 80,
       "title": "On the Table",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1922,7 +3183,7 @@
       }
     },
     {
-      "id": 51,
+      "id": 81,
       "title": "Food II",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1965,7 +3226,7 @@
       }
     },
     {
-      "id": 52,
+      "id": 82,
       "title": "Animals III",
       "section": "Animals",
       "chapter": "The World",
@@ -2007,7 +3268,7 @@
       }
     },
     {
-      "id": 53,
+      "id": 83,
       "title": "Nature II",
       "section": "Nature",
       "chapter": "The World",
@@ -2036,7 +3297,7 @@
       }
     },
     {
-      "id": 54,
+      "id": 84,
       "title": "Weather",
       "section": "Nature",
       "chapter": "The World",
@@ -2066,7 +3327,7 @@
       }
     },
     {
-      "id": 55,
+      "id": 85,
       "title": "Colors",
       "section": "Colors & More",
       "chapter": "The World",
@@ -2097,7 +3358,7 @@
       }
     },
     {
-      "id": 56,
+      "id": 86,
       "title": "Time II",
       "section": "Colors & More",
       "chapter": "The World",
@@ -2125,346 +3386,7 @@
       }
     },
     {
-      "id": 57,
-      "title": "Verbs",
-      "section": "Colors & More",
-      "chapter": "The World",
-      "letters": [
-        "መ",
-        "ብ",
-        "ላ",
-        "ት",
-        "ጠ",
-        "ጣ"
-      ],
-      "requiredWords": [
-        "መብላት",
-        "መጠጣት"
-      ],
-      "wordDetails": {
-        "መብላት": {
-          "meaningEn": "to eat",
-          "meaningAm": "ምግብ ወደ ሰውነት ማስገባት",
-          "exampleAm": "ምሳ መብላት እፈልጋለሁ።",
-          "transliteration": "meblat",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to take food into the body",
-          "exampleEn": "I want to eat lunch."
-        },
-        "መጠጣት": {
-          "meaningEn": "to drink",
-          "meaningAm": "ፈሳሽ መውሰድ",
-          "exampleAm": "ውሃ መጠጣት ለጤና ጠቃሚ ነው።",
-          "transliteration": "metetat",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to take in liquid",
-          "exampleEn": "Drinking water is good for your health."
-        }
-      }
-    },
-    {
-      "id": 58,
-      "title": "Opposites",
-      "section": "Colors & More",
-      "chapter": "The World",
-      "letters": [
-        "ት",
-        "ል",
-        "ቅ",
-        "ን",
-        "ሽ",
-        "ጥ",
-        "ሩ"
-      ],
-      "requiredWords": [
-        "ትልቅ",
-        "ትንሽ",
-        "ጥሩ"
-      ],
-      "wordDetails": {
-        "ትልቅ": {
-          "meaningEn": "big",
-          "meaningAm": "በመጠን ሰፊ የሆነ",
-          "exampleAm": "ትልቅ ቤት አላቸው።",
-          "transliteration": "tiliq",
-          "difficulty": 1,
-          "category": "adjectives",
-          "definitionEn": "large in size",
-          "exampleEn": "They have a big house."
-        },
-        "ትንሽ": {
-          "meaningEn": "small",
-          "meaningAm": "በመጠን አነስተኛ የሆነ",
-          "exampleAm": "ትንሽ ድመት አለኝ።",
-          "transliteration": "tinish",
-          "difficulty": 1,
-          "category": "adjectives",
-          "definitionEn": "small in size",
-          "exampleEn": "I have a small cat."
-        },
-        "ጥሩ": {
-          "meaningEn": "good",
-          "meaningAm": "መልካም፤ ደስ የሚያሰኝ",
-          "exampleAm": "እሱ ጥሩ ሰው ነው።",
-          "transliteration": "tiru",
-          "difficulty": 1,
-          "category": "adjectives",
-          "definitionEn": "fine; pleasing",
-          "exampleEn": "He is a good person."
-        }
-      }
-    },
-    {
-      "id": 59,
-      "title": "Market",
-      "section": "Around Town",
-      "chapter": "Daily Life",
-      "letters": [
-        "ገ",
-        "በ",
-        "ያ",
-        "መ",
-        "ን",
-        "ድ"
-      ],
-      "requiredWords": [
-        "ገበያ",
-        "መንገድ"
-      ],
-      "wordDetails": {
-        "ገበያ": {
-          "meaningEn": "market",
-          "meaningAm": "ሸቀጣ ሸቀጥ የሚሸጥበትና የሚገዛበት ቦታ",
-          "exampleAm": "ወደ ገበያ ሄጄ አትክልት ገዛሁ።",
-          "transliteration": "gebeya",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a place where goods are bought and sold",
-          "exampleEn": "I went to the market and bought vegetables.",
-          "icon": "🛒"
-        },
-        "መንገድ": {
-          "meaningEn": "road; way",
-          "meaningAm": "ከቦታ ቦታ መሄጃ መተላለፊያ",
-          "exampleAm": "መንገዱ ረጅም ነው።",
-          "transliteration": "menged",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a passage for going from place to place",
-          "exampleEn": "The road is long.",
-          "icon": "🛣️"
-        }
-      }
-    },
-    {
-      "id": 60,
-      "title": "In the City",
-      "section": "Around Town",
-      "chapter": "Daily Life",
-      "letters": [
-        "ከ",
-        "ተ",
-        "ማ",
-        "አ",
-        "ገ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ከተማ",
-        "አገር"
-      ],
-      "wordDetails": {
-        "ከተማ": {
-          "meaningEn": "city; town",
-          "meaningAm": "ብዙ ሰው የሚኖርበት ሰፊ ቦታ",
-          "exampleAm": "አዲስ አበባ ትልቅ ከተማ ናት።",
-          "transliteration": "ketema",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a large place where many people live",
-          "exampleEn": "Addis Ababa is a big city.",
-          "icon": "🏙️"
-        },
-        "አገር": {
-          "meaningEn": "country",
-          "meaningAm": "ሕዝብ የሚኖርበት ግዛት",
-          "exampleAm": "ኢትዮጵያ የእኔ አገር ናት።",
-          "transliteration": "ager",
-          "difficulty": 2,
-          "category": "places",
-          "definitionEn": "a territory where a people lives",
-          "exampleEn": "Ethiopia is my country."
-        }
-      }
-    },
-    {
-      "id": 61,
-      "title": "Shops",
-      "section": "Around Town",
-      "chapter": "Daily Life",
-      "letters": [
-        "ሱ",
-        "ቅ",
-        "ባ",
-        "ቡ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ሱቅ",
-        "ባቡር"
-      ],
-      "wordDetails": {
-        "ሱቅ": {
-          "meaningEn": "shop",
-          "meaningAm": "ዕቃ የሚሸጥበት ትንሽ መደብር",
-          "exampleAm": "ከሱቅ ዳቦ ገዛሁ።",
-          "transliteration": "suq",
-          "difficulty": 1,
-          "category": "places",
-          "definitionEn": "a small store where goods are sold",
-          "exampleEn": "I bought bread from the shop.",
-          "icon": "🏪"
-        },
-        "ባቡር": {
-          "meaningEn": "train",
-          "meaningAm": "በሐዲድ ላይ የሚጓዝ ረጅም ተሽከርካሪ",
-          "exampleAm": "ባቡሩ በፍጥነት ይሄዳል።",
-          "transliteration": "babur",
-          "difficulty": 2,
-          "category": "transport",
-          "definitionEn": "a long vehicle that travels on rails",
-          "exampleEn": "The train goes fast.",
-          "icon": "🚂"
-        }
-      }
-    },
-    {
-      "id": 62,
-      "title": "Clothes I",
-      "section": "Clothing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ቀ",
-        "ሚ",
-        "ስ",
-        "ጫ",
-        "ማ"
-      ],
-      "requiredWords": [
-        "ቀሚስ",
-        "ጫማ"
-      ],
-      "wordDetails": {
-        "ቀሚስ": {
-          "meaningEn": "dress",
-          "meaningAm": "ሴቶች የሚለብሱት ልብስ",
-          "exampleAm": "አበበች ቀይ ቀሚስ ለበሰች።",
-          "transliteration": "qemis",
-          "difficulty": 2,
-          "category": "clothing",
-          "definitionEn": "a garment worn by women",
-          "exampleEn": "Abebech wore a red dress.",
-          "icon": "👗"
-        },
-        "ጫማ": {
-          "meaningEn": "shoe",
-          "meaningAm": "እግር ላይ የሚደረግ የእግር ልብስ",
-          "exampleAm": "አዲስ ጫማ ገዛሁ።",
-          "transliteration": "chama",
-          "difficulty": 1,
-          "category": "clothing",
-          "definitionEn": "footwear worn on the feet",
-          "exampleEn": "I bought new shoes.",
-          "icon": "👟"
-        }
-      }
-    },
-    {
-      "id": 63,
-      "title": "Clothes II",
-      "section": "Clothing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ሱ",
-        "ሪ",
-        "ኮ",
-        "ፍ",
-        "ያ"
-      ],
-      "requiredWords": [
-        "ሱሪ",
-        "ኮፍያ"
-      ],
-      "wordDetails": {
-        "ሱሪ": {
-          "meaningEn": "trousers",
-          "meaningAm": "ከወገብ በታች የሚለበስ ልብስ",
-          "exampleAm": "ሰማያዊ ሱሪ ለበሰ።",
-          "transliteration": "suri",
-          "difficulty": 2,
-          "category": "clothing",
-          "definitionEn": "a garment worn below the waist",
-          "exampleEn": "He wore blue trousers.",
-          "icon": "👖"
-        },
-        "ኮፍያ": {
-          "meaningEn": "hat",
-          "meaningAm": "ራስ ላይ የሚደረግ ልብስ",
-          "exampleAm": "ፀሐይ ሲኖር ኮፍያ አደርጋለሁ።",
-          "transliteration": "kofiya",
-          "difficulty": 2,
-          "category": "clothing",
-          "definitionEn": "a covering worn on the head",
-          "exampleEn": "I wear a hat when it's sunny.",
-          "icon": "🧢"
-        }
-      }
-    },
-    {
-      "id": 64,
-      "title": "Jobs I",
-      "section": "Jobs",
-      "chapter": "Daily Life",
-      "letters": [
-        "አ",
-        "ስ",
-        "ተ",
-        "ማ",
-        "ሪ"
-      ],
-      "requiredWords": [
-        "አስተማሪ",
-        "ተማሪ"
-      ],
-      "wordDetails": {
-        "አስተማሪ": {
-          "meaningEn": "teacher",
-          "meaningAm": "ተማሪዎችን የሚያስተምር ሰው",
-          "exampleAm": "አስተማሪው ትምህርት ሰጠ።",
-          "transliteration": "astemari",
-          "difficulty": 3,
-          "category": "jobs",
-          "definitionEn": "a person who teaches students",
-          "exampleEn": "The teacher gave a lesson.",
-          "icon": "👨‍🏫"
-        },
-        "ተማሪ": {
-          "meaningEn": "student",
-          "meaningAm": "ትምህርት የሚማር ሰው",
-          "exampleAm": "እሷ ጎበዝ ተማሪ ናት።",
-          "transliteration": "temari",
-          "difficulty": 2,
-          "category": "jobs",
-          "definitionEn": "a person who studies",
-          "exampleEn": "She is a clever student.",
-          "icon": "🧑‍🎓"
-        }
-      }
-    },
-    {
-      "id": 65,
+      "id": 87,
       "title": "Jobs II",
       "section": "Jobs",
       "chapter": "Daily Life",
@@ -2478,21 +3400,9 @@
         "ዴ"
       ],
       "requiredWords": [
-        "ዶክተር",
         "ነጋዴ"
       ],
       "wordDetails": {
-        "ዶክተር": {
-          "meaningEn": "doctor",
-          "meaningAm": "በሽተኞችን የሚያክም ባለሙያ",
-          "exampleAm": "ዶክተሩ ታካሚውን መረመረ።",
-          "transliteration": "dokter",
-          "difficulty": 2,
-          "category": "jobs",
-          "definitionEn": "a professional who treats the sick",
-          "exampleEn": "The doctor examined the patient.",
-          "icon": "👨‍⚕️"
-        },
         "ነጋዴ": {
           "meaningEn": "merchant",
           "meaningAm": "ዕቃ የሚሸጥና የሚገዛ ሰው",
@@ -2507,47 +3417,7 @@
       }
     },
     {
-      "id": 66,
-      "title": "Going",
-      "section": "Action Verbs",
-      "chapter": "Daily Life",
-      "letters": [
-        "መ",
-        "ሄ",
-        "ድ",
-        "ም",
-        "ጣ",
-        "ት"
-      ],
-      "requiredWords": [
-        "መሄድ",
-        "መምጣት"
-      ],
-      "wordDetails": {
-        "መሄድ": {
-          "meaningEn": "to go",
-          "meaningAm": "ከአንድ ቦታ ወደ ሌላ መንቀሳቀስ",
-          "exampleAm": "ወደ ቤት መሄድ እፈልጋለሁ።",
-          "transliteration": "mehed",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to move from one place to another",
-          "exampleEn": "I want to go home."
-        },
-        "መምጣት": {
-          "meaningEn": "to come",
-          "meaningAm": "ወደዚህ መቅረብ",
-          "exampleAm": "በሰዓቱ መምጣት አለብህ።",
-          "transliteration": "memtat",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to approach here",
-          "exampleEn": "You must come on time."
-        }
-      }
-    },
-    {
-      "id": 67,
+      "id": 88,
       "title": "Reading & Writing",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -2588,251 +3458,7 @@
       }
     },
     {
-      "id": 68,
-      "title": "Tall & Short",
-      "section": "Describing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ረ",
-        "ጅ",
-        "ም",
-        "አ",
-        "ጭ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ረጅም",
-        "አጭር"
-      ],
-      "wordDetails": {
-        "ረጅም": {
-          "meaningEn": "tall; long",
-          "meaningAm": "በቁመት ወይም በርዝመት የገዘፈ",
-          "exampleAm": "ረጅም ዛፍ ይታያል።",
-          "transliteration": "rejim",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "great in height or length",
-          "exampleEn": "A tall tree is visible."
-        },
-        "አጭር": {
-          "meaningEn": "short",
-          "meaningAm": "በቁመት ያነሰ",
-          "exampleAm": "አጭር መንገድ ተጠቀምን።",
-          "transliteration": "achir",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "small in height or length",
-          "exampleEn": "We took a short road."
-        }
-      }
-    },
-    {
-      "id": 69,
-      "title": "Hot & Cold",
-      "section": "Describing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ሞ",
-        "ቃ",
-        "ት",
-        "ቀ",
-        "ዝ",
-        "ዛ"
-      ],
-      "requiredWords": [
-        "ሞቃት",
-        "ቀዝቃዛ"
-      ],
-      "wordDetails": {
-        "ሞቃት": {
-          "meaningEn": "hot",
-          "meaningAm": "ሙቀት ያለው",
-          "exampleAm": "ዛሬ አየሩ ሞቃት ነው።",
-          "transliteration": "moqat",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "having heat",
-          "exampleEn": "The weather is hot today."
-        },
-        "ቀዝቃዛ": {
-          "meaningEn": "cold",
-          "meaningAm": "ቅዝቃዜ ያለው",
-          "exampleAm": "ቀዝቃዛ ውሃ ጠጣሁ።",
-          "transliteration": "qezqaza",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "having coldness",
-          "exampleEn": "I drank cold water."
-        }
-      }
-    },
-    {
-      "id": 70,
-      "title": "Fast & Slow",
-      "section": "Describing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ፈ",
-        "ጣ",
-        "ን",
-        "ቀ",
-        "ር",
-        "ፋ",
-        "ፋ"
-      ],
-      "requiredWords": [
-        "ፈጣን",
-        "ቀርፋፋ"
-      ],
-      "wordDetails": {
-        "ፈጣን": {
-          "meaningEn": "fast",
-          "meaningAm": "በፍጥነት የሚንቀሳቀስ",
-          "exampleAm": "ፈጣን መኪና ነው።",
-          "transliteration": "fetan",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "moving quickly",
-          "exampleEn": "It is a fast car."
-        },
-        "ቀርፋፋ": {
-          "meaningEn": "slow",
-          "meaningAm": "ቀስ የሚል፤ ፍጥነት የሌለው",
-          "exampleAm": "ቀርፋፋ ኤሊ ነው።",
-          "transliteration": "qerfafa",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "moving slowly; lacking speed",
-          "exampleEn": "It is a slow tortoise."
-        }
-      }
-    },
-    {
-      "id": 71,
-      "title": "Feelings I",
-      "section": "Feelings",
-      "chapter": "Around You",
-      "letters": [
-        "ደ",
-        "ስ",
-        "ታ",
-        "ሐ",
-        "ዘ",
-        "ን"
-      ],
-      "requiredWords": [
-        "ደስታ",
-        "ሐዘን"
-      ],
-      "wordDetails": {
-        "ደስታ": {
-          "meaningEn": "happiness",
-          "meaningAm": "ደስ የመሰኘት ስሜት",
-          "exampleAm": "ፊቷ ላይ ደስታ ይነበባል።",
-          "transliteration": "desta",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of joy",
-          "exampleEn": "Happiness can be read on her face.",
-          "icon": "😊"
-        },
-        "ሐዘን": {
-          "meaningEn": "sadness",
-          "meaningAm": "የማዘን ስሜት",
-          "exampleAm": "ዜናው ሐዘን አመጣ።",
-          "transliteration": "hazen",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of sorrow",
-          "exampleEn": "The news brought sadness.",
-          "icon": "😢"
-        }
-      }
-    },
-    {
-      "id": 72,
-      "title": "Feelings II",
-      "section": "Feelings",
-      "chapter": "Around You",
-      "letters": [
-        "ፍ",
-        "ር",
-        "ሃ",
-        "ት",
-        "ቁ",
-        "ጣ"
-      ],
-      "requiredWords": [
-        "ፍርሃት",
-        "ቁጣ"
-      ],
-      "wordDetails": {
-        "ፍርሃት": {
-          "meaningEn": "fear",
-          "meaningAm": "የመፍራት ስሜት",
-          "exampleAm": "ጨለማ ፍርሃት ይፈጥርብኛል።",
-          "transliteration": "firhat",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of being afraid",
-          "exampleEn": "Darkness creates fear in me.",
-          "icon": "😨"
-        },
-        "ቁጣ": {
-          "meaningEn": "anger",
-          "meaningAm": "የመቆጣት ስሜት",
-          "exampleAm": "በቁጣ ተናገረ።",
-          "transliteration": "qutta",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of being angry",
-          "exampleEn": "He spoke in anger.",
-          "icon": "😠"
-        }
-      }
-    },
-    {
-      "id": 73,
-      "title": "Seeing & Hearing",
-      "section": "Senses & Actions",
-      "chapter": "Around You",
-      "letters": [
-        "ማ",
-        "የ",
-        "ት",
-        "መ",
-        "ስ"
-      ],
-      "requiredWords": [
-        "ማየት",
-        "መስማት"
-      ],
-      "wordDetails": {
-        "ማየት": {
-          "meaningEn": "to see",
-          "meaningAm": "በዓይን መመልከት",
-          "exampleAm": "ፊልም ማየት እወዳለሁ።",
-          "transliteration": "mayet",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to look with the eyes",
-          "exampleEn": "I like to watch films."
-        },
-        "መስማት": {
-          "meaningEn": "to hear",
-          "meaningAm": "በጆሮ ድምፅ መቀበል",
-          "exampleAm": "ሙዚቃ መስማት ያስደስታል።",
-          "transliteration": "mesmat",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to receive sound with the ears",
-          "exampleEn": "Listening to music is enjoyable."
-        }
-      }
-    },
-    {
-      "id": 74,
+      "id": 89,
       "title": "Speaking & Loving",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -2846,20 +3472,9 @@
         "ድ"
       ],
       "requiredWords": [
-        "መናገር",
         "መውደድ"
       ],
       "wordDetails": {
-        "መናገር": {
-          "meaningEn": "to speak",
-          "meaningAm": "በቃላት ሐሳብን መግለጽ",
-          "exampleAm": "በአደባባይ መናገር ይፈራል።",
-          "transliteration": "menager",
-          "difficulty": 3,
-          "category": "verbs",
-          "definitionEn": "to express a thought in words",
-          "exampleEn": "He is afraid to speak in public."
-        },
         "መውደድ": {
           "meaningEn": "to love",
           "meaningAm": "ለአንድ ነገር ፍቅር ማሳየት",
@@ -2873,88 +3488,7 @@
       }
     },
     {
-      "id": 75,
-      "title": "At the Table",
-      "section": "More Food",
-      "chapter": "Around You",
-      "letters": [
-        "ሙ",
-        "ዝ",
-        "ድ",
-        "ን",
-        "ች"
-      ],
-      "requiredWords": [
-        "ሙዝ",
-        "ድንች"
-      ],
-      "wordDetails": {
-        "ሙዝ": {
-          "meaningEn": "banana",
-          "meaningAm": "ጣፋጭ ቢጫ ፍራፍሬ",
-          "exampleAm": "ሙዝ መብላት እወዳለሁ።",
-          "transliteration": "muz",
-          "difficulty": 1,
-          "category": "food",
-          "definitionEn": "a sweet yellow fruit",
-          "exampleEn": "I like to eat bananas.",
-          "icon": "🍌"
-        },
-        "ድንች": {
-          "meaningEn": "potato",
-          "meaningAm": "ከመሬት ውስጥ የሚበቅል ሰብል",
-          "exampleAm": "የድንች ጥብስ ጣፋጭ ነው።",
-          "transliteration": "dinch",
-          "difficulty": 2,
-          "category": "food",
-          "definitionEn": "a crop that grows underground",
-          "exampleEn": "Fried potatoes are delicious.",
-          "icon": "🥔"
-        }
-      }
-    },
-    {
-      "id": 76,
-      "title": "More Food",
-      "section": "More Food",
-      "chapter": "Around You",
-      "letters": [
-        "ሩ",
-        "ዝ",
-        "ቅ",
-        "ቤ"
-      ],
-      "requiredWords": [
-        "ሩዝ",
-        "ቅቤ"
-      ],
-      "wordDetails": {
-        "ሩዝ": {
-          "meaningEn": "rice",
-          "meaningAm": "በውሃ ተቀቅሎ የሚበላ ሰብል",
-          "exampleAm": "ሩዝ ከወጥ ጋር በላን።",
-          "transliteration": "ruz",
-          "difficulty": 1,
-          "category": "food",
-          "definitionEn": "a grain eaten after being boiled in water",
-          "exampleEn": "We ate rice with stew.",
-          "icon": "🍚"
-        },
-        "ቅቤ": {
-          "meaningEn": "butter",
-          "meaningAm": "ከወተት የሚሰራ ቅባት",
-          "exampleAm": "ዳቦውን በቅቤ ቀባ።",
-          "transliteration": "qibe",
-          "difficulty": 2,
-          "category": "food",
-          "definitionEn": "a fat made from milk",
-          "exampleEn": "He spread butter on the bread.",
-          "icon": "🧈"
-        }
-      }
-    },
-    {
-      "id": 77,
+      "id": 90,
       "title": "Rivers & Forests",
       "section": "More Nature",
       "chapter": "Around You",
@@ -2994,7 +3528,7 @@
       }
     },
     {
-      "id": 78,
+      "id": 91,
       "title": "Mountains & Snow",
       "section": "More Nature",
       "chapter": "Around You",
@@ -3036,7 +3570,7 @@
       }
     },
     {
-      "id": 79,
+      "id": 92,
       "title": "Face & Hair",
       "section": "More Body",
       "chapter": "The World",
@@ -3077,7 +3611,7 @@
       }
     },
     {
-      "id": 80,
+      "id": 93,
       "title": "Finger & Belly",
       "section": "More Body",
       "chapter": "The World",
@@ -3116,7 +3650,7 @@
       }
     },
     {
-      "id": 81,
+      "id": 94,
       "title": "Farm Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -3157,7 +3691,7 @@
       }
     },
     {
-      "id": 82,
+      "id": 95,
       "title": "Wild Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -3198,7 +3732,7 @@
       }
     },
     {
-      "id": 83,
+      "id": 96,
       "title": "In the Sky",
       "section": "In the Sky",
       "chapter": "The World",
@@ -3228,7 +3762,7 @@
       }
     },
     {
-      "id": 84,
+      "id": 97,
       "title": "Weather II",
       "section": "In the Sky",
       "chapter": "The World",
@@ -3270,7 +3804,7 @@
       }
     },
     {
-      "id": 85,
+      "id": 98,
       "title": "Money & Phone",
       "section": "Things",
       "chapter": "Around You",
@@ -3311,7 +3845,7 @@
       }
     },
     {
-      "id": 86,
+      "id": 99,
       "title": "Ball & Key",
       "section": "Things",
       "chapter": "Around You",
@@ -3352,7 +3886,7 @@
       }
     },
     {
-      "id": 87,
+      "id": 100,
       "title": "Morning Routine",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3393,7 +3927,7 @@
       }
     },
     {
-      "id": 88,
+      "id": 101,
       "title": "In & Out",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3433,7 +3967,7 @@
       }
     },
     {
-      "id": 89,
+      "id": 102,
       "title": "Greens & Yellows",
       "section": "Colors II",
       "chapter": "The World",
@@ -3476,7 +4010,7 @@
       }
     },
     {
-      "id": 90,
+      "id": 103,
       "title": "Blues & Browns",
       "section": "Colors II",
       "chapter": "The World",
@@ -3518,7 +4052,7 @@
       }
     },
     {
-      "id": 91,
+      "id": 104,
       "title": "Give & Take",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3559,7 +4093,7 @@
       }
     },
     {
-      "id": 92,
+      "id": 105,
       "title": "Buy & Sell",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3599,7 +4133,7 @@
       }
     },
     {
-      "id": 93,
+      "id": 106,
       "title": "Spices",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3639,7 +4173,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 107,
       "title": "Cooking",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3681,7 +4215,7 @@
       }
     },
     {
-      "id": 95,
+      "id": 108,
       "title": "Relatives I",
       "section": "Relatives",
       "chapter": "The World",
@@ -3721,7 +4255,7 @@
       }
     },
     {
-      "id": 96,
+      "id": 109,
       "title": "Relatives II",
       "section": "Relatives",
       "chapter": "The World",
@@ -3762,7 +4296,7 @@
       }
     },
     {
-      "id": 97,
+      "id": 110,
       "title": "At the Clinic",
       "section": "Health",
       "chapter": "Around You",
@@ -3776,8 +4310,7 @@
         "ም"
       ],
       "requiredWords": [
-        "መድሃኒት",
-        "ህመም"
+        "መድሃኒት"
       ],
       "wordDetails": {
         "መድሃኒት": {
@@ -3790,21 +4323,11 @@
           "definitionEn": "what is taken to treat illness",
           "exampleEn": "The doctor prescribed medicine.",
           "icon": "💊"
-        },
-        "ህመም": {
-          "meaningEn": "pain; illness",
-          "meaningAm": "የመታመም ስሜት",
-          "exampleAm": "የራስ ህመም አለብኝ።",
-          "transliteration": "hmem",
-          "difficulty": 2,
-          "category": "health",
-          "definitionEn": "a feeling of being unwell",
-          "exampleEn": "I have a headache."
         }
       }
     },
     {
-      "id": 98,
+      "id": 111,
       "title": "Body & Health",
       "section": "Health",
       "chapter": "Around You",
@@ -3843,7 +4366,7 @@
       }
     },
     {
-      "id": 99,
+      "id": 112,
       "title": "Writing",
       "section": "School",
       "chapter": "Daily Life",
@@ -3886,7 +4409,7 @@
       }
     },
     {
-      "id": 100,
+      "id": 113,
       "title": "At School",
       "section": "School",
       "chapter": "Daily Life",
@@ -3929,7 +4452,7 @@
       }
     },
     {
-      "id": 101,
+      "id": 114,
       "title": "Week & Year",
       "section": "Time",
       "chapter": "Foundations",
@@ -3969,47 +4492,7 @@
       }
     },
     {
-      "id": 102,
-      "title": "Clean & Dirty",
-      "section": "More Describing",
-      "chapter": "Daily Life",
-      "letters": [
-        "ን",
-        "ጹ",
-        "ህ",
-        "ቆ",
-        "ሻ",
-        "ሻ"
-      ],
-      "requiredWords": [
-        "ንጹህ",
-        "ቆሻሻ"
-      ],
-      "wordDetails": {
-        "ንጹህ": {
-          "meaningEn": "clean",
-          "meaningAm": "ቆሻሻ የሌለበት",
-          "exampleAm": "ንጹህ ልብስ ለበሰ።",
-          "transliteration": "nitsuh",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "having no dirt",
-          "exampleEn": "He wore clean clothes."
-        },
-        "ቆሻሻ": {
-          "meaningEn": "dirty",
-          "meaningAm": "የቆሸሸ፤ ንጽህና የጎደለው",
-          "exampleAm": "ቆሻሻ እጅ አታስገባ።",
-          "transliteration": "qoshasha",
-          "difficulty": 2,
-          "category": "adjectives",
-          "definitionEn": "soiled; lacking cleanliness",
-          "exampleEn": "Don't reach in with a dirty hand."
-        }
-      }
-    },
-    {
-      "id": 103,
+      "id": 115,
       "title": "Easy & Hard",
       "section": "More Describing",
       "chapter": "Daily Life",
@@ -4049,89 +4532,7 @@
       }
     },
     {
-      "id": 104,
-      "title": "Tired & Hungry",
-      "section": "Body Feelings",
-      "chapter": "Around You",
-      "letters": [
-        "ድ",
-        "ካ",
-        "ም",
-        "ረ",
-        "ሃ",
-        "ብ"
-      ],
-      "requiredWords": [
-        "ድካም",
-        "ረሃብ"
-      ],
-      "wordDetails": {
-        "ድካም": {
-          "meaningEn": "tiredness",
-          "meaningAm": "የመድከም ስሜት",
-          "exampleAm": "ከስራ በኋላ ድካም ይሰማኛል።",
-          "transliteration": "dikam",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of being tired",
-          "exampleEn": "I feel tired after work."
-        },
-        "ረሃብ": {
-          "meaningEn": "hunger",
-          "meaningAm": "የመራብ ስሜት",
-          "exampleAm": "ረሃብ ተሰማው።",
-          "transliteration": "rehab",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of being hungry",
-          "exampleEn": "He felt hunger."
-        }
-      }
-    },
-    {
-      "id": 105,
-      "title": "Thirst & Sleep",
-      "section": "Body Feelings",
-      "chapter": "Around You",
-      "letters": [
-        "ጥ",
-        "ም",
-        "እ",
-        "ን",
-        "ቅ",
-        "ል",
-        "ፍ"
-      ],
-      "requiredWords": [
-        "ጥም",
-        "እንቅልፍ"
-      ],
-      "wordDetails": {
-        "ጥም": {
-          "meaningEn": "thirst",
-          "meaningAm": "ውሃ የመፈለግ ስሜት",
-          "exampleAm": "በሙቀቱ ጥም ተሰማኝ።",
-          "transliteration": "tim",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "a feeling of needing water",
-          "exampleEn": "I felt thirsty in the heat."
-        },
-        "እንቅልፍ": {
-          "meaningEn": "sleep",
-          "meaningAm": "የመተኛት ሁኔታ",
-          "exampleAm": "ጥሩ እንቅልፍ ተኛሁ።",
-          "transliteration": "inqilf",
-          "difficulty": 2,
-          "category": "feelings",
-          "definitionEn": "the state of sleeping",
-          "exampleEn": "I slept well.",
-          "icon": "😴"
-        }
-      }
-    },
-    {
-      "id": 106,
+      "id": 116,
       "title": "Dairy",
       "section": "On the Plate",
       "chapter": "The World",
@@ -4173,7 +4574,7 @@
       }
     },
     {
-      "id": 107,
+      "id": 117,
       "title": "Stew & Soup",
       "section": "On the Plate",
       "chapter": "The World",
@@ -4214,7 +4615,7 @@
       }
     },
     {
-      "id": 108,
+      "id": 118,
       "title": "Grass & Leaf",
       "section": "Plants",
       "chapter": "The World",
@@ -4255,7 +4656,7 @@
       }
     },
     {
-      "id": 109,
+      "id": 119,
       "title": "Seed & Root",
       "section": "Plants",
       "chapter": "The World",
@@ -4293,7 +4694,7 @@
       }
     },
     {
-      "id": 110,
+      "id": 120,
       "title": "Floor & Wall",
       "section": "The House",
       "chapter": "Around You",
@@ -4335,7 +4736,7 @@
       }
     },
     {
-      "id": 111,
+      "id": 121,
       "title": "Roof & Fence",
       "section": "The House",
       "chapter": "Around You",
@@ -4375,7 +4776,7 @@
       }
     },
     {
-      "id": 112,
+      "id": 122,
       "title": "Everyday Verbs I",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4416,7 +4817,7 @@
       }
     },
     {
-      "id": 113,
+      "id": 123,
       "title": "Everyday Verbs II",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4470,139 +4871,7 @@
       }
     },
     {
-      "id": 114,
-      "title": "Days of the Week I",
-      "section": "Days of the Week",
-      "chapter": "Foundations",
-      "letters": [
-        "ሰ",
-        "ኞ",
-        "ማ",
-        "ክ"
-      ],
-      "requiredWords": [
-        "ሰኞ",
-        "ማክሰኞ"
-      ],
-      "wordDetails": {
-        "ሰኞ": {
-          "meaningEn": "Monday",
-          "meaningAm": "የሳምንቱ የመጀመሪያ የሥራ ቀን",
-          "exampleAm": "ሰኞ ወደ ሥራ እሄዳለሁ።",
-          "transliteration": "segno",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the first working day of the week",
-          "exampleEn": "On Monday I go to work."
-        },
-        "ማክሰኞ": {
-          "meaningEn": "Tuesday",
-          "meaningAm": "ከሰኞ ቀጥሎ ያለ ቀን",
-          "exampleAm": "ማክሰኞ ፈተና አለ።",
-          "transliteration": "maksegno",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the day after Monday",
-          "exampleEn": "There is an exam on Tuesday."
-        }
-      }
-    },
-    {
-      "id": 115,
-      "title": "Days of the Week II",
-      "section": "Days of the Week",
-      "chapter": "Foundations",
-      "letters": [
-        "ረ",
-        "ቡ",
-        "ዕ",
-        "ሐ",
-        "ሙ",
-        "ስ"
-      ],
-      "requiredWords": [
-        "ረቡዕ",
-        "ሐሙስ"
-      ],
-      "wordDetails": {
-        "ረቡዕ": {
-          "meaningEn": "Wednesday",
-          "meaningAm": "የሳምንቱ መካከለኛ ቀን",
-          "exampleAm": "ረቡዕ እንገናኛለን።",
-          "transliteration": "rebu",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the middle day of the week",
-          "exampleEn": "We will meet on Wednesday."
-        },
-        "ሐሙስ": {
-          "meaningEn": "Thursday",
-          "meaningAm": "ከረቡዕ ቀጥሎ ያለ ቀን",
-          "exampleAm": "ሐሙስ ገበያ እወጣለሁ።",
-          "transliteration": "hamus",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the day after Wednesday",
-          "exampleEn": "On Thursday I go to the market."
-        }
-      }
-    },
-    {
-      "id": 116,
-      "title": "Days of the Week III",
-      "section": "Days of the Week",
-      "chapter": "Foundations",
-      "letters": [
-        "ዓ",
-        "ር",
-        "ብ",
-        "ቅ",
-        "ዳ",
-        "ሜ",
-        "እ",
-        "ሁ",
-        "ድ"
-      ],
-      "requiredWords": [
-        "ዓርብ",
-        "ቅዳሜ",
-        "እሁድ"
-      ],
-      "wordDetails": {
-        "ዓርብ": {
-          "meaningEn": "Friday",
-          "meaningAm": "ከሐሙስ ቀጥሎ ያለ ቀን",
-          "exampleAm": "ዓርብ ጸሎት አለ።",
-          "transliteration": "arb",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the day after Thursday",
-          "exampleEn": "There is prayer on Friday."
-        },
-        "ቅዳሜ": {
-          "meaningEn": "Saturday",
-          "meaningAm": "የሳምንቱ መጨረሻ ቀን",
-          "exampleAm": "ቅዳሜ እናርፋለን።",
-          "transliteration": "qidame",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "a day at the end of the week",
-          "exampleEn": "On Saturday we rest."
-        },
-        "እሁድ": {
-          "meaningEn": "Sunday",
-          "meaningAm": "የሳምንቱ የዕረፍት ቀን",
-          "exampleAm": "እሁድ እናርፋለን።",
-          "transliteration": "ihud",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the rest day of the week",
-          "exampleEn": "On Sunday we rest."
-        }
-      }
-    },
-    {
-      "id": 117,
+      "id": 124,
       "title": "Time Words I",
       "section": "Time Words",
       "chapter": "Foundations",
@@ -4631,7 +4900,7 @@
       }
     },
     {
-      "id": 118,
+      "id": 125,
       "title": "Sit & Stand",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4671,47 +4940,7 @@
       }
     },
     {
-      "id": 119,
-      "title": "Run & Walk",
-      "section": "Everyday Verbs III",
-      "chapter": "Daily Life",
-      "letters": [
-        "መ",
-        "መ",
-        "ሮ",
-        "ጥ",
-        "ራ",
-        "ድ"
-      ],
-      "requiredWords": [
-        "መሮጥ",
-        "መራመድ"
-      ],
-      "wordDetails": {
-        "መሮጥ": {
-          "meaningEn": "to run",
-          "meaningAm": "በፍጥነት በእግር መንቀሳቀስ",
-          "exampleAm": "ልጁ በሜዳ ሮጠ።",
-          "transliteration": "merot",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to move quickly on foot",
-          "exampleEn": "The boy ran in the field."
-        },
-        "መራመድ": {
-          "meaningEn": "to walk",
-          "meaningAm": "በእግር ቀስ ብሎ መሄድ",
-          "exampleAm": "በየቀኑ ብዙ እራመዳለሁ።",
-          "transliteration": "meramed",
-          "difficulty": 2,
-          "category": "verbs",
-          "definitionEn": "to go slowly on foot",
-          "exampleEn": "I walk a lot every day."
-        }
-      }
-    },
-    {
-      "id": 120,
+      "id": 126,
       "title": "Open & Close",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4751,7 +4980,7 @@
       }
     },
     {
-      "id": 121,
+      "id": 127,
       "title": "Help & Play",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4791,7 +5020,7 @@
       }
     },
     {
-      "id": 122,
+      "id": 128,
       "title": "Cook & Ask",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4833,7 +5062,7 @@
       }
     },
     {
-      "id": 123,
+      "id": 129,
       "title": "Laugh & Sing",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4873,51 +5102,7 @@
       }
     },
     {
-      "id": 124,
-      "title": "Bus & Taxi",
-      "section": "Transport",
-      "chapter": "Daily Life",
-      "letters": [
-        "አ",
-        "ው",
-        "ቶ",
-        "ቡ",
-        "ስ",
-        "ታ",
-        "ክ",
-        "ሲ"
-      ],
-      "requiredWords": [
-        "አውቶቡስ",
-        "ታክሲ"
-      ],
-      "wordDetails": {
-        "አውቶቡስ": {
-          "meaningEn": "bus",
-          "meaningAm": "ብዙ ሰው የሚጭን ትልቅ የሕዝብ ማመላለሻ",
-          "exampleAm": "አውቶቡሱ በሰዓቱ ደረሰ።",
-          "transliteration": "awtobus",
-          "difficulty": 2,
-          "category": "transport",
-          "definitionEn": "a large public vehicle that carries many people",
-          "exampleEn": "The bus arrived on time.",
-          "icon": "🚌"
-        },
-        "ታክሲ": {
-          "meaningEn": "taxi",
-          "meaningAm": "በክፍያ ሰዎችን የሚያመላልስ መኪና",
-          "exampleAm": "ታክሲ ይዤ ወደ ቤት ሄድኩ።",
-          "transliteration": "taksi",
-          "difficulty": 2,
-          "category": "transport",
-          "definitionEn": "a car that carries people for a fee",
-          "exampleEn": "I took a taxi home.",
-          "icon": "🚕"
-        }
-      }
-    },
-    {
-      "id": 125,
+      "id": 130,
       "title": "Plane & Bike",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4935,8 +5120,7 @@
         "ት"
       ],
       "requiredWords": [
-        "አውሮፕላን",
-        "ብስክሌት"
+        "አውሮፕላን"
       ],
       "wordDetails": {
         "አውሮፕላን": {
@@ -4949,22 +5133,11 @@
           "definitionEn": "a vehicle that flies in the air",
           "exampleEn": "The airplane flew into the sky.",
           "icon": "✈️"
-        },
-        "ብስክሌት": {
-          "meaningEn": "bicycle",
-          "meaningAm": "ሁለት ጎማ ያለው በእግር የሚነዳ",
-          "exampleAm": "ልጁ ብስክሌት ይነዳል።",
-          "transliteration": "biskilet",
-          "difficulty": 3,
-          "category": "transport",
-          "definitionEn": "a two-wheeled vehicle driven by the feet",
-          "exampleEn": "The boy rides a bicycle.",
-          "icon": "🚲"
         }
       }
     },
     {
-      "id": 126,
+      "id": 131,
       "title": "Boat & Station",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4977,21 +5150,9 @@
         "ያ"
       ],
       "requiredWords": [
-        "ጀልባ",
         "ጣቢያ"
       ],
       "wordDetails": {
-        "ጀልባ": {
-          "meaningEn": "boat",
-          "meaningAm": "በውሃ ላይ የሚንሳፈፍ ማመላለሻ",
-          "exampleAm": "ጀልባዋ በወንዙ ላይ ትንሳፈፋለች።",
-          "transliteration": "jelba",
-          "difficulty": 2,
-          "category": "transport",
-          "definitionEn": "a craft that floats on water",
-          "exampleEn": "The boat floats on the river.",
-          "icon": "⛵"
-        },
         "ጣቢያ": {
           "meaningEn": "station",
           "meaningAm": "ባቡር ወይም አውቶቡስ የሚቆምበት ቦታ",
@@ -5006,7 +5167,7 @@
       }
     },
     {
-      "id": 127,
+      "id": 132,
       "title": "Hotel & Bank",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -5048,7 +5209,7 @@
       }
     },
     {
-      "id": 128,
+      "id": 133,
       "title": "Hospital & Mosque",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -5092,7 +5253,7 @@
       }
     },
     {
-      "id": 129,
+      "id": 134,
       "title": "Office & Bridge",
       "section": "Places II",
       "chapter": "Daily Life",
