@@ -25,7 +25,9 @@
           "exampleAm": "ሰላም፣ እንዴት ነህ?",
           "transliteration": "selam",
           "difficulty": 1,
-          "category": "greetings"
+          "category": "greetings",
+          "definitionEn": "a greeting; a state of calm and tranquility",
+          "exampleEn": "Hello, how are you?"
         },
         "ላም": {
           "meaningEn": "cow",
@@ -33,7 +35,9 @@
           "exampleAm": "ላሟ ሣር ትበላለች።",
           "transliteration": "lam",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a domestic animal that gives milk",
+          "exampleEn": "The cow eats grass."
         }
       }
     },
@@ -58,7 +62,9 @@
           "exampleAm": "እባክህ አንድ ብርጭቆ ውሃ ስጠኝ።",
           "transliteration": "wuha",
           "difficulty": 1,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "a clear liquid used for drinking and washing",
+          "exampleEn": "Please give me a glass of water."
         }
       }
     },
@@ -83,7 +89,9 @@
           "exampleAm": "ቤታችን ሰፊ ነው።",
           "transliteration": "bet",
           "difficulty": 1,
-          "category": "home"
+          "category": "home",
+          "definitionEn": "a building where people live",
+          "exampleEn": "Our house is big."
         }
       }
     },
@@ -111,7 +119,9 @@
           "exampleAm": "እናቴ ጣፋጭ ምግብ ታበስላለች።",
           "transliteration": "enat",
           "difficulty": 1,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a woman who has given birth to a child; the mother of a family",
+          "exampleEn": "My mother cooks delicious food."
         },
         "አባት": {
           "meaningEn": "father",
@@ -119,7 +129,9 @@
           "exampleAm": "አባቴ በማለዳ ወደ ሥራ ይሄዳል።",
           "transliteration": "abat",
           "difficulty": 1,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a man who has fathered a child; the father of a family",
+          "exampleEn": "My father goes to work early in the morning."
         }
       }
     },
@@ -145,7 +157,9 @@
           "exampleAm": "አባቴ አዲስ መኪና ገዛ።",
           "transliteration": "mekina",
           "difficulty": 2,
-          "category": "transport"
+          "category": "transport",
+          "definitionEn": "a motor-driven vehicle for transport",
+          "exampleEn": "My father bought a new car."
         }
       }
     },
@@ -174,7 +188,9 @@
           "exampleAm": "ይህ ምግብ በጣም ጣፋጭ ነው።",
           "transliteration": "migib",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "something prepared to eat that nourishes the body",
+          "exampleEn": "This food is very delicious."
         },
         "ግብ": {
           "meaningEn": "goal; target",
@@ -182,7 +198,9 @@
           "exampleAm": "ግቡ ላይ ደረሰ።",
           "transliteration": "gib",
           "difficulty": 2,
-          "category": "common"
+          "category": "common",
+          "definitionEn": "an aim one wants to reach",
+          "exampleEn": "He reached his goal."
         }
       }
     },
@@ -208,7 +226,9 @@
           "exampleAm": "የእናት ፍቅር ወሰን የለውም።",
           "transliteration": "fiqir",
           "difficulty": 2,
-          "category": "emotion"
+          "category": "emotion",
+          "definitionEn": "a deep feeling of affection for a person or thing",
+          "exampleEn": "A mother's love has no limit."
         }
       }
     },
@@ -234,7 +254,9 @@
           "exampleAm": "ይህን መጽሐፍ አንብቤዋለሁ።",
           "transliteration": "metsehaf",
           "difficulty": 3,
-          "category": "education"
+          "category": "education",
+          "definitionEn": "a collection of writing meant for reading",
+          "exampleEn": "I have read this book."
         }
       }
     },
@@ -264,7 +286,9 @@
           "exampleAm": "ትምህርት የሕይወት ብርሃን ነው።",
           "transliteration": "timhirt",
           "difficulty": 3,
-          "category": "education"
+          "category": "education",
+          "definitionEn": "the process of gaining knowledge and skills",
+          "exampleEn": "Education is the light of life."
         },
         "ስም": {
           "meaningEn": "name",
@@ -272,7 +296,9 @@
           "exampleAm": "ስምህ ማን ነው?",
           "transliteration": "sim",
           "difficulty": 1,
-          "category": "common"
+          "category": "common",
+          "definitionEn": "the word by which a person or thing is called",
+          "exampleEn": "What is your name?"
         }
       }
     },
@@ -297,7 +323,9 @@
           "exampleAm": "ቡና መጠጣት ባህላችን ነው።",
           "transliteration": "buna",
           "difficulty": 1,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a beloved warm Ethiopian drink",
+          "exampleEn": "Drinking coffee is our tradition."
         }
       }
     },
@@ -323,7 +351,9 @@
           "exampleAm": "እንጀራ ከወጥ ጋር ይበላል።",
           "transliteration": "injera",
           "difficulty": 2,
-          "category": "food"
+          "category": "food",
+          "definitionEn": "a traditional Ethiopian food made from teff",
+          "exampleEn": "Injera is eaten with stew."
         }
       }
     },
@@ -349,7 +379,9 @@
           "exampleAm": "ፀሐይ በማለዳ ትወጣለች።",
           "transliteration": "tsehay",
           "difficulty": 2,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the body in the sky that gives light and heat",
+          "exampleEn": "The sun rises in the morning."
         }
       }
     },
@@ -375,7 +407,9 @@
           "exampleAm": "አበባው ደስ የሚል ሽታ አለው።",
           "transliteration": "abeba",
           "difficulty": 1,
-          "category": "nature"
+          "category": "nature",
+          "definitionEn": "the colorful, fragrant part of a plant",
+          "exampleEn": "The flower has a pleasant smell."
         }
       }
     },
@@ -401,7 +435,9 @@
           "exampleAm": "ጓደኛዬ በጣም ደግ ነው።",
           "transliteration": "gwadegna",
           "difficulty": 2,
-          "category": "people"
+          "category": "people",
+          "definitionEn": "a person one spends time with and is fond of",
+          "exampleEn": "My friend is very kind."
         }
       }
     },
@@ -426,7 +462,9 @@
           "exampleAm": "ዛሬ የተባረከ ቀን ነው።",
           "transliteration": "qen",
           "difficulty": 1,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the time from dawn to evening",
+          "exampleEn": "Today is a blessed day."
         }
       }
     },
@@ -451,7 +489,9 @@
           "exampleAm": "ልጁ በሜዳ ይጫወታል።",
           "transliteration": "lij",
           "difficulty": 1,
-          "category": "family"
+          "category": "family",
+          "definitionEn": "a young person; a parent's offspring",
+          "exampleEn": "The child plays in the field."
         }
       }
     },
@@ -476,7 +516,9 @@
           "exampleAm": "ውሻው ቤቱን ይጠብቃል።",
           "transliteration": "wisha",
           "difficulty": 1,
-          "category": "animals"
+          "category": "animals",
+          "definitionEn": "a loyal domestic animal",
+          "exampleEn": "The dog guards the house."
         }
       }
     },
@@ -504,7 +546,9 @@
           "exampleAm": "አንድ መጽሐፍ ገዛሁ።",
           "transliteration": "and",
           "difficulty": 1,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the first number; 1",
+          "exampleEn": "I bought one book."
         },
         "ሁለት": {
           "meaningEn": "two",
@@ -512,7 +556,9 @@
           "exampleAm": "ሁለት ዓይኖች አሉን።",
           "transliteration": "hulet",
           "difficulty": 1,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number after one; 2",
+          "exampleEn": "We have two eyes."
         }
       }
     },
@@ -539,7 +585,9 @@
           "exampleAm": "ሦስት ልጆች ይጫወታሉ።",
           "transliteration": "sost",
           "difficulty": 1,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number after two; 3",
+          "exampleEn": "Three children are playing."
         },
         "አራት": {
           "meaningEn": "four",
@@ -547,7 +595,9 @@
           "exampleAm": "ጠረጴዛው አራት እግሮች አሉት።",
           "transliteration": "arat",
           "difficulty": 1,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 4",
+          "exampleEn": "The table has four legs."
         }
       }
     },
@@ -575,7 +625,9 @@
           "exampleAm": "በአንድ እጅ አምስት ጣቶች አሉ።",
           "transliteration": "amist",
           "difficulty": 2,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 5",
+          "exampleEn": "There are five fingers on one hand."
         },
         "ስድስት": {
           "meaningEn": "six",
@@ -583,7 +635,9 @@
           "exampleAm": "ስድስት ሰዓት ሆነ።",
           "transliteration": "sidist",
           "difficulty": 2,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 6",
+          "exampleEn": "It is six o'clock."
         }
       }
     },
@@ -611,7 +665,9 @@
           "exampleAm": "ሳምንት ሰባት ቀናት አሉት።",
           "transliteration": "sebat",
           "difficulty": 2,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 7",
+          "exampleEn": "A week has seven days."
         },
         "ስምንት": {
           "meaningEn": "eight",
@@ -619,7 +675,9 @@
           "exampleAm": "ስምንት ሰዓት ላይ እንገናኝ።",
           "transliteration": "simint",
           "difficulty": 2,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 8",
+          "exampleEn": "Let's meet at eight o'clock."
         }
       }
     },
@@ -647,7 +705,9 @@
           "exampleAm": "ዘጠኝ ብርቱካን ገዛሁ።",
           "transliteration": "zetegn",
           "difficulty": 2,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 9",
+          "exampleEn": "I bought nine oranges."
         },
         "አስር": {
           "meaningEn": "ten",
@@ -655,7 +715,9 @@
           "exampleAm": "አስር ጣቶች አሉን።",
           "transliteration": "asir",
           "difficulty": 1,
-          "category": "numbers"
+          "category": "numbers",
+          "definitionEn": "the number 10",
+          "exampleEn": "We have ten fingers."
         }
       }
     },
@@ -2342,7 +2404,9 @@
           "exampleAm": "አዎ፣ እስማማለሁ።",
           "transliteration": "awo",
           "difficulty": 1,
-          "category": "social"
+          "category": "social",
+          "definitionEn": "an answer given to confirm",
+          "exampleEn": "Yes, I agree."
         },
         "የለም": {
           "meaningEn": "no; none",
@@ -2350,7 +2414,9 @@
           "exampleAm": "ምንም ችግር የለም።",
           "transliteration": "yelem",
           "difficulty": 1,
-          "category": "social"
+          "category": "social",
+          "definitionEn": "a negative answer; absence",
+          "exampleEn": "There is no problem."
         }
       }
     },
@@ -2377,7 +2443,9 @@
           "exampleAm": "እባክህ በሩን ዝጋ።",
           "transliteration": "ibakih",
           "difficulty": 2,
-          "category": "social"
+          "category": "social",
+          "definitionEn": "a word said to express politeness",
+          "exampleEn": "Please close the door."
         },
         "እሺ": {
           "meaningEn": "okay",
@@ -2385,7 +2453,9 @@
           "exampleAm": "እሺ፣ ነገ እንገናኝ።",
           "transliteration": "eshi",
           "difficulty": 1,
-          "category": "social"
+          "category": "social",
+          "definitionEn": "an answer given to agree",
+          "exampleEn": "Okay, let's meet tomorrow."
         }
       }
     },
@@ -3197,7 +3267,9 @@
           "exampleAm": "ዛሬ ጥሩ ቀን ነው።",
           "transliteration": "zare",
           "difficulty": 1,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the day we are in now",
+          "exampleEn": "Today is a good day."
         },
         "ነገ": {
           "meaningEn": "tomorrow",
@@ -3205,7 +3277,9 @@
           "exampleAm": "ነገ እንገናኛለን።",
           "transliteration": "nege",
           "difficulty": 1,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the day after today",
+          "exampleEn": "We will meet tomorrow."
         }
       }
     },
@@ -3233,7 +3307,9 @@
           "exampleAm": "በሳምንት ሰባት ቀን አለ።",
           "transliteration": "samint",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "a period of seven days",
+          "exampleEn": "There are seven days in a week."
         },
         "ዓመት": {
           "meaningEn": "year",
@@ -3241,7 +3317,9 @@
           "exampleAm": "አዲስ ዓመት መጣ።",
           "transliteration": "amet",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "a period of twelve months",
+          "exampleEn": "The new year has come."
         }
       }
     },
@@ -3709,7 +3787,9 @@
           "exampleAm": "ሰኞ ወደ ሥራ እሄዳለሁ።",
           "transliteration": "segno",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the first working day of the week",
+          "exampleEn": "On Monday I go to work."
         },
         "ማክሰኞ": {
           "meaningEn": "Tuesday",
@@ -3717,7 +3797,9 @@
           "exampleAm": "ማክሰኞ ፈተና አለ።",
           "transliteration": "maksegno",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the day after Monday",
+          "exampleEn": "There is an exam on Tuesday."
         }
       }
     },
@@ -3745,7 +3827,9 @@
           "exampleAm": "ረቡዕ እንገናኛለን።",
           "transliteration": "rebu",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the middle day of the week",
+          "exampleEn": "We will meet on Wednesday."
         },
         "ሐሙስ": {
           "meaningEn": "Thursday",
@@ -3753,7 +3837,9 @@
           "exampleAm": "ሐሙስ ገበያ እወጣለሁ።",
           "transliteration": "hamus",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the day after Wednesday",
+          "exampleEn": "On Thursday I go to the market."
         }
       }
     },
@@ -3785,7 +3871,9 @@
           "exampleAm": "ዓርብ ጸሎት አለ።",
           "transliteration": "arb",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the day after Thursday",
+          "exampleEn": "There is prayer on Friday."
         },
         "ቅዳሜ": {
           "meaningEn": "Saturday",
@@ -3793,7 +3881,9 @@
           "exampleAm": "ቅዳሜ እናርፋለን።",
           "transliteration": "qidame",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "a day at the end of the week",
+          "exampleEn": "On Saturday we rest."
         },
         "እሁድ": {
           "meaningEn": "Sunday",
@@ -3801,7 +3891,9 @@
           "exampleAm": "እሁድ እናርፋለን።",
           "transliteration": "ihud",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the rest day of the week",
+          "exampleEn": "On Sunday we rest."
         }
       }
     },
@@ -3829,7 +3921,9 @@
           "exampleAm": "ትናንት ዝናብ ዘነበ።",
           "transliteration": "tinant",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "the past day, before today",
+          "exampleEn": "It rained yesterday."
         },
         "ወር": {
           "meaningEn": "month",
@@ -3837,7 +3931,9 @@
           "exampleAm": "በዓመት አስራ ሁለት ወራት አሉ።",
           "transliteration": "wer",
           "difficulty": 2,
-          "category": "time"
+          "category": "time",
+          "definitionEn": "a period of about thirty days",
+          "exampleEn": "There are twelve months in a year."
         }
       }
     },
