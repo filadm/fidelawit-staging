@@ -2,21 +2,19 @@
   "levels": [
     {
       "id": 1,
-      "title": "Greetings",
-      "section": "First Words",
-      "chapter": "Foundations",
+      "title": "Hello",
+      "chapter": "First Steps",
+      "section": "Hello",
       "letters": [
-        "ላ",
-        "ቤ",
+        "ሻ",
+        "መ",
         "ም",
         "ሰ",
-        "ና"
+        "ላ",
+        "ጆ"
       ],
       "requiredWords": [
         "ሰላም"
-      ],
-      "bonusWords": [
-        "ላም"
       ],
       "wordDetails": {
         "ሰላም": {
@@ -29,88 +27,24 @@
           "definitionEn": "a greeting; a state of calm and tranquility",
           "exampleEn": "Hello, how are you?",
           "icon": "👋"
-        },
-        "ላም": {
-          "meaningEn": "cow",
-          "meaningAm": "ወተት የምትሰጥ የቤት እንስሳ",
-          "exampleAm": "ላሟ ሣር ትበላለች።",
-          "transliteration": "lam",
-          "difficulty": 1,
-          "category": "animals",
-          "definitionEn": "a domestic animal that gives milk",
-          "exampleEn": "The cow eats grass.",
-          "icon": "🐄"
         }
-      }
+      },
+      "goal": "I can greet someone"
     },
     {
       "id": 2,
-      "title": "Water",
-      "section": "First Words",
-      "chapter": "Foundations",
-      "letters": [
-        "ር",
-        "ው",
-        "መ",
-        "ሃ"
-      ],
-      "requiredWords": [
-        "ውሃ"
-      ],
-      "wordDetails": {
-        "ውሃ": {
-          "meaningEn": "water",
-          "meaningAm": "ለመጠጥና ለመታጠብ የሚያገለግል ጥርት ያለ ፈሳሽ",
-          "exampleAm": "እባክህ አንድ ብርጭቆ ውሃ ስጠኝ።",
-          "transliteration": "wuha",
-          "difficulty": 1,
-          "category": "nature",
-          "definitionEn": "a clear liquid used for drinking and washing",
-          "exampleEn": "Please give me a glass of water.",
-          "icon": "💧"
-        }
-      }
-    },
-    {
-      "id": 3,
-      "title": "Home",
-      "section": "First Words",
-      "chapter": "Foundations",
-      "letters": [
-        "ት",
-        "ለ",
-        "ቤ",
-        "ግ"
-      ],
-      "requiredWords": [
-        "ቤት"
-      ],
-      "wordDetails": {
-        "ቤት": {
-          "meaningEn": "house; home",
-          "meaningAm": "ሰዎች የሚኖሩበት መኖሪያ ሕንፃ",
-          "exampleAm": "ቤታችን ሰፊ ነው።",
-          "transliteration": "bet",
-          "difficulty": 1,
-          "category": "home",
-          "definitionEn": "a building where people live",
-          "exampleEn": "Our house is big.",
-          "icon": "🏠"
-        }
-      }
-    },
-    {
-      "id": 4,
       "title": "Family",
-      "section": "First Words",
-      "chapter": "Foundations",
+      "chapter": "First Steps",
+      "section": "Family",
       "letters": [
-        "ባ",
-        "እ",
-        "ም",
+        "ላ",
         "ት",
-        "ና",
-        "አ"
+        "አ",
+        "ሰ",
+        "ም",
+        "እ",
+        "ባ",
+        "ና"
       ],
       "requiredWords": [
         "እናት",
@@ -139,10 +73,749 @@
           "exampleEn": "My father goes to work early in the morning.",
           "icon": "👨"
         }
+      },
+      "goal": "I can name my family"
+    },
+    {
+      "id": 3,
+      "title": "Family",
+      "chapter": "First Steps",
+      "section": "Family",
+      "letters": [
+        "ም",
+        "ሰ",
+        "ድ",
+        "ወ",
+        "ት",
+        "ና",
+        "ን"
+      ],
+      "requiredWords": [
+        "ወንድም"
+      ],
+      "wordDetails": {
+        "ወንድም": {
+          "meaningEn": "brother",
+          "meaningAm": "ከአንድ ወላጅ የተወለደ ወንድ ልጅ",
+          "exampleAm": "ወንድሜ ከእኔ ይበልጣል።",
+          "transliteration": "wendim",
+          "difficulty": 2,
+          "category": "family",
+          "definitionEn": "a male child of the same parents",
+          "exampleEn": "My brother is older than me.",
+          "icon": "👦"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "title": "Family",
+      "chapter": "First Steps",
+      "section": "Family",
+      "letters": [
+        "ሰ",
+        "ን",
+        "እ",
+        "ት",
+        "ላ",
+        "ል",
+        "ጅ",
+        "ህ"
+      ],
+      "requiredWords": [
+        "እህት",
+        "ልጅ"
+      ],
+      "wordDetails": {
+        "እህት": {
+          "meaningEn": "sister",
+          "meaningAm": "ከአንድ ወላጅ የተወለደች ሴት ልጅ",
+          "exampleAm": "እህቴ ተማሪ ናት።",
+          "transliteration": "ihit",
+          "difficulty": 2,
+          "category": "family",
+          "definitionEn": "a female child of the same parents",
+          "exampleEn": "My sister is a student.",
+          "icon": "👧"
+        },
+        "ልጅ": {
+          "meaningEn": "child",
+          "meaningAm": "በዕድሜ ያልጎለመሰ ሰው፤ የወላጅ ልጅ",
+          "exampleAm": "ልጁ በሜዳ ይጫወታል።",
+          "transliteration": "lij",
+          "difficulty": 1,
+          "category": "family",
+          "definitionEn": "a young person; a parent's offspring",
+          "exampleEn": "The child plays in the field.",
+          "icon": "🧒"
+        }
       }
     },
     {
       "id": 5,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "ት",
+        "ድ",
+        "ን",
+        "ጅ",
+        "አ",
+        "ሁ",
+        "ለ",
+        "ላ"
+      ],
+      "requiredWords": [
+        "አንድ",
+        "ሁለት"
+      ],
+      "wordDetails": {
+        "አንድ": {
+          "meaningEn": "one",
+          "meaningAm": "የመጀመሪያው ቁጥር፤ 1",
+          "exampleAm": "አንድ መጽሐፍ ገዛሁ።",
+          "transliteration": "and",
+          "difficulty": 1,
+          "category": "numbers",
+          "definitionEn": "the first number; 1",
+          "exampleEn": "I bought one book.",
+          "icon": "1️⃣"
+        },
+        "ሁለት": {
+          "meaningEn": "two",
+          "meaningAm": "ከአንድ ቀጥሎ ያለ ቁጥር፤ 2",
+          "exampleAm": "ሁለት ዓይኖች አሉን።",
+          "transliteration": "hulet",
+          "difficulty": 1,
+          "category": "numbers",
+          "definitionEn": "the number after one; 2",
+          "exampleEn": "We have two eyes.",
+          "icon": "2️⃣"
+        }
+      },
+      "goal": "I can count to ten"
+    },
+    {
+      "id": 6,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "ወ",
+        "ስ",
+        "ድ",
+        "ም",
+        "አ",
+        "ሦ",
+        "ራ",
+        "ት"
+      ],
+      "requiredWords": [
+        "ሦስት",
+        "አራት"
+      ],
+      "wordDetails": {
+        "ሦስት": {
+          "meaningEn": "three",
+          "meaningAm": "ከሁለት ቀጥሎ ያለ ቁጥር፤ 3",
+          "exampleAm": "ሦስት ልጆች ይጫወታሉ።",
+          "transliteration": "sost",
+          "difficulty": 1,
+          "category": "numbers",
+          "definitionEn": "the number after two; 3",
+          "exampleEn": "Three children are playing.",
+          "icon": "3️⃣"
+        },
+        "አራት": {
+          "meaningEn": "four",
+          "meaningAm": "ቁጥር 4",
+          "exampleAm": "ጠረጴዛው አራት እግሮች አሉት።",
+          "transliteration": "arat",
+          "difficulty": 1,
+          "category": "numbers",
+          "definitionEn": "the number 4",
+          "exampleEn": "The table has four legs.",
+          "icon": "4️⃣"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "አ",
+        "ባ",
+        "ም",
+        "ት",
+        "ስ",
+        "ና",
+        "እ"
+      ],
+      "requiredWords": [
+        "አምስት"
+      ],
+      "wordDetails": {
+        "አምስት": {
+          "meaningEn": "five",
+          "meaningAm": "ቁጥር 5",
+          "exampleAm": "በአንድ እጅ አምስት ጣቶች አሉ።",
+          "transliteration": "amist",
+          "difficulty": 2,
+          "category": "numbers",
+          "definitionEn": "the number 5",
+          "exampleEn": "There are five fingers on one hand.",
+          "icon": "5️⃣"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "ል",
+        "ሦ",
+        "ባ",
+        "ድ",
+        "ሰ",
+        "ት",
+        "ስ",
+        "ስ"
+      ],
+      "requiredWords": [
+        "ስድስት",
+        "ሰባት"
+      ],
+      "wordDetails": {
+        "ስድስት": {
+          "meaningEn": "six",
+          "meaningAm": "ቁጥር 6",
+          "exampleAm": "ስድስት ሰዓት ሆነ።",
+          "transliteration": "sidist",
+          "difficulty": 2,
+          "category": "numbers",
+          "definitionEn": "the number 6",
+          "exampleEn": "It is six o'clock.",
+          "icon": "6️⃣"
+        },
+        "ሰባት": {
+          "meaningEn": "seven",
+          "meaningAm": "ቁጥር 7",
+          "exampleAm": "ሳምንት ሰባት ቀናት አሉት።",
+          "transliteration": "sebat",
+          "difficulty": 2,
+          "category": "numbers",
+          "definitionEn": "the number 7",
+          "exampleEn": "A week has seven days.",
+          "icon": "7️⃣"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "ዘ",
+        "ን",
+        "ጠ",
+        "ት",
+        "ኝ",
+        "ጅ",
+        "ም",
+        "ስ"
+      ],
+      "requiredWords": [
+        "ስምንት",
+        "ዘጠኝ"
+      ],
+      "wordDetails": {
+        "ስምንት": {
+          "meaningEn": "eight",
+          "meaningAm": "ቁጥር 8",
+          "exampleAm": "ስምንት ሰዓት ላይ እንገናኝ።",
+          "transliteration": "simint",
+          "difficulty": 2,
+          "category": "numbers",
+          "definitionEn": "the number 8",
+          "exampleEn": "Let's meet at eight o'clock.",
+          "icon": "8️⃣"
+        },
+        "ዘጠኝ": {
+          "meaningEn": "nine",
+          "meaningAm": "ቁጥር 9",
+          "exampleAm": "ዘጠኝ ብርቱካን ገዛሁ።",
+          "transliteration": "zetegn",
+          "difficulty": 2,
+          "category": "numbers",
+          "definitionEn": "the number 9",
+          "exampleEn": "I bought nine oranges.",
+          "icon": "9️⃣"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "title": "Numbers",
+      "chapter": "First Steps",
+      "section": "Numbers",
+      "letters": [
+        "ት",
+        "ር",
+        "ስ",
+        "ሦ",
+        "አ",
+        "ህ"
+      ],
+      "requiredWords": [
+        "አስር"
+      ],
+      "wordDetails": {
+        "አስር": {
+          "meaningEn": "ten",
+          "meaningAm": "ቁጥር 10",
+          "exampleAm": "አስር ጣቶች አሉን።",
+          "transliteration": "asir",
+          "difficulty": 1,
+          "category": "numbers",
+          "definitionEn": "the number 10",
+          "exampleEn": "We have ten fingers.",
+          "icon": "🔟"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "Animals",
+      "chapter": "First Steps",
+      "section": "Animals",
+      "letters": [
+        "መ",
+        "ም",
+        "ዘ",
+        "ሰ",
+        "ድ",
+        "ላ",
+        "ጅ",
+        "ት"
+      ],
+      "requiredWords": [
+        "ላም",
+        "ድመት"
+      ],
+      "wordDetails": {
+        "ላም": {
+          "meaningEn": "cow",
+          "meaningAm": "ወተት የምትሰጥ የቤት እንስሳ",
+          "exampleAm": "ላሟ ሣር ትበላለች።",
+          "transliteration": "lam",
+          "difficulty": 1,
+          "category": "animals",
+          "definitionEn": "a domestic animal that gives milk",
+          "exampleEn": "The cow eats grass.",
+          "icon": "🐄"
+        },
+        "ድመት": {
+          "meaningEn": "cat",
+          "meaningAm": "በቤት የሚያድግ ትንሽ እንስሳ",
+          "exampleAm": "ድመቷ ወተት ትጠጣለች።",
+          "transliteration": "dimet",
+          "difficulty": 1,
+          "category": "animals",
+          "definitionEn": "a small animal kept at home",
+          "exampleEn": "The cat drinks milk.",
+          "icon": "🐈"
+        }
+      },
+      "goal": "I can name animals"
+    },
+    {
+      "id": 12,
+      "title": "Animals",
+      "chapter": "First Steps",
+      "section": "Animals",
+      "letters": [
+        "ው",
+        "ሻ",
+        "ራ",
+        "እ",
+        "ፈ",
+        "ስ",
+        "ጅ",
+        "ረ"
+      ],
+      "requiredWords": [
+        "ውሻ",
+        "ፈረስ"
+      ],
+      "wordDetails": {
+        "ውሻ": {
+          "meaningEn": "dog",
+          "meaningAm": "ታማኝ የቤት እንስሳ",
+          "exampleAm": "ውሻው ቤቱን ይጠብቃል።",
+          "transliteration": "wisha",
+          "difficulty": 1,
+          "category": "animals",
+          "definitionEn": "a loyal domestic animal",
+          "exampleEn": "The dog guards the house.",
+          "icon": "🐕"
+        },
+        "ፈረስ": {
+          "meaningEn": "horse",
+          "meaningAm": "ለመጋለብ የሚያገለግል ጠንካራ እንስሳ",
+          "exampleAm": "ፈረሱ በፍጥነት ይሮጣል።",
+          "transliteration": "feres",
+          "difficulty": 2,
+          "category": "animals",
+          "definitionEn": "a strong animal used for riding",
+          "exampleEn": "The horse runs fast.",
+          "icon": "🐴"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "title": "Animals",
+      "chapter": "First Steps",
+      "section": "Animals",
+      "letters": [
+        "ሮ",
+        "ዶ",
+        "ጅ",
+        "ድ",
+        "ሦ"
+      ],
+      "requiredWords": [
+        "ዶሮ"
+      ],
+      "wordDetails": {
+        "ዶሮ": {
+          "meaningEn": "chicken; hen",
+          "meaningAm": "እንቁላል የምትጥል የቤት ወፍ",
+          "exampleAm": "ዶሮዋ እንቁላል ጣለች።",
+          "transliteration": "doro",
+          "difficulty": 1,
+          "category": "animals",
+          "definitionEn": "a domestic bird that lays eggs",
+          "exampleEn": "The hen laid an egg.",
+          "icon": "🐔"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "title": "Food & buna",
+      "chapter": "First Steps",
+      "section": "Food & buna",
+      "letters": [
+        "ው",
+        "ቦ",
+        "ጠ",
+        "ሻ",
+        "ሃ",
+        "ሮ",
+        "ዳ"
+      ],
+      "requiredWords": [
+        "ውሃ",
+        "ዳቦ"
+      ],
+      "wordDetails": {
+        "ውሃ": {
+          "meaningEn": "water",
+          "meaningAm": "ለመጠጥና ለመታጠብ የሚያገለግል ጥርት ያለ ፈሳሽ",
+          "exampleAm": "እባክህ አንድ ብርጭቆ ውሃ ስጠኝ።",
+          "transliteration": "wuha",
+          "difficulty": 1,
+          "category": "nature",
+          "definitionEn": "a clear liquid used for drinking and washing",
+          "exampleEn": "Please give me a glass of water.",
+          "icon": "💧"
+        },
+        "ዳቦ": {
+          "meaningEn": "bread",
+          "meaningAm": "ከዱቄት ተጋግሮ የሚሰራ ምግብ",
+          "exampleAm": "ጠዋት ዳቦ በላሁ።",
+          "transliteration": "dabo",
+          "difficulty": 1,
+          "category": "food",
+          "definitionEn": "a food baked from flour",
+          "exampleEn": "I ate bread in the morning.",
+          "icon": "🍞"
+        }
+      },
+      "goal": "I can name foods and drinks"
+    },
+    {
+      "id": 15,
+      "title": "Food & buna",
+      "chapter": "First Steps",
+      "section": "Food & buna",
+      "letters": [
+        "ና",
+        "ወ",
+        "ቡ",
+        "ተ",
+        "ድ",
+        "ት",
+        "ለ",
+        "ጅ"
+      ],
+      "requiredWords": [
+        "ቡና",
+        "ወተት"
+      ],
+      "wordDetails": {
+        "ቡና": {
+          "meaningEn": "coffee",
+          "meaningAm": "ተወዳጅ የኢትዮጵያ ሞቅ ያለ መጠጥ",
+          "exampleAm": "ቡና መጠጣት ባህላችን ነው።",
+          "transliteration": "buna",
+          "difficulty": 1,
+          "category": "food",
+          "definitionEn": "a beloved warm Ethiopian drink",
+          "exampleEn": "Drinking coffee is our tradition.",
+          "icon": "☕"
+        },
+        "ወተት": {
+          "meaningEn": "milk",
+          "meaningAm": "ከከብት የሚገኝ ነጭ መጠጥ",
+          "exampleAm": "በማለዳ ወተት እጠጣለሁ።",
+          "transliteration": "wetet",
+          "difficulty": 1,
+          "category": "drink",
+          "definitionEn": "a white drink that comes from cattle",
+          "exampleEn": "I drink milk in the morning.",
+          "icon": "🥛"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "title": "Food & buna",
+      "chapter": "First Steps",
+      "section": "Food & buna",
+      "letters": [
+        "ን",
+        "ሰ",
+        "መ",
+        "እ",
+        "ጀ",
+        "ው",
+        "ራ"
+      ],
+      "requiredWords": [
+        "እንጀራ"
+      ],
+      "wordDetails": {
+        "እንጀራ": {
+          "meaningEn": "injera (sourdough flatbread)",
+          "meaningAm": "ከጤፍ የሚሰራ ባህላዊ የኢትዮጵያ ምግብ",
+          "exampleAm": "እንጀራ ከወጥ ጋር ይበላል።",
+          "transliteration": "injera",
+          "difficulty": 2,
+          "category": "food",
+          "definitionEn": "a traditional Ethiopian food made from teff",
+          "exampleEn": "Injera is eaten with stew.",
+          "icon": "🫓"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "title": "Colors & body",
+      "chapter": "First Steps",
+      "section": "Colors & body",
+      "letters": [
+        "ህ",
+        "ቦ",
+        "ይ",
+        "ጭ",
+        "ዳ",
+        "ነ",
+        "ቀ"
+      ],
+      "requiredWords": [
+        "ቀይ",
+        "ነጭ"
+      ],
+      "wordDetails": {
+        "ቀይ": {
+          "meaningEn": "red",
+          "meaningAm": "የደም ቀለም",
+          "exampleAm": "ቀይ አበባ ወደድኩ።",
+          "transliteration": "qey",
+          "difficulty": 1,
+          "category": "colors",
+          "definitionEn": "the color of blood",
+          "exampleEn": "I liked the red flower.",
+          "icon": "🔴"
+        },
+        "ነጭ": {
+          "meaningEn": "white",
+          "meaningAm": "የወተት ቀለም",
+          "exampleAm": "ነጭ ሸሚዝ ለበሰ።",
+          "transliteration": "nech",
+          "difficulty": 1,
+          "category": "colors",
+          "definitionEn": "the color of milk",
+          "exampleEn": "He wore a white shirt.",
+          "icon": "⚪"
+        }
+      },
+      "goal": "I can name colors and body parts"
+    },
+    {
+      "id": 18,
+      "title": "Colors & body",
+      "chapter": "First Steps",
+      "section": "Colors & body",
+      "letters": [
+        "ስ",
+        "ጅ",
+        "ቀ",
+        "እ",
+        "ቡ",
+        "ዘ",
+        "ራ"
+      ],
+      "requiredWords": [
+        "ራስ",
+        "እጅ"
+      ],
+      "wordDetails": {
+        "ራስ": {
+          "meaningEn": "head",
+          "meaningAm": "የሰውነት የላይኛው ክፍል፤ አንጎል ያለበት",
+          "exampleAm": "ራሴ ያመኛል።",
+          "transliteration": "ras",
+          "difficulty": 1,
+          "category": "body",
+          "definitionEn": "the upper part of the body, where the brain is",
+          "exampleEn": "My head hurts.",
+          "icon": "🧑"
+        },
+        "እጅ": {
+          "meaningEn": "hand",
+          "meaningAm": "ለመያዝና ለመስራት የምንጠቀምበት የሰውነት ክፍል",
+          "exampleAm": "በእጄ እጽፋለሁ።",
+          "transliteration": "ij",
+          "difficulty": 1,
+          "category": "body",
+          "definitionEn": "the body part we use to hold and work",
+          "exampleEn": "I write with my hand.",
+          "icon": "✋"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "title": "Colors & body",
+      "chapter": "First Steps",
+      "section": "Colors & body",
+      "letters": [
+        "ዘ",
+        "ዓ",
+        "ር",
+        "ግ",
+        "ን",
+        "ሮ",
+        "እ",
+        "ይ"
+      ],
+      "requiredWords": [
+        "እግር",
+        "ዓይን"
+      ],
+      "wordDetails": {
+        "እግር": {
+          "meaningEn": "leg; foot",
+          "meaningAm": "ለመራመድ የምንጠቀምበት የሰውነት ክፍል",
+          "exampleAm": "በእግሬ ወደ ትምህርት ቤት እሄዳለሁ።",
+          "transliteration": "igir",
+          "difficulty": 1,
+          "category": "body",
+          "definitionEn": "the body part we use to walk",
+          "exampleEn": "I go to school on foot.",
+          "icon": "🦵"
+        },
+        "ዓይን": {
+          "meaningEn": "eye",
+          "meaningAm": "ለማየት የሚያገለግል የሰውነት ክፍል",
+          "exampleAm": "ዓይኖቿ ቆንጆ ናቸው።",
+          "transliteration": "ayn",
+          "difficulty": 1,
+          "category": "body",
+          "definitionEn": "the body part used for seeing",
+          "exampleEn": "Her eyes are beautiful.",
+          "icon": "👁️"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Colors & body",
+      "chapter": "First Steps",
+      "section": "Colors & body",
+      "letters": [
+        "ዳ",
+        "ሮ",
+        "ጆ",
+        "ሃ",
+        "ህ"
+      ],
+      "requiredWords": [
+        "ጆሮ"
+      ],
+      "wordDetails": {
+        "ጆሮ": {
+          "meaningEn": "ear",
+          "meaningAm": "ለመስማት የሚያገለግል የሰውነት ክፍል",
+          "exampleAm": "በጆሮ እንሰማለን።",
+          "transliteration": "joro",
+          "difficulty": 1,
+          "category": "body",
+          "definitionEn": "the body part used for hearing",
+          "exampleEn": "We hear with our ears.",
+          "icon": "👂"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "title": "Home",
+      "section": "First Words",
+      "chapter": "Foundations",
+      "letters": [
+        "ት",
+        "ለ",
+        "ቤ",
+        "ግ"
+      ],
+      "requiredWords": [
+        "ቤት"
+      ],
+      "wordDetails": {
+        "ቤት": {
+          "meaningEn": "house; home",
+          "meaningAm": "ሰዎች የሚኖሩበት መኖሪያ ሕንፃ",
+          "exampleAm": "ቤታችን ሰፊ ነው።",
+          "transliteration": "bet",
+          "difficulty": 1,
+          "category": "home",
+          "definitionEn": "a building where people live",
+          "exampleEn": "Our house is big.",
+          "icon": "🏠"
+        }
+      }
+    },
+    {
+      "id": 22,
       "title": "Transport",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -171,7 +844,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 23,
       "title": "Food",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -213,7 +886,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 24,
       "title": "Love",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -242,7 +915,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 25,
       "title": "The Book",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -271,7 +944,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 26,
       "title": "Education",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -314,64 +987,7 @@
       }
     },
     {
-      "id": 10,
-      "title": "Coffee",
-      "section": "Food & Nature",
-      "chapter": "Foundations",
-      "letters": [
-        "ና",
-        "ቡ",
-        "መ",
-        "ስ"
-      ],
-      "requiredWords": [
-        "ቡና"
-      ],
-      "wordDetails": {
-        "ቡና": {
-          "meaningEn": "coffee",
-          "meaningAm": "ተወዳጅ የኢትዮጵያ ሞቅ ያለ መጠጥ",
-          "exampleAm": "ቡና መጠጣት ባህላችን ነው።",
-          "transliteration": "buna",
-          "difficulty": 1,
-          "category": "food",
-          "definitionEn": "a beloved warm Ethiopian drink",
-          "exampleEn": "Drinking coffee is our tradition.",
-          "icon": "☕"
-        }
-      }
-    },
-    {
-      "id": 11,
-      "title": "Injera",
-      "section": "Food & Nature",
-      "chapter": "Foundations",
-      "letters": [
-        "ራ",
-        "እ",
-        "ጀ",
-        "ን",
-        "ቤ"
-      ],
-      "requiredWords": [
-        "እንጀራ"
-      ],
-      "wordDetails": {
-        "እንጀራ": {
-          "meaningEn": "injera (sourdough flatbread)",
-          "meaningAm": "ከጤፍ የሚሰራ ባህላዊ የኢትዮጵያ ምግብ",
-          "exampleAm": "እንጀራ ከወጥ ጋር ይበላል።",
-          "transliteration": "injera",
-          "difficulty": 2,
-          "category": "food",
-          "definitionEn": "a traditional Ethiopian food made from teff",
-          "exampleEn": "Injera is eaten with stew.",
-          "icon": "🫓"
-        }
-      }
-    },
-    {
-      "id": 12,
+      "id": 27,
       "title": "The Sun",
       "section": "Food & Nature",
       "chapter": "Foundations",
@@ -400,7 +1016,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 28,
       "title": "Flower",
       "section": "Food & Nature",
       "chapter": "Foundations",
@@ -429,7 +1045,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 29,
       "title": "Friend",
       "section": "People & Around",
       "chapter": "Foundations",
@@ -458,7 +1074,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 30,
       "title": "Day",
       "section": "People & Around",
       "chapter": "Foundations",
@@ -485,272 +1101,7 @@
       }
     },
     {
-      "id": 16,
-      "title": "Child",
-      "section": "People & Around",
-      "chapter": "Foundations",
-      "letters": [
-        "ጅ",
-        "በ",
-        "ል",
-        "ት"
-      ],
-      "requiredWords": [
-        "ልጅ"
-      ],
-      "wordDetails": {
-        "ልጅ": {
-          "meaningEn": "child",
-          "meaningAm": "በዕድሜ ያልጎለመሰ ሰው፤ የወላጅ ልጅ",
-          "exampleAm": "ልጁ በሜዳ ይጫወታል።",
-          "transliteration": "lij",
-          "difficulty": 1,
-          "category": "family",
-          "definitionEn": "a young person; a parent's offspring",
-          "exampleEn": "The child plays in the field.",
-          "icon": "🧒"
-        }
-      }
-    },
-    {
-      "id": 17,
-      "title": "Dog",
-      "section": "People & Around",
-      "chapter": "Foundations",
-      "letters": [
-        "ሻ",
-        "መ",
-        "ው",
-        "ር"
-      ],
-      "requiredWords": [
-        "ውሻ"
-      ],
-      "wordDetails": {
-        "ውሻ": {
-          "meaningEn": "dog",
-          "meaningAm": "ታማኝ የቤት እንስሳ",
-          "exampleAm": "ውሻው ቤቱን ይጠብቃል።",
-          "transliteration": "wisha",
-          "difficulty": 1,
-          "category": "animals",
-          "definitionEn": "a loyal domestic animal",
-          "exampleEn": "The dog guards the house.",
-          "icon": "🐕"
-        }
-      }
-    },
-    {
-      "id": 18,
-      "title": "Numbers I",
-      "section": "Numbers",
-      "chapter": "Foundations",
-      "letters": [
-        "አ",
-        "ን",
-        "ድ",
-        "ሁ",
-        "ለ",
-        "ት"
-      ],
-      "requiredWords": [
-        "አንድ",
-        "ሁለት"
-      ],
-      "wordDetails": {
-        "አንድ": {
-          "meaningEn": "one",
-          "meaningAm": "የመጀመሪያው ቁጥር፤ 1",
-          "exampleAm": "አንድ መጽሐፍ ገዛሁ።",
-          "transliteration": "and",
-          "difficulty": 1,
-          "category": "numbers",
-          "definitionEn": "the first number; 1",
-          "exampleEn": "I bought one book.",
-          "icon": "1️⃣"
-        },
-        "ሁለት": {
-          "meaningEn": "two",
-          "meaningAm": "ከአንድ ቀጥሎ ያለ ቁጥር፤ 2",
-          "exampleAm": "ሁለት ዓይኖች አሉን።",
-          "transliteration": "hulet",
-          "difficulty": 1,
-          "category": "numbers",
-          "definitionEn": "the number after one; 2",
-          "exampleEn": "We have two eyes.",
-          "icon": "2️⃣"
-        }
-      }
-    },
-    {
-      "id": 19,
-      "title": "Numbers II",
-      "section": "Numbers",
-      "chapter": "Foundations",
-      "letters": [
-        "ሦ",
-        "ስ",
-        "ት",
-        "አ",
-        "ራ"
-      ],
-      "requiredWords": [
-        "ሦስት",
-        "አራት"
-      ],
-      "wordDetails": {
-        "ሦስት": {
-          "meaningEn": "three",
-          "meaningAm": "ከሁለት ቀጥሎ ያለ ቁጥር፤ 3",
-          "exampleAm": "ሦስት ልጆች ይጫወታሉ።",
-          "transliteration": "sost",
-          "difficulty": 1,
-          "category": "numbers",
-          "definitionEn": "the number after two; 3",
-          "exampleEn": "Three children are playing.",
-          "icon": "3️⃣"
-        },
-        "አራት": {
-          "meaningEn": "four",
-          "meaningAm": "ቁጥር 4",
-          "exampleAm": "ጠረጴዛው አራት እግሮች አሉት።",
-          "transliteration": "arat",
-          "difficulty": 1,
-          "category": "numbers",
-          "definitionEn": "the number 4",
-          "exampleEn": "The table has four legs.",
-          "icon": "4️⃣"
-        }
-      }
-    },
-    {
-      "id": 20,
-      "title": "Numbers III",
-      "section": "Numbers",
-      "chapter": "Foundations",
-      "letters": [
-        "አ",
-        "ም",
-        "ስ",
-        "ስ",
-        "ት",
-        "ድ"
-      ],
-      "requiredWords": [
-        "አምስት",
-        "ስድስት"
-      ],
-      "wordDetails": {
-        "አምስት": {
-          "meaningEn": "five",
-          "meaningAm": "ቁጥር 5",
-          "exampleAm": "በአንድ እጅ አምስት ጣቶች አሉ።",
-          "transliteration": "amist",
-          "difficulty": 2,
-          "category": "numbers",
-          "definitionEn": "the number 5",
-          "exampleEn": "There are five fingers on one hand.",
-          "icon": "5️⃣"
-        },
-        "ስድስት": {
-          "meaningEn": "six",
-          "meaningAm": "ቁጥር 6",
-          "exampleAm": "ስድስት ሰዓት ሆነ።",
-          "transliteration": "sidist",
-          "difficulty": 2,
-          "category": "numbers",
-          "definitionEn": "the number 6",
-          "exampleEn": "It is six o'clock.",
-          "icon": "6️⃣"
-        }
-      }
-    },
-    {
-      "id": 21,
-      "title": "Numbers IV",
-      "section": "Numbers",
-      "chapter": "Foundations",
-      "letters": [
-        "ሰ",
-        "ባ",
-        "ት",
-        "ስ",
-        "ም",
-        "ን"
-      ],
-      "requiredWords": [
-        "ሰባት",
-        "ስምንት"
-      ],
-      "wordDetails": {
-        "ሰባት": {
-          "meaningEn": "seven",
-          "meaningAm": "ቁጥር 7",
-          "exampleAm": "ሳምንት ሰባት ቀናት አሉት።",
-          "transliteration": "sebat",
-          "difficulty": 2,
-          "category": "numbers",
-          "definitionEn": "the number 7",
-          "exampleEn": "A week has seven days.",
-          "icon": "7️⃣"
-        },
-        "ስምንት": {
-          "meaningEn": "eight",
-          "meaningAm": "ቁጥር 8",
-          "exampleAm": "ስምንት ሰዓት ላይ እንገናኝ።",
-          "transliteration": "simint",
-          "difficulty": 2,
-          "category": "numbers",
-          "definitionEn": "the number 8",
-          "exampleEn": "Let's meet at eight o'clock.",
-          "icon": "8️⃣"
-        }
-      }
-    },
-    {
-      "id": 22,
-      "title": "Numbers V",
-      "section": "Numbers",
-      "chapter": "Foundations",
-      "letters": [
-        "ዘ",
-        "ጠ",
-        "ኝ",
-        "አ",
-        "ስ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ዘጠኝ",
-        "አስር"
-      ],
-      "wordDetails": {
-        "ዘጠኝ": {
-          "meaningEn": "nine",
-          "meaningAm": "ቁጥር 9",
-          "exampleAm": "ዘጠኝ ብርቱካን ገዛሁ።",
-          "transliteration": "zetegn",
-          "difficulty": 2,
-          "category": "numbers",
-          "definitionEn": "the number 9",
-          "exampleEn": "I bought nine oranges.",
-          "icon": "9️⃣"
-        },
-        "አስር": {
-          "meaningEn": "ten",
-          "meaningAm": "ቁጥር 10",
-          "exampleAm": "አስር ጣቶች አሉን።",
-          "transliteration": "asir",
-          "difficulty": 1,
-          "category": "numbers",
-          "definitionEn": "the number 10",
-          "exampleEn": "We have ten fingers.",
-          "icon": "🔟"
-        }
-      }
-    },
-    {
-      "id": 23,
+      "id": 31,
       "title": "Body I",
       "section": "Body",
       "chapter": "The World",
@@ -763,33 +1114,9 @@
         "ፍ"
       ],
       "requiredWords": [
-        "ራስ",
-        "እጅ",
         "አፍ"
       ],
       "wordDetails": {
-        "ራስ": {
-          "meaningEn": "head",
-          "meaningAm": "የሰውነት የላይኛው ክፍል፤ አንጎል ያለበት",
-          "exampleAm": "ራሴ ያመኛል።",
-          "transliteration": "ras",
-          "difficulty": 1,
-          "category": "body",
-          "definitionEn": "the upper part of the body, where the brain is",
-          "exampleEn": "My head hurts.",
-          "icon": "🧑"
-        },
-        "እጅ": {
-          "meaningEn": "hand",
-          "meaningAm": "ለመያዝና ለመስራት የምንጠቀምበት የሰውነት ክፍል",
-          "exampleAm": "በእጄ እጽፋለሁ።",
-          "transliteration": "ij",
-          "difficulty": 1,
-          "category": "body",
-          "definitionEn": "the body part we use to hold and work",
-          "exampleEn": "I write with my hand.",
-          "icon": "✋"
-        },
         "አፍ": {
           "meaningEn": "mouth",
           "meaningAm": "ለመብላትና ለመናገር የሚያገለግል የፊት ክፍል",
@@ -804,7 +1131,7 @@
       }
     },
     {
-      "id": 24,
+      "id": 32,
       "title": "Body II",
       "section": "Body",
       "chapter": "The World",
@@ -818,33 +1145,9 @@
         "ብ"
       ],
       "requiredWords": [
-        "እግር",
-        "ጆሮ",
         "ልብ"
       ],
       "wordDetails": {
-        "እግር": {
-          "meaningEn": "leg; foot",
-          "meaningAm": "ለመራመድ የምንጠቀምበት የሰውነት ክፍል",
-          "exampleAm": "በእግሬ ወደ ትምህርት ቤት እሄዳለሁ።",
-          "transliteration": "igir",
-          "difficulty": 1,
-          "category": "body",
-          "definitionEn": "the body part we use to walk",
-          "exampleEn": "I go to school on foot.",
-          "icon": "🦵"
-        },
-        "ጆሮ": {
-          "meaningEn": "ear",
-          "meaningAm": "ለመስማት የሚያገለግል የሰውነት ክፍል",
-          "exampleAm": "በጆሮ እንሰማለን።",
-          "transliteration": "joro",
-          "difficulty": 1,
-          "category": "body",
-          "definitionEn": "the body part used for hearing",
-          "exampleEn": "We hear with our ears.",
-          "icon": "👂"
-        },
         "ልብ": {
           "meaningEn": "heart",
           "meaningAm": "ደም የሚያመነጭ የሰውነት አካል፤ የስሜት ማዕከል",
@@ -859,7 +1162,7 @@
       }
     },
     {
-      "id": 25,
+      "id": 33,
       "title": "Body III",
       "section": "Body",
       "chapter": "The World",
@@ -872,21 +1175,9 @@
         "ስ"
       ],
       "requiredWords": [
-        "ዓይን",
         "ጥርስ"
       ],
       "wordDetails": {
-        "ዓይን": {
-          "meaningEn": "eye",
-          "meaningAm": "ለማየት የሚያገለግል የሰውነት ክፍል",
-          "exampleAm": "ዓይኖቿ ቆንጆ ናቸው።",
-          "transliteration": "ayn",
-          "difficulty": 1,
-          "category": "body",
-          "definitionEn": "the body part used for seeing",
-          "exampleEn": "Her eyes are beautiful.",
-          "icon": "👁️"
-        },
         "ጥርስ": {
           "meaningEn": "tooth",
           "meaningAm": "ምግብ ለማኘክ የሚያገለግል በአፍ ውስጥ ያለ",
@@ -901,50 +1192,7 @@
       }
     },
     {
-      "id": 26,
-      "title": "Family II",
-      "section": "Family & People",
-      "chapter": "The World",
-      "letters": [
-        "ወ",
-        "ን",
-        "ድ",
-        "ም",
-        "እ",
-        "ህ",
-        "ት"
-      ],
-      "requiredWords": [
-        "ወንድም",
-        "እህት"
-      ],
-      "wordDetails": {
-        "ወንድም": {
-          "meaningEn": "brother",
-          "meaningAm": "ከአንድ ወላጅ የተወለደ ወንድ ልጅ",
-          "exampleAm": "ወንድሜ ከእኔ ይበልጣል።",
-          "transliteration": "wendim",
-          "difficulty": 2,
-          "category": "family",
-          "definitionEn": "a male child of the same parents",
-          "exampleEn": "My brother is older than me.",
-          "icon": "👦"
-        },
-        "እህት": {
-          "meaningEn": "sister",
-          "meaningAm": "ከአንድ ወላጅ የተወለደች ሴት ልጅ",
-          "exampleAm": "እህቴ ተማሪ ናት።",
-          "transliteration": "ihit",
-          "difficulty": 2,
-          "category": "family",
-          "definitionEn": "a female child of the same parents",
-          "exampleEn": "My sister is a student.",
-          "icon": "👧"
-        }
-      }
-    },
-    {
-      "id": 27,
+      "id": 34,
       "title": "People",
       "section": "Family & People",
       "chapter": "The World",
@@ -985,7 +1233,7 @@
       }
     },
     {
-      "id": 28,
+      "id": 35,
       "title": "Drinks",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -997,21 +1245,9 @@
         "ይ"
       ],
       "requiredWords": [
-        "ወተት",
         "ሻይ"
       ],
       "wordDetails": {
-        "ወተት": {
-          "meaningEn": "milk",
-          "meaningAm": "ከከብት የሚገኝ ነጭ መጠጥ",
-          "exampleAm": "በማለዳ ወተት እጠጣለሁ።",
-          "transliteration": "wetet",
-          "difficulty": 1,
-          "category": "drink",
-          "definitionEn": "a white drink that comes from cattle",
-          "exampleEn": "I drink milk in the morning.",
-          "icon": "🥛"
-        },
         "ሻይ": {
           "meaningEn": "tea",
           "meaningAm": "ከቅጠል የሚፈላ ሞቅ ያለ መጠጥ",
@@ -1026,7 +1262,7 @@
       }
     },
     {
-      "id": 29,
+      "id": 36,
       "title": "On the Table",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1040,22 +1276,10 @@
         "ር"
       ],
       "requiredWords": [
-        "ዳቦ",
         "ጨው",
         "ስኳር"
       ],
       "wordDetails": {
-        "ዳቦ": {
-          "meaningEn": "bread",
-          "meaningAm": "ከዱቄት ተጋግሮ የሚሰራ ምግብ",
-          "exampleAm": "ጠዋት ዳቦ በላሁ።",
-          "transliteration": "dabo",
-          "difficulty": 1,
-          "category": "food",
-          "definitionEn": "a food baked from flour",
-          "exampleEn": "I ate bread in the morning.",
-          "icon": "🍞"
-        },
         "ጨው": {
           "meaningEn": "salt",
           "meaningAm": "ምግብን ጣዕም የሚሰጥ ነጭ ቅመም",
@@ -1081,7 +1305,7 @@
       }
     },
     {
-      "id": 30,
+      "id": 37,
       "title": "Food II",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1124,49 +1348,7 @@
       }
     },
     {
-      "id": 31,
-      "title": "Animals II",
-      "section": "Animals",
-      "chapter": "The World",
-      "letters": [
-        "ድ",
-        "መ",
-        "ት",
-        "ፈ",
-        "ረ",
-        "ስ"
-      ],
-      "requiredWords": [
-        "ድመት",
-        "ፈረስ"
-      ],
-      "wordDetails": {
-        "ድመት": {
-          "meaningEn": "cat",
-          "meaningAm": "በቤት የሚያድግ ትንሽ እንስሳ",
-          "exampleAm": "ድመቷ ወተት ትጠጣለች።",
-          "transliteration": "dimet",
-          "difficulty": 1,
-          "category": "animals",
-          "definitionEn": "a small animal kept at home",
-          "exampleEn": "The cat drinks milk.",
-          "icon": "🐈"
-        },
-        "ፈረስ": {
-          "meaningEn": "horse",
-          "meaningAm": "ለመጋለብ የሚያገለግል ጠንካራ እንስሳ",
-          "exampleAm": "ፈረሱ በፍጥነት ይሮጣል።",
-          "transliteration": "feres",
-          "difficulty": 2,
-          "category": "animals",
-          "definitionEn": "a strong animal used for riding",
-          "exampleEn": "The horse runs fast.",
-          "icon": "🐴"
-        }
-      }
-    },
-    {
-      "id": 32,
+      "id": 38,
       "title": "Animals III",
       "section": "Animals",
       "chapter": "The World",
@@ -1179,22 +1361,10 @@
         "ግ"
       ],
       "requiredWords": [
-        "ዶሮ",
         "አሳ",
         "በግ"
       ],
       "wordDetails": {
-        "ዶሮ": {
-          "meaningEn": "chicken; hen",
-          "meaningAm": "እንቁላል የምትጥል የቤት ወፍ",
-          "exampleAm": "ዶሮዋ እንቁላል ጣለች።",
-          "transliteration": "doro",
-          "difficulty": 1,
-          "category": "animals",
-          "definitionEn": "a domestic bird that lays eggs",
-          "exampleEn": "The hen laid an egg.",
-          "icon": "🐔"
-        },
         "አሳ": {
           "meaningEn": "fish",
           "meaningAm": "በውሃ ውስጥ የሚኖር እንስሳ",
@@ -1220,7 +1390,7 @@
       }
     },
     {
-      "id": 33,
+      "id": 39,
       "title": "The Sky",
       "section": "Nature",
       "chapter": "The World",
@@ -1262,7 +1432,7 @@
       }
     },
     {
-      "id": 34,
+      "id": 40,
       "title": "Nature II",
       "section": "Nature",
       "chapter": "The World",
@@ -1303,7 +1473,7 @@
       }
     },
     {
-      "id": 35,
+      "id": 41,
       "title": "Weather",
       "section": "Nature",
       "chapter": "The World",
@@ -1345,7 +1515,7 @@
       }
     },
     {
-      "id": 36,
+      "id": 42,
       "title": "Colors",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1359,33 +1529,9 @@
         "ር"
       ],
       "requiredWords": [
-        "ቀይ",
-        "ነጭ",
         "ጥቁር"
       ],
       "wordDetails": {
-        "ቀይ": {
-          "meaningEn": "red",
-          "meaningAm": "የደም ቀለም",
-          "exampleAm": "ቀይ አበባ ወደድኩ።",
-          "transliteration": "qey",
-          "difficulty": 1,
-          "category": "colors",
-          "definitionEn": "the color of blood",
-          "exampleEn": "I liked the red flower.",
-          "icon": "🔴"
-        },
-        "ነጭ": {
-          "meaningEn": "white",
-          "meaningAm": "የወተት ቀለም",
-          "exampleAm": "ነጭ ሸሚዝ ለበሰ።",
-          "transliteration": "nech",
-          "difficulty": 1,
-          "category": "colors",
-          "definitionEn": "the color of milk",
-          "exampleEn": "He wore a white shirt.",
-          "icon": "⚪"
-        },
         "ጥቁር": {
           "meaningEn": "black",
           "meaningAm": "የጨለማ ቀለም",
@@ -1400,7 +1546,7 @@
       }
     },
     {
-      "id": 37,
+      "id": 43,
       "title": "Time II",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1439,7 +1585,7 @@
       }
     },
     {
-      "id": 38,
+      "id": 44,
       "title": "Verbs",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1479,7 +1625,7 @@
       }
     },
     {
-      "id": 39,
+      "id": 45,
       "title": "Opposites",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1531,7 +1677,7 @@
       }
     },
     {
-      "id": 40,
+      "id": 46,
       "title": "Market",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1573,7 +1719,7 @@
       }
     },
     {
-      "id": 41,
+      "id": 47,
       "title": "In the City",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1614,7 +1760,7 @@
       }
     },
     {
-      "id": 42,
+      "id": 48,
       "title": "Shops",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1655,7 +1801,7 @@
       }
     },
     {
-      "id": 43,
+      "id": 49,
       "title": "Clothes I",
       "section": "Clothing",
       "chapter": "Daily Life",
@@ -1696,7 +1842,7 @@
       }
     },
     {
-      "id": 44,
+      "id": 50,
       "title": "Clothes II",
       "section": "Clothing",
       "chapter": "Daily Life",
@@ -1737,7 +1883,7 @@
       }
     },
     {
-      "id": 45,
+      "id": 51,
       "title": "Jobs I",
       "section": "Jobs",
       "chapter": "Daily Life",
@@ -1778,7 +1924,7 @@
       }
     },
     {
-      "id": 46,
+      "id": 52,
       "title": "Jobs II",
       "section": "Jobs",
       "chapter": "Daily Life",
@@ -1821,7 +1967,7 @@
       }
     },
     {
-      "id": 47,
+      "id": 53,
       "title": "Asking I",
       "section": "Questions",
       "chapter": "Daily Life",
@@ -1858,7 +2004,7 @@
       }
     },
     {
-      "id": 48,
+      "id": 54,
       "title": "Asking II",
       "section": "Questions",
       "chapter": "Daily Life",
@@ -1896,7 +2042,7 @@
       }
     },
     {
-      "id": 49,
+      "id": 55,
       "title": "Asking III",
       "section": "Questions",
       "chapter": "Daily Life",
@@ -1936,7 +2082,7 @@
       }
     },
     {
-      "id": 50,
+      "id": 56,
       "title": "Going",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -1976,7 +2122,7 @@
       }
     },
     {
-      "id": 51,
+      "id": 57,
       "title": "Reading & Writing",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -2017,7 +2163,7 @@
       }
     },
     {
-      "id": 52,
+      "id": 58,
       "title": "Tall & Short",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2057,7 +2203,7 @@
       }
     },
     {
-      "id": 53,
+      "id": 59,
       "title": "Hot & Cold",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2097,7 +2243,7 @@
       }
     },
     {
-      "id": 54,
+      "id": 60,
       "title": "Fast & Slow",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2138,7 +2284,7 @@
       }
     },
     {
-      "id": 55,
+      "id": 61,
       "title": "Furniture",
       "section": "Household",
       "chapter": "Around You",
@@ -2179,7 +2325,7 @@
       }
     },
     {
-      "id": 56,
+      "id": 62,
       "title": "More Furniture",
       "section": "Household",
       "chapter": "Around You",
@@ -2222,7 +2368,7 @@
       }
     },
     {
-      "id": 57,
+      "id": 63,
       "title": "Feelings I",
       "section": "Feelings",
       "chapter": "Around You",
@@ -2264,7 +2410,7 @@
       }
     },
     {
-      "id": 58,
+      "id": 64,
       "title": "Feelings II",
       "section": "Feelings",
       "chapter": "Around You",
@@ -2306,7 +2452,7 @@
       }
     },
     {
-      "id": 59,
+      "id": 65,
       "title": "Seeing & Hearing",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -2345,7 +2491,7 @@
       }
     },
     {
-      "id": 60,
+      "id": 66,
       "title": "Speaking & Loving",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -2386,7 +2532,7 @@
       }
     },
     {
-      "id": 61,
+      "id": 67,
       "title": "At the Table",
       "section": "More Food",
       "chapter": "Around You",
@@ -2427,7 +2573,7 @@
       }
     },
     {
-      "id": 62,
+      "id": 68,
       "title": "More Food",
       "section": "More Food",
       "chapter": "Around You",
@@ -2467,7 +2613,7 @@
       }
     },
     {
-      "id": 63,
+      "id": 69,
       "title": "Up & Down",
       "section": "Directions",
       "chapter": "Around You",
@@ -2507,7 +2653,7 @@
       }
     },
     {
-      "id": 64,
+      "id": 70,
       "title": "In & Out",
       "section": "Directions",
       "chapter": "Around You",
@@ -2545,7 +2691,7 @@
       }
     },
     {
-      "id": 65,
+      "id": 71,
       "title": "Right & Left",
       "section": "Directions",
       "chapter": "Around You",
@@ -2585,7 +2731,7 @@
       }
     },
     {
-      "id": 66,
+      "id": 72,
       "title": "Rivers & Forests",
       "section": "More Nature",
       "chapter": "Around You",
@@ -2625,7 +2771,7 @@
       }
     },
     {
-      "id": 67,
+      "id": 73,
       "title": "Mountains & Snow",
       "section": "More Nature",
       "chapter": "Around You",
@@ -2667,7 +2813,7 @@
       }
     },
     {
-      "id": 68,
+      "id": 74,
       "title": "Yes & No",
       "section": "Polite Words",
       "chapter": "Foundations",
@@ -2706,7 +2852,7 @@
       }
     },
     {
-      "id": 69,
+      "id": 75,
       "title": "Please & OK",
       "section": "Polite Words",
       "chapter": "Foundations",
@@ -2745,7 +2891,7 @@
       }
     },
     {
-      "id": 70,
+      "id": 76,
       "title": "Face & Hair",
       "section": "More Body",
       "chapter": "The World",
@@ -2786,7 +2932,7 @@
       }
     },
     {
-      "id": 71,
+      "id": 77,
       "title": "Finger & Belly",
       "section": "More Body",
       "chapter": "The World",
@@ -2825,7 +2971,7 @@
       }
     },
     {
-      "id": 72,
+      "id": 78,
       "title": "Farm Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -2866,7 +3012,7 @@
       }
     },
     {
-      "id": 73,
+      "id": 79,
       "title": "Wild Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -2907,7 +3053,7 @@
       }
     },
     {
-      "id": 74,
+      "id": 80,
       "title": "In the Sky",
       "section": "In the Sky",
       "chapter": "The World",
@@ -2949,7 +3095,7 @@
       }
     },
     {
-      "id": 75,
+      "id": 81,
       "title": "Weather II",
       "section": "In the Sky",
       "chapter": "The World",
@@ -2991,7 +3137,7 @@
       }
     },
     {
-      "id": 76,
+      "id": 82,
       "title": "Money & Phone",
       "section": "Things",
       "chapter": "Around You",
@@ -3032,7 +3178,7 @@
       }
     },
     {
-      "id": 77,
+      "id": 83,
       "title": "Ball & Key",
       "section": "Things",
       "chapter": "Around You",
@@ -3073,7 +3219,7 @@
       }
     },
     {
-      "id": 78,
+      "id": 84,
       "title": "Morning Routine",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3114,7 +3260,7 @@
       }
     },
     {
-      "id": 79,
+      "id": 85,
       "title": "In & Out",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3154,7 +3300,7 @@
       }
     },
     {
-      "id": 80,
+      "id": 86,
       "title": "Greens & Yellows",
       "section": "Colors II",
       "chapter": "The World",
@@ -3197,7 +3343,7 @@
       }
     },
     {
-      "id": 81,
+      "id": 87,
       "title": "Blues & Browns",
       "section": "Colors II",
       "chapter": "The World",
@@ -3239,7 +3385,7 @@
       }
     },
     {
-      "id": 82,
+      "id": 88,
       "title": "Give & Take",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3280,7 +3426,7 @@
       }
     },
     {
-      "id": 83,
+      "id": 89,
       "title": "Buy & Sell",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3320,7 +3466,7 @@
       }
     },
     {
-      "id": 84,
+      "id": 90,
       "title": "Spices",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3360,7 +3506,7 @@
       }
     },
     {
-      "id": 85,
+      "id": 91,
       "title": "Cooking",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3402,7 +3548,7 @@
       }
     },
     {
-      "id": 86,
+      "id": 92,
       "title": "Relatives I",
       "section": "Relatives",
       "chapter": "The World",
@@ -3442,7 +3588,7 @@
       }
     },
     {
-      "id": 87,
+      "id": 93,
       "title": "Relatives II",
       "section": "Relatives",
       "chapter": "The World",
@@ -3483,7 +3629,7 @@
       }
     },
     {
-      "id": 88,
+      "id": 94,
       "title": "At the Clinic",
       "section": "Health",
       "chapter": "Around You",
@@ -3525,7 +3671,7 @@
       }
     },
     {
-      "id": 89,
+      "id": 95,
       "title": "Body & Health",
       "section": "Health",
       "chapter": "Around You",
@@ -3564,7 +3710,7 @@
       }
     },
     {
-      "id": 90,
+      "id": 96,
       "title": "Writing",
       "section": "School",
       "chapter": "Daily Life",
@@ -3607,7 +3753,7 @@
       }
     },
     {
-      "id": 91,
+      "id": 97,
       "title": "At School",
       "section": "School",
       "chapter": "Daily Life",
@@ -3650,7 +3796,7 @@
       }
     },
     {
-      "id": 92,
+      "id": 98,
       "title": "Today & Tomorrow",
       "section": "Time",
       "chapter": "Foundations",
@@ -3688,7 +3834,7 @@
       }
     },
     {
-      "id": 93,
+      "id": 99,
       "title": "Week & Year",
       "section": "Time",
       "chapter": "Foundations",
@@ -3728,7 +3874,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 100,
       "title": "Clean & Dirty",
       "section": "More Describing",
       "chapter": "Daily Life",
@@ -3768,7 +3914,7 @@
       }
     },
     {
-      "id": 95,
+      "id": 101,
       "title": "Easy & Hard",
       "section": "More Describing",
       "chapter": "Daily Life",
@@ -3808,7 +3954,7 @@
       }
     },
     {
-      "id": 96,
+      "id": 102,
       "title": "Tired & Hungry",
       "section": "Body Feelings",
       "chapter": "Around You",
@@ -3848,7 +3994,7 @@
       }
     },
     {
-      "id": 97,
+      "id": 103,
       "title": "Thirst & Sleep",
       "section": "Body Feelings",
       "chapter": "Around You",
@@ -3890,7 +4036,7 @@
       }
     },
     {
-      "id": 98,
+      "id": 104,
       "title": "Dairy",
       "section": "On the Plate",
       "chapter": "The World",
@@ -3932,7 +4078,7 @@
       }
     },
     {
-      "id": 99,
+      "id": 105,
       "title": "Stew & Soup",
       "section": "On the Plate",
       "chapter": "The World",
@@ -3973,7 +4119,7 @@
       }
     },
     {
-      "id": 100,
+      "id": 106,
       "title": "Grass & Leaf",
       "section": "Plants",
       "chapter": "The World",
@@ -4014,7 +4160,7 @@
       }
     },
     {
-      "id": 101,
+      "id": 107,
       "title": "Seed & Root",
       "section": "Plants",
       "chapter": "The World",
@@ -4052,7 +4198,7 @@
       }
     },
     {
-      "id": 102,
+      "id": 108,
       "title": "Floor & Wall",
       "section": "The House",
       "chapter": "Around You",
@@ -4094,7 +4240,7 @@
       }
     },
     {
-      "id": 103,
+      "id": 109,
       "title": "Roof & Fence",
       "section": "The House",
       "chapter": "Around You",
@@ -4134,7 +4280,7 @@
       }
     },
     {
-      "id": 104,
+      "id": 110,
       "title": "Everyday Verbs I",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4175,7 +4321,7 @@
       }
     },
     {
-      "id": 105,
+      "id": 111,
       "title": "Everyday Verbs II",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4229,7 +4375,7 @@
       }
     },
     {
-      "id": 106,
+      "id": 112,
       "title": "Days of the Week I",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4267,7 +4413,7 @@
       }
     },
     {
-      "id": 107,
+      "id": 113,
       "title": "Days of the Week II",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4307,7 +4453,7 @@
       }
     },
     {
-      "id": 108,
+      "id": 114,
       "title": "Days of the Week III",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4361,7 +4507,7 @@
       }
     },
     {
-      "id": 109,
+      "id": 115,
       "title": "Time Words I",
       "section": "Time Words",
       "chapter": "Foundations",
@@ -4401,7 +4547,7 @@
       }
     },
     {
-      "id": 110,
+      "id": 116,
       "title": "Sit & Stand",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4441,7 +4587,7 @@
       }
     },
     {
-      "id": 111,
+      "id": 117,
       "title": "Run & Walk",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4481,7 +4627,7 @@
       }
     },
     {
-      "id": 112,
+      "id": 118,
       "title": "Open & Close",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4521,7 +4667,7 @@
       }
     },
     {
-      "id": 113,
+      "id": 119,
       "title": "Help & Play",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4561,7 +4707,7 @@
       }
     },
     {
-      "id": 114,
+      "id": 120,
       "title": "Cook & Ask",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4603,7 +4749,7 @@
       }
     },
     {
-      "id": 115,
+      "id": 121,
       "title": "Laugh & Sing",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4643,7 +4789,7 @@
       }
     },
     {
-      "id": 116,
+      "id": 122,
       "title": "Bus & Taxi",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4687,7 +4833,7 @@
       }
     },
     {
-      "id": 117,
+      "id": 123,
       "title": "Plane & Bike",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4734,7 +4880,7 @@
       }
     },
     {
-      "id": 118,
+      "id": 124,
       "title": "Boat & Station",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4776,7 +4922,7 @@
       }
     },
     {
-      "id": 119,
+      "id": 125,
       "title": "Hotel & Bank",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -4818,7 +4964,7 @@
       }
     },
     {
-      "id": 120,
+      "id": 126,
       "title": "Hospital & Mosque",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -4862,7 +5008,7 @@
       }
     },
     {
-      "id": 121,
+      "id": 127,
       "title": "Office & Bridge",
       "section": "Places II",
       "chapter": "Daily Life",
