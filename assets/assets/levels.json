@@ -6,12 +6,12 @@
       "chapter": "First Steps",
       "section": "Hello",
       "letters": [
-        "ሻ",
-        "መ",
+        "ሦ",
+        "ቼ",
         "ም",
         "ሰ",
-        "ላ",
-        "ጆ"
+        "ሃ",
+        "ላ"
       ],
       "requiredWords": [
         "ሰላም"
@@ -37,14 +37,14 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
+        "ባ",
+        "ና",
         "ላ",
+        "እ",
         "ት",
         "አ",
-        "ሰ",
         "ም",
-        "እ",
-        "ባ",
-        "ና"
+        "ሰ"
       ],
       "requiredWords": [
         "እናት",
@@ -82,13 +82,13 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
+        "እ",
         "ም",
-        "ሰ",
+        "ን",
         "ድ",
+        "ላ",
         "ወ",
-        "ት",
-        "ና",
-        "ን"
+        "ሰ"
       ],
       "requiredWords": [
         "ወንድም"
@@ -113,14 +113,14 @@
       "chapter": "First Steps",
       "section": "Family",
       "letters": [
-        "ሰ",
-        "ን",
-        "እ",
-        "ት",
-        "ላ",
-        "ል",
+        "ባ",
         "ጅ",
-        "ህ"
+        "ህ",
+        "ል",
+        "ት",
+        "ወ",
+        "ሰ",
+        "እ"
       ],
       "requiredWords": [
         "እህት",
@@ -157,14 +157,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ት",
-        "ድ",
-        "ን",
-        "ጅ",
         "አ",
-        "ሁ",
+        "ት",
+        "ም",
         "ለ",
-        "ላ"
+        "ን",
+        "ድ",
+        "ወ",
+        "ሁ"
       ],
       "requiredWords": [
         "አንድ",
@@ -202,14 +202,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ወ",
-        "ስ",
-        "ድ",
-        "ም",
-        "አ",
+        "ሁ",
+        "ት",
         "ሦ",
         "ራ",
-        "ት"
+        "ስ",
+        "አ",
+        "ም",
+        "ን"
       ],
       "requiredWords": [
         "ሦስት",
@@ -246,13 +246,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "አ",
-        "ባ",
-        "ም",
         "ት",
+        "አ",
+        "ድ",
+        "ም",
         "ስ",
-        "ና",
-        "እ"
+        "ጅ",
+        "ባ"
       ],
       "requiredWords": [
         "አምስት"
@@ -277,13 +277,13 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ል",
-        "ሦ",
-        "ባ",
         "ድ",
+        "ባ",
         "ሰ",
-        "ት",
         "ስ",
+        "ና",
+        "ት",
+        "ሁ",
         "ስ"
       ],
       "requiredWords": [
@@ -321,14 +321,14 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ዘ",
-        "ን",
-        "ጠ",
-        "ት",
-        "ኝ",
-        "ጅ",
+        "ላ",
         "ም",
-        "ስ"
+        "ኝ",
+        "ስ",
+        "ት",
+        "ን",
+        "ዘ",
+        "ጠ"
       ],
       "requiredWords": [
         "ስምንት",
@@ -365,12 +365,12 @@
       "chapter": "First Steps",
       "section": "Numbers",
       "letters": [
-        "ት",
-        "ር",
+        "ለ",
         "ስ",
-        "ሦ",
+        "ድ",
         "አ",
-        "ህ"
+        "ር",
+        "ዘ"
       ],
       "requiredWords": [
         "አስር"
@@ -395,14 +395,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
+        "ት",
         "መ",
         "ም",
-        "ዘ",
-        "ሰ",
         "ድ",
+        "ለ",
         "ላ",
-        "ጅ",
-        "ት"
+        "ል",
+        "ሁ"
       ],
       "requiredWords": [
         "ላም",
@@ -440,14 +440,14 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
-        "ው",
-        "ሻ",
-        "ራ",
-        "እ",
         "ፈ",
         "ስ",
-        "ጅ",
-        "ረ"
+        "ው",
+        "ረ",
+        "ሻ",
+        "ጠ",
+        "አ",
+        "እ"
       ],
       "requiredWords": [
         "ውሻ",
@@ -484,11 +484,11 @@
       "chapter": "First Steps",
       "section": "Animals",
       "letters": [
+        "ው",
+        "ኝ",
+        "ባ",
         "ሮ",
-        "ዶ",
-        "ጅ",
-        "ድ",
-        "ሦ"
+        "ዶ"
       ],
       "requiredWords": [
         "ዶሮ"
@@ -513,13 +513,13 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
+        "መ",
+        "ዳ",
+        "ራ",
         "ው",
-        "ቦ",
-        "ጠ",
-        "ሻ",
         "ሃ",
-        "ሮ",
-        "ዳ"
+        "ቦ",
+        "ሁ"
       ],
       "requiredWords": [
         "ውሃ",
@@ -558,13 +558,13 @@
       "section": "Food & buna",
       "letters": [
         "ና",
-        "ወ",
         "ቡ",
+        "ወ",
+        "አ",
+        "ረ",
+        "ዳ",
         "ተ",
-        "ድ",
-        "ት",
-        "ለ",
-        "ጅ"
+        "ት"
       ],
       "requiredWords": [
         "ቡና",
@@ -601,13 +601,13 @@
       "chapter": "First Steps",
       "section": "Food & buna",
       "letters": [
-        "ን",
-        "ሰ",
-        "መ",
         "እ",
+        "ራ",
         "ጀ",
-        "ው",
-        "ራ"
+        "ት",
+        "ህ",
+        "ሦ",
+        "ን"
       ],
       "requiredWords": [
         "እንጀራ"
@@ -632,13 +632,13 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ህ",
-        "ቦ",
-        "ይ",
-        "ጭ",
-        "ዳ",
+        "ቀ",
+        "ሦ",
         "ነ",
-        "ቀ"
+        "ጅ",
+        "ለ",
+        "ይ",
+        "ጭ"
       ],
       "requiredWords": [
         "ቀይ",
@@ -676,13 +676,13 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ስ",
+        "ራ",
+        "ጠ",
         "ጅ",
-        "ቀ",
-        "እ",
-        "ቡ",
-        "ዘ",
-        "ራ"
+        "ስ",
+        "ር",
+        "ም",
+        "እ"
       ],
       "requiredWords": [
         "ራስ",
@@ -719,13 +719,13 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ዘ",
-        "ዓ",
-        "ር",
-        "ግ",
+        "ረ",
         "ን",
-        "ሮ",
+        "ር",
+        "ሦ",
         "እ",
+        "ግ",
+        "ዓ",
         "ይ"
       ],
       "requiredWords": [
@@ -763,11 +763,11 @@
       "chapter": "First Steps",
       "section": "Colors & body",
       "letters": [
-        "ዳ",
+        "ኝ",
+        "ቦ",
         "ሮ",
         "ጆ",
-        "ሃ",
-        "ህ"
+        "ስ"
       ],
       "requiredWords": [
         "ጆሮ"
@@ -789,16 +789,20 @@
     {
       "id": 21,
       "title": "Home",
-      "section": "First Words",
-      "chapter": "Foundations",
+      "chapter": "Everyday Words",
+      "section": "Home",
       "letters": [
+        "በ",
+        "ቤ",
+        "ም",
+        "ር",
         "ት",
         "ለ",
-        "ቤ",
-        "ግ"
+        "ጀ"
       ],
       "requiredWords": [
-        "ቤት"
+        "ቤት",
+        "በር"
       ],
       "wordDetails": {
         "ቤት": {
@@ -811,11 +815,680 @@
           "definitionEn": "a building where people live",
           "exampleEn": "Our house is big.",
           "icon": "🏠"
+        },
+        "በር": {
+          "meaningEn": "door",
+          "meaningAm": "ወደ ቤት መግቢያና መውጫ",
+          "exampleAm": "በሩን ዝጋው።",
+          "transliteration": "ber",
+          "difficulty": 1,
+          "category": "household",
+          "definitionEn": "the entrance and exit of a house",
+          "exampleEn": "Close the door.",
+          "icon": "🚪"
+        }
+      },
+      "goal": "I can name things at home"
+    },
+    {
+      "id": 22,
+      "title": "Home",
+      "chapter": "Everyday Words",
+      "section": "Home",
+      "letters": [
+        "አ",
+        "ጋ",
+        "ል",
+        "ን",
+        "ጆ",
+        "በ",
+        "ር",
+        "ወ"
+      ],
+      "requiredWords": [
+        "ወንበር",
+        "አልጋ"
+      ],
+      "wordDetails": {
+        "ወንበር": {
+          "meaningEn": "chair",
+          "meaningAm": "ለመቀመጥ የሚያገለግል የቤት ዕቃ",
+          "exampleAm": "ወንበሩ ላይ ተቀመጠ።",
+          "transliteration": "wenber",
+          "difficulty": 2,
+          "category": "household",
+          "definitionEn": "a piece of furniture used for sitting",
+          "exampleEn": "He sat on the chair.",
+          "icon": "🪑"
+        },
+        "አልጋ": {
+          "meaningEn": "bed",
+          "meaningAm": "ለመተኛት የሚያገለግል የቤት ዕቃ",
+          "exampleAm": "ልጁ አልጋ ላይ ተኛ።",
+          "transliteration": "alga",
+          "difficulty": 2,
+          "category": "household",
+          "definitionEn": "a piece of furniture used for sleeping",
+          "exampleEn": "The child slept on the bed.",
+          "icon": "🛏️"
         }
       }
     },
     {
-      "id": 22,
+      "id": 23,
+      "title": "Home",
+      "chapter": "Everyday Words",
+      "section": "Home",
+      "letters": [
+        "ጴ",
+        "ነ",
+        "ረ",
+        "ኝ",
+        "ባ",
+        "ዛ",
+        "ጠ"
+      ],
+      "requiredWords": [
+        "ጠረጴዛ"
+      ],
+      "wordDetails": {
+        "ጠረጴዛ": {
+          "meaningEn": "table",
+          "meaningAm": "ዕቃ የሚቀመጥበት ባለ እግር የቤት ዕቃ",
+          "exampleAm": "መጽሐፉ ጠረጴዛው ላይ ነው።",
+          "transliteration": "terepeza",
+          "difficulty": 3,
+          "category": "household",
+          "definitionEn": "a legged piece of furniture for placing things on",
+          "exampleEn": "The book is on the table."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "title": "Yes, no & please",
+      "chapter": "Everyday Words",
+      "section": "Yes, no & please",
+      "letters": [
+        "ጆ",
+        "ም",
+        "የ",
+        "ዎ",
+        "ሃ",
+        "ለ",
+        "ጠ",
+        "አ"
+      ],
+      "requiredWords": [
+        "አዎ",
+        "የለም"
+      ],
+      "wordDetails": {
+        "አዎ": {
+          "meaningEn": "yes",
+          "meaningAm": "ለማረጋገጥ የሚሰጥ መልስ",
+          "exampleAm": "አዎ፣ እስማማለሁ።",
+          "transliteration": "awo",
+          "difficulty": 1,
+          "category": "social",
+          "definitionEn": "an answer given to confirm",
+          "exampleEn": "Yes, I agree."
+        },
+        "የለም": {
+          "meaningEn": "no; none",
+          "meaningAm": "አሉታዊ መልስ፤ አለመኖር",
+          "exampleAm": "ምንም ችግር የለም።",
+          "transliteration": "yelem",
+          "difficulty": 1,
+          "category": "social",
+          "definitionEn": "a negative answer; absence",
+          "exampleEn": "There is no problem."
+        }
+      },
+      "goal": "I can be polite"
+    },
+    {
+      "id": 25,
+      "title": "Yes, no & please",
+      "chapter": "Everyday Words",
+      "section": "Yes, no & please",
+      "letters": [
+        "ክ",
+        "ረ",
+        "ባ",
+        "ሺ",
+        "ሰ",
+        "ቀ",
+        "እ",
+        "ህ"
+      ],
+      "requiredWords": [
+        "እባክህ",
+        "እሺ"
+      ],
+      "wordDetails": {
+        "እባክህ": {
+          "meaningEn": "please",
+          "meaningAm": "ጨዋነት ለመግለጽ የሚነገር ቃል",
+          "exampleAm": "እባክህ በሩን ዝጋ።",
+          "transliteration": "ibakih",
+          "difficulty": 2,
+          "category": "social",
+          "definitionEn": "a word said to express politeness",
+          "exampleEn": "Please close the door."
+        },
+        "እሺ": {
+          "meaningEn": "okay",
+          "meaningAm": "ለመስማማት የሚሰጥ መልስ",
+          "exampleAm": "እሺ፣ ነገ እንገናኝ።",
+          "transliteration": "eshi",
+          "difficulty": 1,
+          "category": "social",
+          "definitionEn": "an answer given to agree",
+          "exampleEn": "Okay, let's meet tomorrow."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "title": "Asking",
+      "chapter": "Everyday Words",
+      "section": "Asking",
+      "letters": [
+        "ጋ",
+        "ዛ",
+        "ም",
+        "ዘ",
+        "ን",
+        "ማ"
+      ],
+      "requiredWords": [
+        "ማን",
+        "ምን"
+      ],
+      "wordDetails": {
+        "ማን": {
+          "meaningEn": "who",
+          "meaningAm": "ስለ ሰው ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "ይህ ሰው ማን ነው?",
+          "transliteration": "man",
+          "difficulty": 1,
+          "category": "questions",
+          "definitionEn": "a word used to ask about a person",
+          "exampleEn": "Who is this person?"
+        },
+        "ምን": {
+          "meaningEn": "what",
+          "meaningAm": "ስለ ነገር ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "ምን ትፈልጋለህ?",
+          "transliteration": "min",
+          "difficulty": 1,
+          "category": "questions",
+          "definitionEn": "a word used to ask about a thing",
+          "exampleEn": "What do you want?"
+        }
+      },
+      "goal": "I can ask questions"
+    },
+    {
+      "id": 27,
+      "title": "Asking",
+      "chapter": "Everyday Words",
+      "section": "Asking",
+      "letters": [
+        "ድ",
+        "ም",
+        "ት",
+        "ቼ",
+        "መ",
+        "ላ",
+        "የ"
+      ],
+      "requiredWords": [
+        "የት",
+        "መቼ"
+      ],
+      "wordDetails": {
+        "የት": {
+          "meaningEn": "where",
+          "meaningAm": "ስለ ቦታ ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "የት ትኖራለህ?",
+          "transliteration": "yet",
+          "difficulty": 1,
+          "category": "questions",
+          "definitionEn": "a word used to ask about a place",
+          "exampleEn": "Where do you live?"
+        },
+        "መቼ": {
+          "meaningEn": "when",
+          "meaningAm": "ስለ ጊዜ ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "መቼ ትመጣለህ?",
+          "transliteration": "meche",
+          "difficulty": 2,
+          "category": "questions",
+          "definitionEn": "a word used to ask about time",
+          "exampleEn": "When are you coming?"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "title": "Asking",
+      "chapter": "Everyday Words",
+      "section": "Asking",
+      "letters": [
+        "ም",
+        "ዴ",
+        "ለ",
+        "እ",
+        "ት",
+        "ን",
+        "ግ",
+        "ጋ"
+      ],
+      "requiredWords": [
+        "ለምን",
+        "እንዴት"
+      ],
+      "wordDetails": {
+        "ለምን": {
+          "meaningEn": "why",
+          "meaningAm": "ስለ ምክንያት ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "ለምን አዘንክ?",
+          "transliteration": "lemin",
+          "difficulty": 2,
+          "category": "questions",
+          "definitionEn": "a word used to ask about a reason",
+          "exampleEn": "Why are you sad?"
+        },
+        "እንዴት": {
+          "meaningEn": "how",
+          "meaningAm": "ስለ ሁኔታ ለመጠየቅ የሚያገለግል ቃል",
+          "exampleAm": "እንዴት ነህ?",
+          "transliteration": "indet",
+          "difficulty": 2,
+          "category": "questions",
+          "definitionEn": "a word used to ask about manner",
+          "exampleEn": "How are you?"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "title": "Where things are",
+      "chapter": "Everyday Words",
+      "section": "Where things are",
+      "letters": [
+        "ይ",
+        "ቡ",
+        "ች",
+        "ሮ",
+        "ላ",
+        "ቦ",
+        "ታ"
+      ],
+      "requiredWords": [
+        "ላይ",
+        "ታች"
+      ],
+      "wordDetails": {
+        "ላይ": {
+          "meaningEn": "up; on",
+          "meaningAm": "ከአንድ ነገር በላይ ያለ አቅጣጫ",
+          "exampleAm": "ዕቃው መደርደሪያው ላይ ነው።",
+          "transliteration": "lay",
+          "difficulty": 1,
+          "category": "directions",
+          "definitionEn": "the direction above something",
+          "exampleEn": "The item is on the shelf.",
+          "icon": "⬆️"
+        },
+        "ታች": {
+          "meaningEn": "down; under",
+          "meaningAm": "ከአንድ ነገር በታች ያለ አቅጣጫ",
+          "exampleAm": "ኳሷ ታች ወደቀች።",
+          "transliteration": "tach",
+          "difficulty": 1,
+          "category": "directions",
+          "definitionEn": "the direction below something",
+          "exampleEn": "The ball fell down.",
+          "icon": "⬇️"
+        }
+      },
+      "goal": "I can say where things are"
+    },
+    {
+      "id": 30,
+      "title": "Where things are",
+      "chapter": "Everyday Words",
+      "section": "Where things are",
+      "letters": [
+        "ሻ",
+        "ጭ",
+        "ስ",
+        "ጥ",
+        "ው",
+        "ራ",
+        "ቀ"
+      ],
+      "requiredWords": [
+        "ውስጥ",
+        "ውጭ"
+      ],
+      "wordDetails": {
+        "ውስጥ": {
+          "meaningEn": "inside",
+          "meaningAm": "በአንድ ነገር ውስጥ ያለ",
+          "exampleAm": "ውሻው ቤት ውስጥ ነው።",
+          "transliteration": "wist",
+          "difficulty": 1,
+          "category": "directions",
+          "definitionEn": "located within something",
+          "exampleEn": "The dog is inside the house."
+        },
+        "ውጭ": {
+          "meaningEn": "outside",
+          "meaningAm": "ከአንድ ነገር ውጭ ያለ",
+          "exampleAm": "ልጆቹ ውጭ ይጫወታሉ።",
+          "transliteration": "wich",
+          "difficulty": 1,
+          "category": "directions",
+          "definitionEn": "located outside something",
+          "exampleEn": "The children play outside."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "title": "Where things are",
+      "chapter": "Everyday Words",
+      "section": "Where things are",
+      "letters": [
+        "ች",
+        "ራ",
+        "ተ",
+        "ው",
+        "ግ",
+        "ቀ",
+        "ኝ"
+      ],
+      "requiredWords": [
+        "ቀኝ",
+        "ግራ"
+      ],
+      "wordDetails": {
+        "ቀኝ": {
+          "meaningEn": "right",
+          "meaningAm": "ከግራ ተቃራኒ የሆነ አቅጣጫ",
+          "exampleAm": "ቀኝ እጁን አወጣ።",
+          "transliteration": "qegn",
+          "difficulty": 2,
+          "category": "directions",
+          "definitionEn": "the direction opposite to left",
+          "exampleEn": "He raised his right hand.",
+          "icon": "➡️"
+        },
+        "ግራ": {
+          "meaningEn": "left",
+          "meaningAm": "ከቀኝ ተቃራኒ የሆነ አቅጣጫ",
+          "exampleAm": "ግራ በኩል ታጠፍ።",
+          "transliteration": "gra",
+          "difficulty": 1,
+          "category": "directions",
+          "definitionEn": "the direction opposite to right",
+          "exampleEn": "Turn to the left.",
+          "icon": "⬅️"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "title": "Sky & nature",
+      "chapter": "Everyday Words",
+      "section": "Sky & nature",
+      "letters": [
+        "ረ",
+        "ሐ",
+        "ላ",
+        "ጴ",
+        "ቃ",
+        "ፀ",
+        "ጨ",
+        "ይ"
+      ],
+      "requiredWords": [
+        "ፀሐይ",
+        "ጨረቃ"
+      ],
+      "wordDetails": {
+        "ፀሐይ": {
+          "meaningEn": "sun",
+          "meaningAm": "ብርሃንና ሙቀት የምትሰጥ የሰማይ አካል",
+          "exampleAm": "ፀሐይ በማለዳ ትወጣለች።",
+          "transliteration": "tsehay",
+          "difficulty": 2,
+          "category": "nature",
+          "definitionEn": "the body in the sky that gives light and heat",
+          "exampleEn": "The sun rises in the morning.",
+          "icon": "☀️"
+        },
+        "ጨረቃ": {
+          "meaningEn": "moon",
+          "meaningAm": "ሌሊት በሰማይ የምትታይ አካል",
+          "exampleAm": "ጨረቃዋ ሞላች።",
+          "transliteration": "chereqa",
+          "difficulty": 2,
+          "category": "nature",
+          "definitionEn": "the body seen in the sky at night",
+          "exampleEn": "The moon is full.",
+          "icon": "🌙"
+        }
+      },
+      "goal": "I can name things in nature"
+    },
+    {
+      "id": 33,
+      "title": "Sky & nature",
+      "chapter": "Everyday Words",
+      "section": "Sky & nature",
+      "letters": [
+        "ሰ",
+        "ከ",
+        "ባ",
+        "ብ",
+        "ቀ",
+        "ይ",
+        "ማ",
+        "ኮ"
+      ],
+      "requiredWords": [
+        "ኮከብ",
+        "ሰማይ"
+      ],
+      "wordDetails": {
+        "ኮከብ": {
+          "meaningEn": "star",
+          "meaningAm": "ሌሊት በሰማይ የሚያበራ አካል",
+          "exampleAm": "ኮከቦች በሌሊት ያበራሉ።",
+          "transliteration": "kokeb",
+          "difficulty": 2,
+          "category": "nature",
+          "definitionEn": "a body that shines in the sky at night",
+          "exampleEn": "The stars shine at night.",
+          "icon": "⭐"
+        },
+        "ሰማይ": {
+          "meaningEn": "sky",
+          "meaningAm": "ከመሬት በላይ ያለው ሰፊ ክፍተት",
+          "exampleAm": "ሰማዩ ጥርት ብሏል።",
+          "transliteration": "semay",
+          "difficulty": 1,
+          "category": "nature",
+          "definitionEn": "the wide expanse above the earth",
+          "exampleEn": "The sky is clear.",
+          "icon": "☁️"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "title": "Sky & nature",
+      "chapter": "Everyday Words",
+      "section": "Sky & nature",
+      "letters": [
+        "ና",
+        "ዝ",
+        "ዴ",
+        "ዛ",
+        "መ",
+        "ፍ",
+        "ግ",
+        "ብ"
+      ],
+      "requiredWords": [
+        "ዛፍ",
+        "ዝናብ"
+      ],
+      "wordDetails": {
+        "ዛፍ": {
+          "meaningEn": "tree",
+          "meaningAm": "ቅርንጫፍና ቅጠል ያለው ትልቅ ተክል",
+          "exampleAm": "ዛፉ ጥላ ይሰጣል።",
+          "transliteration": "zaf",
+          "difficulty": 1,
+          "category": "nature",
+          "definitionEn": "a large plant with branches and leaves",
+          "exampleEn": "The tree gives shade.",
+          "icon": "🌳"
+        },
+        "ዝናብ": {
+          "meaningEn": "rain",
+          "meaningAm": "ከደመና የሚወርድ ውሃ",
+          "exampleAm": "ዛሬ ዝናብ ዘነበ።",
+          "transliteration": "zinab",
+          "difficulty": 2,
+          "category": "weather",
+          "definitionEn": "water that falls from the clouds",
+          "exampleEn": "It rained today.",
+          "icon": "🌧️"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "title": "Time",
+      "chapter": "Everyday Words",
+      "section": "Time",
+      "letters": [
+        "ሬ",
+        "ዛ",
+        "ገ",
+        "ፍ",
+        "ከ",
+        "ሰ",
+        "ነ"
+      ],
+      "requiredWords": [
+        "ዛሬ",
+        "ነገ"
+      ],
+      "wordDetails": {
+        "ዛሬ": {
+          "meaningEn": "today",
+          "meaningAm": "አሁን ያለንበት ቀን",
+          "exampleAm": "ዛሬ ጥሩ ቀን ነው።",
+          "transliteration": "zare",
+          "difficulty": 1,
+          "category": "time",
+          "definitionEn": "the day we are in now",
+          "exampleEn": "Today is a good day."
+        },
+        "ነገ": {
+          "meaningEn": "tomorrow",
+          "meaningAm": "ከዛሬ በኋላ ያለው ቀን",
+          "exampleAm": "ነገ እንገናኛለን።",
+          "transliteration": "nege",
+          "difficulty": 1,
+          "category": "time",
+          "definitionEn": "the day after today",
+          "exampleEn": "We will meet tomorrow."
+        }
+      },
+      "goal": "I can talk about time"
+    },
+    {
+      "id": 36,
+      "title": "Time",
+      "chapter": "Everyday Words",
+      "section": "Time",
+      "letters": [
+        "ቀ",
+        "ና",
+        "ን",
+        "ት",
+        "ገ",
+        "ህ",
+        "ት",
+        "ፍ"
+      ],
+      "requiredWords": [
+        "ትናንት",
+        "ቀን"
+      ],
+      "wordDetails": {
+        "ትናንት": {
+          "meaningEn": "yesterday",
+          "meaningAm": "ካለፈው ቀን፤ ከዛሬ በፊት",
+          "exampleAm": "ትናንት ዝናብ ዘነበ።",
+          "transliteration": "tinant",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the past day, before today",
+          "exampleEn": "It rained yesterday."
+        },
+        "ቀን": {
+          "meaningEn": "day",
+          "meaningAm": "ከንጋት እስከ ምሽት ያለው ጊዜ",
+          "exampleAm": "ዛሬ የተባረከ ቀን ነው።",
+          "transliteration": "qen",
+          "difficulty": 1,
+          "category": "time",
+          "definitionEn": "the time from dawn to evening",
+          "exampleEn": "Today is a blessed day."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "title": "Time",
+      "chapter": "Everyday Words",
+      "section": "Time",
+      "letters": [
+        "ት",
+        "ሊ",
+        "ይ",
+        "ሌ",
+        "ፍ",
+        "ጆ"
+      ],
+      "requiredWords": [
+        "ሌሊት"
+      ],
+      "wordDetails": {
+        "ሌሊት": {
+          "meaningEn": "night",
+          "meaningAm": "ከምሽት እስከ ንጋት ያለው ጨለማ ጊዜ",
+          "exampleAm": "ሌሊት ላይ ኮከቦች ይታያሉ።",
+          "transliteration": "lelit",
+          "difficulty": 2,
+          "category": "time",
+          "definitionEn": "the dark time from evening to dawn",
+          "exampleEn": "Stars appear at night."
+        }
+      }
+    },
+    {
+      "id": 38,
       "title": "Transport",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -844,7 +1517,7 @@
       }
     },
     {
-      "id": 23,
+      "id": 39,
       "title": "Food",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -886,7 +1559,7 @@
       }
     },
     {
-      "id": 24,
+      "id": 40,
       "title": "Love",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -915,7 +1588,7 @@
       }
     },
     {
-      "id": 25,
+      "id": 41,
       "title": "The Book",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -944,7 +1617,7 @@
       }
     },
     {
-      "id": 26,
+      "id": 42,
       "title": "Education",
       "section": "Everyday Life",
       "chapter": "Foundations",
@@ -987,36 +1660,7 @@
       }
     },
     {
-      "id": 27,
-      "title": "The Sun",
-      "section": "Food & Nature",
-      "chapter": "Foundations",
-      "letters": [
-        "ሐ",
-        "ለ",
-        "ፀ",
-        "ይ",
-        "ም"
-      ],
-      "requiredWords": [
-        "ፀሐይ"
-      ],
-      "wordDetails": {
-        "ፀሐይ": {
-          "meaningEn": "sun",
-          "meaningAm": "ብርሃንና ሙቀት የምትሰጥ የሰማይ አካል",
-          "exampleAm": "ፀሐይ በማለዳ ትወጣለች።",
-          "transliteration": "tsehay",
-          "difficulty": 2,
-          "category": "nature",
-          "definitionEn": "the body in the sky that gives light and heat",
-          "exampleEn": "The sun rises in the morning.",
-          "icon": "☀️"
-        }
-      }
-    },
-    {
-      "id": 28,
+      "id": 43,
       "title": "Flower",
       "section": "Food & Nature",
       "chapter": "Foundations",
@@ -1045,7 +1689,7 @@
       }
     },
     {
-      "id": 29,
+      "id": 44,
       "title": "Friend",
       "section": "People & Around",
       "chapter": "Foundations",
@@ -1074,34 +1718,7 @@
       }
     },
     {
-      "id": 30,
-      "title": "Day",
-      "section": "People & Around",
-      "chapter": "Foundations",
-      "letters": [
-        "ን",
-        "ለ",
-        "ቀ",
-        "ት"
-      ],
-      "requiredWords": [
-        "ቀን"
-      ],
-      "wordDetails": {
-        "ቀን": {
-          "meaningEn": "day",
-          "meaningAm": "ከንጋት እስከ ምሽት ያለው ጊዜ",
-          "exampleAm": "ዛሬ የተባረከ ቀን ነው።",
-          "transliteration": "qen",
-          "difficulty": 1,
-          "category": "time",
-          "definitionEn": "the time from dawn to evening",
-          "exampleEn": "Today is a blessed day."
-        }
-      }
-    },
-    {
-      "id": 31,
+      "id": 45,
       "title": "Body I",
       "section": "Body",
       "chapter": "The World",
@@ -1131,7 +1748,7 @@
       }
     },
     {
-      "id": 32,
+      "id": 46,
       "title": "Body II",
       "section": "Body",
       "chapter": "The World",
@@ -1162,7 +1779,7 @@
       }
     },
     {
-      "id": 33,
+      "id": 47,
       "title": "Body III",
       "section": "Body",
       "chapter": "The World",
@@ -1192,7 +1809,7 @@
       }
     },
     {
-      "id": 34,
+      "id": 48,
       "title": "People",
       "section": "Family & People",
       "chapter": "The World",
@@ -1233,7 +1850,7 @@
       }
     },
     {
-      "id": 35,
+      "id": 49,
       "title": "Drinks",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1262,7 +1879,7 @@
       }
     },
     {
-      "id": 36,
+      "id": 50,
       "title": "On the Table",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1305,7 +1922,7 @@
       }
     },
     {
-      "id": 37,
+      "id": 51,
       "title": "Food II",
       "section": "Food & Drink",
       "chapter": "The World",
@@ -1348,7 +1965,7 @@
       }
     },
     {
-      "id": 38,
+      "id": 52,
       "title": "Animals III",
       "section": "Animals",
       "chapter": "The World",
@@ -1390,49 +2007,7 @@
       }
     },
     {
-      "id": 39,
-      "title": "The Sky",
-      "section": "Nature",
-      "chapter": "The World",
-      "letters": [
-        "ሰ",
-        "ማ",
-        "ይ",
-        "ኮ",
-        "ከ",
-        "ብ"
-      ],
-      "requiredWords": [
-        "ሰማይ",
-        "ኮከብ"
-      ],
-      "wordDetails": {
-        "ሰማይ": {
-          "meaningEn": "sky",
-          "meaningAm": "ከመሬት በላይ ያለው ሰፊ ክፍተት",
-          "exampleAm": "ሰማዩ ጥርት ብሏል።",
-          "transliteration": "semay",
-          "difficulty": 1,
-          "category": "nature",
-          "definitionEn": "the wide expanse above the earth",
-          "exampleEn": "The sky is clear.",
-          "icon": "☁️"
-        },
-        "ኮከብ": {
-          "meaningEn": "star",
-          "meaningAm": "ሌሊት በሰማይ የሚያበራ አካል",
-          "exampleAm": "ኮከቦች በሌሊት ያበራሉ።",
-          "transliteration": "kokeb",
-          "difficulty": 2,
-          "category": "nature",
-          "definitionEn": "a body that shines in the sky at night",
-          "exampleEn": "The stars shine at night.",
-          "icon": "⭐"
-        }
-      }
-    },
-    {
-      "id": 40,
+      "id": 53,
       "title": "Nature II",
       "section": "Nature",
       "chapter": "The World",
@@ -1444,21 +2019,9 @@
         "ር"
       ],
       "requiredWords": [
-        "ዛፍ",
         "ባህር"
       ],
       "wordDetails": {
-        "ዛፍ": {
-          "meaningEn": "tree",
-          "meaningAm": "ቅርንጫፍና ቅጠል ያለው ትልቅ ተክል",
-          "exampleAm": "ዛፉ ጥላ ይሰጣል።",
-          "transliteration": "zaf",
-          "difficulty": 1,
-          "category": "nature",
-          "definitionEn": "a large plant with branches and leaves",
-          "exampleEn": "The tree gives shade.",
-          "icon": "🌳"
-        },
         "ባህር": {
           "meaningEn": "sea",
           "meaningAm": "ሰፊ የጨው ውሃ አካል",
@@ -1473,7 +2036,7 @@
       }
     },
     {
-      "id": 41,
+      "id": 54,
       "title": "Weather",
       "section": "Nature",
       "chapter": "The World",
@@ -1486,21 +2049,9 @@
         "ስ"
       ],
       "requiredWords": [
-        "ዝናብ",
         "ነፋስ"
       ],
       "wordDetails": {
-        "ዝናብ": {
-          "meaningEn": "rain",
-          "meaningAm": "ከደመና የሚወርድ ውሃ",
-          "exampleAm": "ዛሬ ዝናብ ዘነበ።",
-          "transliteration": "zinab",
-          "difficulty": 2,
-          "category": "weather",
-          "definitionEn": "water that falls from the clouds",
-          "exampleEn": "It rained today.",
-          "icon": "🌧️"
-        },
         "ነፋስ": {
           "meaningEn": "wind",
           "meaningAm": "የሚንቀሳቀስ አየር",
@@ -1515,7 +2066,7 @@
       }
     },
     {
-      "id": 42,
+      "id": 55,
       "title": "Colors",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1546,7 +2097,7 @@
       }
     },
     {
-      "id": 43,
+      "id": 56,
       "title": "Time II",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1558,20 +2109,9 @@
         "ዓ"
       ],
       "requiredWords": [
-        "ሌሊት",
         "ሰዓት"
       ],
       "wordDetails": {
-        "ሌሊት": {
-          "meaningEn": "night",
-          "meaningAm": "ከምሽት እስከ ንጋት ያለው ጨለማ ጊዜ",
-          "exampleAm": "ሌሊት ላይ ኮከቦች ይታያሉ።",
-          "transliteration": "lelit",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the dark time from evening to dawn",
-          "exampleEn": "Stars appear at night."
-        },
         "ሰዓት": {
           "meaningEn": "hour; time",
           "meaningAm": "ጊዜ የሚለካበት፤ 60 ደቂቃ",
@@ -1585,7 +2125,7 @@
       }
     },
     {
-      "id": 44,
+      "id": 57,
       "title": "Verbs",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1625,7 +2165,7 @@
       }
     },
     {
-      "id": 45,
+      "id": 58,
       "title": "Opposites",
       "section": "Colors & More",
       "chapter": "The World",
@@ -1677,7 +2217,7 @@
       }
     },
     {
-      "id": 46,
+      "id": 59,
       "title": "Market",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1719,7 +2259,7 @@
       }
     },
     {
-      "id": 47,
+      "id": 60,
       "title": "In the City",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1760,7 +2300,7 @@
       }
     },
     {
-      "id": 48,
+      "id": 61,
       "title": "Shops",
       "section": "Around Town",
       "chapter": "Daily Life",
@@ -1801,7 +2341,7 @@
       }
     },
     {
-      "id": 49,
+      "id": 62,
       "title": "Clothes I",
       "section": "Clothing",
       "chapter": "Daily Life",
@@ -1842,7 +2382,7 @@
       }
     },
     {
-      "id": 50,
+      "id": 63,
       "title": "Clothes II",
       "section": "Clothing",
       "chapter": "Daily Life",
@@ -1883,7 +2423,7 @@
       }
     },
     {
-      "id": 51,
+      "id": 64,
       "title": "Jobs I",
       "section": "Jobs",
       "chapter": "Daily Life",
@@ -1924,7 +2464,7 @@
       }
     },
     {
-      "id": 52,
+      "id": 65,
       "title": "Jobs II",
       "section": "Jobs",
       "chapter": "Daily Life",
@@ -1967,122 +2507,7 @@
       }
     },
     {
-      "id": 53,
-      "title": "Asking I",
-      "section": "Questions",
-      "chapter": "Daily Life",
-      "letters": [
-        "ማ",
-        "ን",
-        "ም"
-      ],
-      "requiredWords": [
-        "ማን",
-        "ምን"
-      ],
-      "wordDetails": {
-        "ማን": {
-          "meaningEn": "who",
-          "meaningAm": "ስለ ሰው ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "ይህ ሰው ማን ነው?",
-          "transliteration": "man",
-          "difficulty": 1,
-          "category": "questions",
-          "definitionEn": "a word used to ask about a person",
-          "exampleEn": "Who is this person?"
-        },
-        "ምን": {
-          "meaningEn": "what",
-          "meaningAm": "ስለ ነገር ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "ምን ትፈልጋለህ?",
-          "transliteration": "min",
-          "difficulty": 1,
-          "category": "questions",
-          "definitionEn": "a word used to ask about a thing",
-          "exampleEn": "What do you want?"
-        }
-      }
-    },
-    {
-      "id": 54,
-      "title": "Asking II",
-      "section": "Questions",
-      "chapter": "Daily Life",
-      "letters": [
-        "የ",
-        "ት",
-        "መ",
-        "ቼ"
-      ],
-      "requiredWords": [
-        "የት",
-        "መቼ"
-      ],
-      "wordDetails": {
-        "የት": {
-          "meaningEn": "where",
-          "meaningAm": "ስለ ቦታ ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "የት ትኖራለህ?",
-          "transliteration": "yet",
-          "difficulty": 1,
-          "category": "questions",
-          "definitionEn": "a word used to ask about a place",
-          "exampleEn": "Where do you live?"
-        },
-        "መቼ": {
-          "meaningEn": "when",
-          "meaningAm": "ስለ ጊዜ ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "መቼ ትመጣለህ?",
-          "transliteration": "meche",
-          "difficulty": 2,
-          "category": "questions",
-          "definitionEn": "a word used to ask about time",
-          "exampleEn": "When are you coming?"
-        }
-      }
-    },
-    {
-      "id": 55,
-      "title": "Asking III",
-      "section": "Questions",
-      "chapter": "Daily Life",
-      "letters": [
-        "ለ",
-        "ም",
-        "ን",
-        "እ",
-        "ዴ",
-        "ት"
-      ],
-      "requiredWords": [
-        "ለምን",
-        "እንዴት"
-      ],
-      "wordDetails": {
-        "ለምን": {
-          "meaningEn": "why",
-          "meaningAm": "ስለ ምክንያት ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "ለምን አዘንክ?",
-          "transliteration": "lemin",
-          "difficulty": 2,
-          "category": "questions",
-          "definitionEn": "a word used to ask about a reason",
-          "exampleEn": "Why are you sad?"
-        },
-        "እንዴት": {
-          "meaningEn": "how",
-          "meaningAm": "ስለ ሁኔታ ለመጠየቅ የሚያገለግል ቃል",
-          "exampleAm": "እንዴት ነህ?",
-          "transliteration": "indet",
-          "difficulty": 2,
-          "category": "questions",
-          "definitionEn": "a word used to ask about manner",
-          "exampleEn": "How are you?"
-        }
-      }
-    },
-    {
-      "id": 56,
+      "id": 66,
       "title": "Going",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -2122,7 +2547,7 @@
       }
     },
     {
-      "id": 57,
+      "id": 67,
       "title": "Reading & Writing",
       "section": "Action Verbs",
       "chapter": "Daily Life",
@@ -2163,7 +2588,7 @@
       }
     },
     {
-      "id": 58,
+      "id": 68,
       "title": "Tall & Short",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2203,7 +2628,7 @@
       }
     },
     {
-      "id": 59,
+      "id": 69,
       "title": "Hot & Cold",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2243,7 +2668,7 @@
       }
     },
     {
-      "id": 60,
+      "id": 70,
       "title": "Fast & Slow",
       "section": "Describing",
       "chapter": "Daily Life",
@@ -2284,91 +2709,7 @@
       }
     },
     {
-      "id": 61,
-      "title": "Furniture",
-      "section": "Household",
-      "chapter": "Around You",
-      "letters": [
-        "ጠ",
-        "ረ",
-        "ጴ",
-        "ዛ",
-        "በ",
-        "ር"
-      ],
-      "requiredWords": [
-        "ጠረጴዛ",
-        "በር"
-      ],
-      "wordDetails": {
-        "ጠረጴዛ": {
-          "meaningEn": "table",
-          "meaningAm": "ዕቃ የሚቀመጥበት ባለ እግር የቤት ዕቃ",
-          "exampleAm": "መጽሐፉ ጠረጴዛው ላይ ነው።",
-          "transliteration": "terepeza",
-          "difficulty": 3,
-          "category": "household",
-          "definitionEn": "a legged piece of furniture for placing things on",
-          "exampleEn": "The book is on the table."
-        },
-        "በር": {
-          "meaningEn": "door",
-          "meaningAm": "ወደ ቤት መግቢያና መውጫ",
-          "exampleAm": "በሩን ዝጋው።",
-          "transliteration": "ber",
-          "difficulty": 1,
-          "category": "household",
-          "definitionEn": "the entrance and exit of a house",
-          "exampleEn": "Close the door.",
-          "icon": "🚪"
-        }
-      }
-    },
-    {
-      "id": 62,
-      "title": "More Furniture",
-      "section": "Household",
-      "chapter": "Around You",
-      "letters": [
-        "ወ",
-        "ን",
-        "በ",
-        "ር",
-        "አ",
-        "ል",
-        "ጋ"
-      ],
-      "requiredWords": [
-        "ወንበር",
-        "አልጋ"
-      ],
-      "wordDetails": {
-        "ወንበር": {
-          "meaningEn": "chair",
-          "meaningAm": "ለመቀመጥ የሚያገለግል የቤት ዕቃ",
-          "exampleAm": "ወንበሩ ላይ ተቀመጠ።",
-          "transliteration": "wenber",
-          "difficulty": 2,
-          "category": "household",
-          "definitionEn": "a piece of furniture used for sitting",
-          "exampleEn": "He sat on the chair.",
-          "icon": "🪑"
-        },
-        "አልጋ": {
-          "meaningEn": "bed",
-          "meaningAm": "ለመተኛት የሚያገለግል የቤት ዕቃ",
-          "exampleAm": "ልጁ አልጋ ላይ ተኛ።",
-          "transliteration": "alga",
-          "difficulty": 2,
-          "category": "household",
-          "definitionEn": "a piece of furniture used for sleeping",
-          "exampleEn": "The child slept on the bed.",
-          "icon": "🛏️"
-        }
-      }
-    },
-    {
-      "id": 63,
+      "id": 71,
       "title": "Feelings I",
       "section": "Feelings",
       "chapter": "Around You",
@@ -2410,7 +2751,7 @@
       }
     },
     {
-      "id": 64,
+      "id": 72,
       "title": "Feelings II",
       "section": "Feelings",
       "chapter": "Around You",
@@ -2452,7 +2793,7 @@
       }
     },
     {
-      "id": 65,
+      "id": 73,
       "title": "Seeing & Hearing",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -2491,7 +2832,7 @@
       }
     },
     {
-      "id": 66,
+      "id": 74,
       "title": "Speaking & Loving",
       "section": "Senses & Actions",
       "chapter": "Around You",
@@ -2532,7 +2873,7 @@
       }
     },
     {
-      "id": 67,
+      "id": 75,
       "title": "At the Table",
       "section": "More Food",
       "chapter": "Around You",
@@ -2573,7 +2914,7 @@
       }
     },
     {
-      "id": 68,
+      "id": 76,
       "title": "More Food",
       "section": "More Food",
       "chapter": "Around You",
@@ -2613,125 +2954,7 @@
       }
     },
     {
-      "id": 69,
-      "title": "Up & Down",
-      "section": "Directions",
-      "chapter": "Around You",
-      "letters": [
-        "ላ",
-        "ይ",
-        "ታ",
-        "ች"
-      ],
-      "requiredWords": [
-        "ላይ",
-        "ታች"
-      ],
-      "wordDetails": {
-        "ላይ": {
-          "meaningEn": "up; on",
-          "meaningAm": "ከአንድ ነገር በላይ ያለ አቅጣጫ",
-          "exampleAm": "ዕቃው መደርደሪያው ላይ ነው።",
-          "transliteration": "lay",
-          "difficulty": 1,
-          "category": "directions",
-          "definitionEn": "the direction above something",
-          "exampleEn": "The item is on the shelf.",
-          "icon": "⬆️"
-        },
-        "ታች": {
-          "meaningEn": "down; under",
-          "meaningAm": "ከአንድ ነገር በታች ያለ አቅጣጫ",
-          "exampleAm": "ኳሷ ታች ወደቀች።",
-          "transliteration": "tach",
-          "difficulty": 1,
-          "category": "directions",
-          "definitionEn": "the direction below something",
-          "exampleEn": "The ball fell down.",
-          "icon": "⬇️"
-        }
-      }
-    },
-    {
-      "id": 70,
-      "title": "In & Out",
-      "section": "Directions",
-      "chapter": "Around You",
-      "letters": [
-        "ው",
-        "ስ",
-        "ጥ",
-        "ጭ"
-      ],
-      "requiredWords": [
-        "ውስጥ",
-        "ውጭ"
-      ],
-      "wordDetails": {
-        "ውስጥ": {
-          "meaningEn": "inside",
-          "meaningAm": "በአንድ ነገር ውስጥ ያለ",
-          "exampleAm": "ውሻው ቤት ውስጥ ነው።",
-          "transliteration": "wist",
-          "difficulty": 1,
-          "category": "directions",
-          "definitionEn": "located within something",
-          "exampleEn": "The dog is inside the house."
-        },
-        "ውጭ": {
-          "meaningEn": "outside",
-          "meaningAm": "ከአንድ ነገር ውጭ ያለ",
-          "exampleAm": "ልጆቹ ውጭ ይጫወታሉ።",
-          "transliteration": "wich",
-          "difficulty": 1,
-          "category": "directions",
-          "definitionEn": "located outside something",
-          "exampleEn": "The children play outside."
-        }
-      }
-    },
-    {
-      "id": 71,
-      "title": "Right & Left",
-      "section": "Directions",
-      "chapter": "Around You",
-      "letters": [
-        "ቀ",
-        "ኝ",
-        "ግ",
-        "ራ"
-      ],
-      "requiredWords": [
-        "ቀኝ",
-        "ግራ"
-      ],
-      "wordDetails": {
-        "ቀኝ": {
-          "meaningEn": "right",
-          "meaningAm": "ከግራ ተቃራኒ የሆነ አቅጣጫ",
-          "exampleAm": "ቀኝ እጁን አወጣ።",
-          "transliteration": "qegn",
-          "difficulty": 2,
-          "category": "directions",
-          "definitionEn": "the direction opposite to left",
-          "exampleEn": "He raised his right hand.",
-          "icon": "➡️"
-        },
-        "ግራ": {
-          "meaningEn": "left",
-          "meaningAm": "ከቀኝ ተቃራኒ የሆነ አቅጣጫ",
-          "exampleAm": "ግራ በኩል ታጠፍ።",
-          "transliteration": "gra",
-          "difficulty": 1,
-          "category": "directions",
-          "definitionEn": "the direction opposite to right",
-          "exampleEn": "Turn to the left.",
-          "icon": "⬅️"
-        }
-      }
-    },
-    {
-      "id": 72,
+      "id": 77,
       "title": "Rivers & Forests",
       "section": "More Nature",
       "chapter": "Around You",
@@ -2771,7 +2994,7 @@
       }
     },
     {
-      "id": 73,
+      "id": 78,
       "title": "Mountains & Snow",
       "section": "More Nature",
       "chapter": "Around You",
@@ -2813,85 +3036,7 @@
       }
     },
     {
-      "id": 74,
-      "title": "Yes & No",
-      "section": "Polite Words",
-      "chapter": "Foundations",
-      "letters": [
-        "አ",
-        "ዎ",
-        "የ",
-        "ለ",
-        "ም"
-      ],
-      "requiredWords": [
-        "አዎ",
-        "የለም"
-      ],
-      "wordDetails": {
-        "አዎ": {
-          "meaningEn": "yes",
-          "meaningAm": "ለማረጋገጥ የሚሰጥ መልስ",
-          "exampleAm": "አዎ፣ እስማማለሁ።",
-          "transliteration": "awo",
-          "difficulty": 1,
-          "category": "social",
-          "definitionEn": "an answer given to confirm",
-          "exampleEn": "Yes, I agree."
-        },
-        "የለም": {
-          "meaningEn": "no; none",
-          "meaningAm": "አሉታዊ መልስ፤ አለመኖር",
-          "exampleAm": "ምንም ችግር የለም።",
-          "transliteration": "yelem",
-          "difficulty": 1,
-          "category": "social",
-          "definitionEn": "a negative answer; absence",
-          "exampleEn": "There is no problem."
-        }
-      }
-    },
-    {
-      "id": 75,
-      "title": "Please & OK",
-      "section": "Polite Words",
-      "chapter": "Foundations",
-      "letters": [
-        "እ",
-        "ባ",
-        "ክ",
-        "ህ",
-        "ሺ"
-      ],
-      "requiredWords": [
-        "እባክህ",
-        "እሺ"
-      ],
-      "wordDetails": {
-        "እባክህ": {
-          "meaningEn": "please",
-          "meaningAm": "ጨዋነት ለመግለጽ የሚነገር ቃል",
-          "exampleAm": "እባክህ በሩን ዝጋ።",
-          "transliteration": "ibakih",
-          "difficulty": 2,
-          "category": "social",
-          "definitionEn": "a word said to express politeness",
-          "exampleEn": "Please close the door."
-        },
-        "እሺ": {
-          "meaningEn": "okay",
-          "meaningAm": "ለመስማማት የሚሰጥ መልስ",
-          "exampleAm": "እሺ፣ ነገ እንገናኝ።",
-          "transliteration": "eshi",
-          "difficulty": 1,
-          "category": "social",
-          "definitionEn": "an answer given to agree",
-          "exampleEn": "Okay, let's meet tomorrow."
-        }
-      }
-    },
-    {
-      "id": 76,
+      "id": 79,
       "title": "Face & Hair",
       "section": "More Body",
       "chapter": "The World",
@@ -2932,7 +3077,7 @@
       }
     },
     {
-      "id": 77,
+      "id": 80,
       "title": "Finger & Belly",
       "section": "More Body",
       "chapter": "The World",
@@ -2971,7 +3116,7 @@
       }
     },
     {
-      "id": 78,
+      "id": 81,
       "title": "Farm Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -3012,7 +3157,7 @@
       }
     },
     {
-      "id": 79,
+      "id": 82,
       "title": "Wild Animals",
       "section": "More Animals",
       "chapter": "The World",
@@ -3053,7 +3198,7 @@
       }
     },
     {
-      "id": 80,
+      "id": 83,
       "title": "In the Sky",
       "section": "In the Sky",
       "chapter": "The World",
@@ -3066,8 +3211,7 @@
         "ቃ"
       ],
       "requiredWords": [
-        "ደመና",
-        "ጨረቃ"
+        "ደመና"
       ],
       "wordDetails": {
         "ደመና": {
@@ -3080,22 +3224,11 @@
           "definitionEn": "water vapor seen in the sky",
           "exampleEn": "The cloud brought rain.",
           "icon": "☁️"
-        },
-        "ጨረቃ": {
-          "meaningEn": "moon",
-          "meaningAm": "ሌሊት በሰማይ የምትታይ አካል",
-          "exampleAm": "ጨረቃዋ ሞላች።",
-          "transliteration": "chereqa",
-          "difficulty": 2,
-          "category": "nature",
-          "definitionEn": "the body seen in the sky at night",
-          "exampleEn": "The moon is full.",
-          "icon": "🌙"
         }
       }
     },
     {
-      "id": 81,
+      "id": 84,
       "title": "Weather II",
       "section": "In the Sky",
       "chapter": "The World",
@@ -3137,7 +3270,7 @@
       }
     },
     {
-      "id": 82,
+      "id": 85,
       "title": "Money & Phone",
       "section": "Things",
       "chapter": "Around You",
@@ -3178,7 +3311,7 @@
       }
     },
     {
-      "id": 83,
+      "id": 86,
       "title": "Ball & Key",
       "section": "Things",
       "chapter": "Around You",
@@ -3219,7 +3352,7 @@
       }
     },
     {
-      "id": 84,
+      "id": 87,
       "title": "Morning Routine",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3260,7 +3393,7 @@
       }
     },
     {
-      "id": 85,
+      "id": 88,
       "title": "In & Out",
       "section": "Daily Routine",
       "chapter": "Daily Life",
@@ -3300,7 +3433,7 @@
       }
     },
     {
-      "id": 86,
+      "id": 89,
       "title": "Greens & Yellows",
       "section": "Colors II",
       "chapter": "The World",
@@ -3343,7 +3476,7 @@
       }
     },
     {
-      "id": 87,
+      "id": 90,
       "title": "Blues & Browns",
       "section": "Colors II",
       "chapter": "The World",
@@ -3385,7 +3518,7 @@
       }
     },
     {
-      "id": 88,
+      "id": 91,
       "title": "Give & Take",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3426,7 +3559,7 @@
       }
     },
     {
-      "id": 89,
+      "id": 92,
       "title": "Buy & Sell",
       "section": "More Verbs",
       "chapter": "Daily Life",
@@ -3466,7 +3599,7 @@
       }
     },
     {
-      "id": 90,
+      "id": 93,
       "title": "Spices",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3506,7 +3639,7 @@
       }
     },
     {
-      "id": 91,
+      "id": 94,
       "title": "Cooking",
       "section": "In the Kitchen",
       "chapter": "The World",
@@ -3548,7 +3681,7 @@
       }
     },
     {
-      "id": 92,
+      "id": 95,
       "title": "Relatives I",
       "section": "Relatives",
       "chapter": "The World",
@@ -3588,7 +3721,7 @@
       }
     },
     {
-      "id": 93,
+      "id": 96,
       "title": "Relatives II",
       "section": "Relatives",
       "chapter": "The World",
@@ -3629,7 +3762,7 @@
       }
     },
     {
-      "id": 94,
+      "id": 97,
       "title": "At the Clinic",
       "section": "Health",
       "chapter": "Around You",
@@ -3671,7 +3804,7 @@
       }
     },
     {
-      "id": 95,
+      "id": 98,
       "title": "Body & Health",
       "section": "Health",
       "chapter": "Around You",
@@ -3710,7 +3843,7 @@
       }
     },
     {
-      "id": 96,
+      "id": 99,
       "title": "Writing",
       "section": "School",
       "chapter": "Daily Life",
@@ -3753,7 +3886,7 @@
       }
     },
     {
-      "id": 97,
+      "id": 100,
       "title": "At School",
       "section": "School",
       "chapter": "Daily Life",
@@ -3796,45 +3929,7 @@
       }
     },
     {
-      "id": 98,
-      "title": "Today & Tomorrow",
-      "section": "Time",
-      "chapter": "Foundations",
-      "letters": [
-        "ዛ",
-        "ሬ",
-        "ነ",
-        "ገ"
-      ],
-      "requiredWords": [
-        "ዛሬ",
-        "ነገ"
-      ],
-      "wordDetails": {
-        "ዛሬ": {
-          "meaningEn": "today",
-          "meaningAm": "አሁን ያለንበት ቀን",
-          "exampleAm": "ዛሬ ጥሩ ቀን ነው።",
-          "transliteration": "zare",
-          "difficulty": 1,
-          "category": "time",
-          "definitionEn": "the day we are in now",
-          "exampleEn": "Today is a good day."
-        },
-        "ነገ": {
-          "meaningEn": "tomorrow",
-          "meaningAm": "ከዛሬ በኋላ ያለው ቀን",
-          "exampleAm": "ነገ እንገናኛለን።",
-          "transliteration": "nege",
-          "difficulty": 1,
-          "category": "time",
-          "definitionEn": "the day after today",
-          "exampleEn": "We will meet tomorrow."
-        }
-      }
-    },
-    {
-      "id": 99,
+      "id": 101,
       "title": "Week & Year",
       "section": "Time",
       "chapter": "Foundations",
@@ -3874,7 +3969,7 @@
       }
     },
     {
-      "id": 100,
+      "id": 102,
       "title": "Clean & Dirty",
       "section": "More Describing",
       "chapter": "Daily Life",
@@ -3914,7 +4009,7 @@
       }
     },
     {
-      "id": 101,
+      "id": 103,
       "title": "Easy & Hard",
       "section": "More Describing",
       "chapter": "Daily Life",
@@ -3954,7 +4049,7 @@
       }
     },
     {
-      "id": 102,
+      "id": 104,
       "title": "Tired & Hungry",
       "section": "Body Feelings",
       "chapter": "Around You",
@@ -3994,7 +4089,7 @@
       }
     },
     {
-      "id": 103,
+      "id": 105,
       "title": "Thirst & Sleep",
       "section": "Body Feelings",
       "chapter": "Around You",
@@ -4036,7 +4131,7 @@
       }
     },
     {
-      "id": 104,
+      "id": 106,
       "title": "Dairy",
       "section": "On the Plate",
       "chapter": "The World",
@@ -4078,7 +4173,7 @@
       }
     },
     {
-      "id": 105,
+      "id": 107,
       "title": "Stew & Soup",
       "section": "On the Plate",
       "chapter": "The World",
@@ -4119,7 +4214,7 @@
       }
     },
     {
-      "id": 106,
+      "id": 108,
       "title": "Grass & Leaf",
       "section": "Plants",
       "chapter": "The World",
@@ -4160,7 +4255,7 @@
       }
     },
     {
-      "id": 107,
+      "id": 109,
       "title": "Seed & Root",
       "section": "Plants",
       "chapter": "The World",
@@ -4198,7 +4293,7 @@
       }
     },
     {
-      "id": 108,
+      "id": 110,
       "title": "Floor & Wall",
       "section": "The House",
       "chapter": "Around You",
@@ -4240,7 +4335,7 @@
       }
     },
     {
-      "id": 109,
+      "id": 111,
       "title": "Roof & Fence",
       "section": "The House",
       "chapter": "Around You",
@@ -4280,7 +4375,7 @@
       }
     },
     {
-      "id": 110,
+      "id": 112,
       "title": "Everyday Verbs I",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4321,7 +4416,7 @@
       }
     },
     {
-      "id": 111,
+      "id": 113,
       "title": "Everyday Verbs II",
       "section": "Everyday Verbs",
       "chapter": "Daily Life",
@@ -4375,7 +4470,7 @@
       }
     },
     {
-      "id": 112,
+      "id": 114,
       "title": "Days of the Week I",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4413,7 +4508,7 @@
       }
     },
     {
-      "id": 113,
+      "id": 115,
       "title": "Days of the Week II",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4453,7 +4548,7 @@
       }
     },
     {
-      "id": 114,
+      "id": 116,
       "title": "Days of the Week III",
       "section": "Days of the Week",
       "chapter": "Foundations",
@@ -4507,7 +4602,7 @@
       }
     },
     {
-      "id": 115,
+      "id": 117,
       "title": "Time Words I",
       "section": "Time Words",
       "chapter": "Foundations",
@@ -4520,20 +4615,9 @@
         "ር"
       ],
       "requiredWords": [
-        "ትናንት",
         "ወር"
       ],
       "wordDetails": {
-        "ትናንት": {
-          "meaningEn": "yesterday",
-          "meaningAm": "ካለፈው ቀን፤ ከዛሬ በፊት",
-          "exampleAm": "ትናንት ዝናብ ዘነበ።",
-          "transliteration": "tinant",
-          "difficulty": 2,
-          "category": "time",
-          "definitionEn": "the past day, before today",
-          "exampleEn": "It rained yesterday."
-        },
         "ወር": {
           "meaningEn": "month",
           "meaningAm": "ሰላሳ ቀናት ገደማ ያለው ጊዜ",
@@ -4547,7 +4631,7 @@
       }
     },
     {
-      "id": 116,
+      "id": 118,
       "title": "Sit & Stand",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4587,7 +4671,7 @@
       }
     },
     {
-      "id": 117,
+      "id": 119,
       "title": "Run & Walk",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4627,7 +4711,7 @@
       }
     },
     {
-      "id": 118,
+      "id": 120,
       "title": "Open & Close",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4667,7 +4751,7 @@
       }
     },
     {
-      "id": 119,
+      "id": 121,
       "title": "Help & Play",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4707,7 +4791,7 @@
       }
     },
     {
-      "id": 120,
+      "id": 122,
       "title": "Cook & Ask",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4749,7 +4833,7 @@
       }
     },
     {
-      "id": 121,
+      "id": 123,
       "title": "Laugh & Sing",
       "section": "Everyday Verbs III",
       "chapter": "Daily Life",
@@ -4789,7 +4873,7 @@
       }
     },
     {
-      "id": 122,
+      "id": 124,
       "title": "Bus & Taxi",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4833,7 +4917,7 @@
       }
     },
     {
-      "id": 123,
+      "id": 125,
       "title": "Plane & Bike",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4880,7 +4964,7 @@
       }
     },
     {
-      "id": 124,
+      "id": 126,
       "title": "Boat & Station",
       "section": "Transport",
       "chapter": "Daily Life",
@@ -4922,7 +5006,7 @@
       }
     },
     {
-      "id": 125,
+      "id": 127,
       "title": "Hotel & Bank",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -4964,7 +5048,7 @@
       }
     },
     {
-      "id": 126,
+      "id": 128,
       "title": "Hospital & Mosque",
       "section": "Places II",
       "chapter": "Daily Life",
@@ -5008,7 +5092,7 @@
       }
     },
     {
-      "id": 127,
+      "id": 129,
       "title": "Office & Bridge",
       "section": "Places II",
       "chapter": "Daily Life",
