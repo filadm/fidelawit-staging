@@ -27,7 +27,8 @@
           "difficulty": 1,
           "category": "greetings",
           "definitionEn": "a greeting; a state of calm and tranquility",
-          "exampleEn": "Hello, how are you?"
+          "exampleEn": "Hello, how are you?",
+          "icon": "👋"
         },
         "ላም": {
           "meaningEn": "cow",
@@ -37,7 +38,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a domestic animal that gives milk",
-          "exampleEn": "The cow eats grass."
+          "exampleEn": "The cow eats grass.",
+          "icon": "🐄"
         }
       }
     },
@@ -64,7 +66,8 @@
           "difficulty": 1,
           "category": "nature",
           "definitionEn": "a clear liquid used for drinking and washing",
-          "exampleEn": "Please give me a glass of water."
+          "exampleEn": "Please give me a glass of water.",
+          "icon": "💧"
         }
       }
     },
@@ -91,7 +94,8 @@
           "difficulty": 1,
           "category": "home",
           "definitionEn": "a building where people live",
-          "exampleEn": "Our house is big."
+          "exampleEn": "Our house is big.",
+          "icon": "🏠"
         }
       }
     },
@@ -121,7 +125,8 @@
           "difficulty": 1,
           "category": "family",
           "definitionEn": "a woman who has given birth to a child; the mother of a family",
-          "exampleEn": "My mother cooks delicious food."
+          "exampleEn": "My mother cooks delicious food.",
+          "icon": "👩"
         },
         "አባት": {
           "meaningEn": "father",
@@ -131,7 +136,8 @@
           "difficulty": 1,
           "category": "family",
           "definitionEn": "a man who has fathered a child; the father of a family",
-          "exampleEn": "My father goes to work early in the morning."
+          "exampleEn": "My father goes to work early in the morning.",
+          "icon": "👨"
         }
       }
     },
@@ -159,7 +165,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a motor-driven vehicle for transport",
-          "exampleEn": "My father bought a new car."
+          "exampleEn": "My father bought a new car.",
+          "icon": "🚗"
         }
       }
     },
@@ -190,7 +197,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "something prepared to eat that nourishes the body",
-          "exampleEn": "This food is very delicious."
+          "exampleEn": "This food is very delicious.",
+          "icon": "🍽️"
         },
         "ግብ": {
           "meaningEn": "goal; target",
@@ -228,7 +236,8 @@
           "difficulty": 2,
           "category": "emotion",
           "definitionEn": "a deep feeling of affection for a person or thing",
-          "exampleEn": "A mother's love has no limit."
+          "exampleEn": "A mother's love has no limit.",
+          "icon": "❤️"
         }
       }
     },
@@ -256,7 +265,8 @@
           "difficulty": 3,
           "category": "education",
           "definitionEn": "a collection of writing meant for reading",
-          "exampleEn": "I have read this book."
+          "exampleEn": "I have read this book.",
+          "icon": "📖"
         }
       }
     },
@@ -288,7 +298,8 @@
           "difficulty": 3,
           "category": "education",
           "definitionEn": "the process of gaining knowledge and skills",
-          "exampleEn": "Education is the light of life."
+          "exampleEn": "Education is the light of life.",
+          "icon": "📚"
         },
         "ስም": {
           "meaningEn": "name",
@@ -325,7 +336,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a beloved warm Ethiopian drink",
-          "exampleEn": "Drinking coffee is our tradition."
+          "exampleEn": "Drinking coffee is our tradition.",
+          "icon": "☕"
         }
       }
     },
@@ -353,7 +365,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "a traditional Ethiopian food made from teff",
-          "exampleEn": "Injera is eaten with stew."
+          "exampleEn": "Injera is eaten with stew.",
+          "icon": "🫓"
         }
       }
     },
@@ -381,7 +394,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "the body in the sky that gives light and heat",
-          "exampleEn": "The sun rises in the morning."
+          "exampleEn": "The sun rises in the morning.",
+          "icon": "☀️"
         }
       }
     },
@@ -409,7 +423,8 @@
           "difficulty": 1,
           "category": "nature",
           "definitionEn": "the colorful, fragrant part of a plant",
-          "exampleEn": "The flower has a pleasant smell."
+          "exampleEn": "The flower has a pleasant smell.",
+          "icon": "🌼"
         }
       }
     },
@@ -437,7 +452,8 @@
           "difficulty": 2,
           "category": "people",
           "definitionEn": "a person one spends time with and is fond of",
-          "exampleEn": "My friend is very kind."
+          "exampleEn": "My friend is very kind.",
+          "icon": "🧑‍🤝‍🧑"
         }
       }
     },
@@ -491,7 +507,8 @@
           "difficulty": 1,
           "category": "family",
           "definitionEn": "a young person; a parent's offspring",
-          "exampleEn": "The child plays in the field."
+          "exampleEn": "The child plays in the field.",
+          "icon": "🧒"
         }
       }
     },
@@ -518,7 +535,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a loyal domestic animal",
-          "exampleEn": "The dog guards the house."
+          "exampleEn": "The dog guards the house.",
+          "icon": "🐕"
         }
       }
     },
@@ -548,7 +566,8 @@
           "difficulty": 1,
           "category": "numbers",
           "definitionEn": "the first number; 1",
-          "exampleEn": "I bought one book."
+          "exampleEn": "I bought one book.",
+          "icon": "1️⃣"
         },
         "ሁለት": {
           "meaningEn": "two",
@@ -558,7 +577,8 @@
           "difficulty": 1,
           "category": "numbers",
           "definitionEn": "the number after one; 2",
-          "exampleEn": "We have two eyes."
+          "exampleEn": "We have two eyes.",
+          "icon": "2️⃣"
         }
       }
     },
@@ -587,7 +607,8 @@
           "difficulty": 1,
           "category": "numbers",
           "definitionEn": "the number after two; 3",
-          "exampleEn": "Three children are playing."
+          "exampleEn": "Three children are playing.",
+          "icon": "3️⃣"
         },
         "አራት": {
           "meaningEn": "four",
@@ -597,7 +618,8 @@
           "difficulty": 1,
           "category": "numbers",
           "definitionEn": "the number 4",
-          "exampleEn": "The table has four legs."
+          "exampleEn": "The table has four legs.",
+          "icon": "4️⃣"
         }
       }
     },
@@ -627,7 +649,8 @@
           "difficulty": 2,
           "category": "numbers",
           "definitionEn": "the number 5",
-          "exampleEn": "There are five fingers on one hand."
+          "exampleEn": "There are five fingers on one hand.",
+          "icon": "5️⃣"
         },
         "ስድስት": {
           "meaningEn": "six",
@@ -637,7 +660,8 @@
           "difficulty": 2,
           "category": "numbers",
           "definitionEn": "the number 6",
-          "exampleEn": "It is six o'clock."
+          "exampleEn": "It is six o'clock.",
+          "icon": "6️⃣"
         }
       }
     },
@@ -667,7 +691,8 @@
           "difficulty": 2,
           "category": "numbers",
           "definitionEn": "the number 7",
-          "exampleEn": "A week has seven days."
+          "exampleEn": "A week has seven days.",
+          "icon": "7️⃣"
         },
         "ስምንት": {
           "meaningEn": "eight",
@@ -677,7 +702,8 @@
           "difficulty": 2,
           "category": "numbers",
           "definitionEn": "the number 8",
-          "exampleEn": "Let's meet at eight o'clock."
+          "exampleEn": "Let's meet at eight o'clock.",
+          "icon": "8️⃣"
         }
       }
     },
@@ -707,7 +733,8 @@
           "difficulty": 2,
           "category": "numbers",
           "definitionEn": "the number 9",
-          "exampleEn": "I bought nine oranges."
+          "exampleEn": "I bought nine oranges.",
+          "icon": "9️⃣"
         },
         "አስር": {
           "meaningEn": "ten",
@@ -717,7 +744,8 @@
           "difficulty": 1,
           "category": "numbers",
           "definitionEn": "the number 10",
-          "exampleEn": "We have ten fingers."
+          "exampleEn": "We have ten fingers.",
+          "icon": "🔟"
         }
       }
     },
@@ -748,7 +776,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the upper part of the body, where the brain is",
-          "exampleEn": "My head hurts."
+          "exampleEn": "My head hurts.",
+          "icon": "🧑"
         },
         "እጅ": {
           "meaningEn": "hand",
@@ -758,7 +787,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the body part we use to hold and work",
-          "exampleEn": "I write with my hand."
+          "exampleEn": "I write with my hand.",
+          "icon": "✋"
         },
         "አፍ": {
           "meaningEn": "mouth",
@@ -768,7 +798,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the part of the face used for eating and speaking",
-          "exampleEn": "Open your mouth."
+          "exampleEn": "Open your mouth.",
+          "icon": "👄"
         }
       }
     },
@@ -800,7 +831,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the body part we use to walk",
-          "exampleEn": "I go to school on foot."
+          "exampleEn": "I go to school on foot.",
+          "icon": "🦵"
         },
         "ጆሮ": {
           "meaningEn": "ear",
@@ -810,7 +842,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the body part used for hearing",
-          "exampleEn": "We hear with our ears."
+          "exampleEn": "We hear with our ears.",
+          "icon": "👂"
         },
         "ልብ": {
           "meaningEn": "heart",
@@ -820,7 +853,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the organ that pumps blood; the center of emotion",
-          "exampleEn": "My heart beats fast."
+          "exampleEn": "My heart beats fast.",
+          "icon": "❤️"
         }
       }
     },
@@ -850,7 +884,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the body part used for seeing",
-          "exampleEn": "Her eyes are beautiful."
+          "exampleEn": "Her eyes are beautiful.",
+          "icon": "👁️"
         },
         "ጥርስ": {
           "meaningEn": "tooth",
@@ -860,7 +895,8 @@
           "difficulty": 2,
           "category": "body",
           "definitionEn": "the part in the mouth used to chew food",
-          "exampleEn": "Brush your teeth well."
+          "exampleEn": "Brush your teeth well.",
+          "icon": "🦷"
         }
       }
     },
@@ -891,7 +927,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a male child of the same parents",
-          "exampleEn": "My brother is older than me."
+          "exampleEn": "My brother is older than me.",
+          "icon": "👦"
         },
         "እህት": {
           "meaningEn": "sister",
@@ -901,7 +938,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a female child of the same parents",
-          "exampleEn": "My sister is a student."
+          "exampleEn": "My sister is a student.",
+          "icon": "👧"
         }
       }
     },
@@ -930,7 +968,8 @@
           "difficulty": 1,
           "category": "people",
           "definitionEn": "a person of the female sex",
-          "exampleEn": "That woman is a teacher."
+          "exampleEn": "That woman is a teacher.",
+          "icon": "👩"
         },
         "ወንድ": {
           "meaningEn": "man",
@@ -940,7 +979,8 @@
           "difficulty": 1,
           "category": "people",
           "definitionEn": "a person of the male sex",
-          "exampleEn": "That man is tall."
+          "exampleEn": "That man is tall.",
+          "icon": "👨"
         }
       }
     },
@@ -969,7 +1009,8 @@
           "difficulty": 1,
           "category": "drink",
           "definitionEn": "a white drink that comes from cattle",
-          "exampleEn": "I drink milk in the morning."
+          "exampleEn": "I drink milk in the morning.",
+          "icon": "🥛"
         },
         "ሻይ": {
           "meaningEn": "tea",
@@ -979,7 +1020,8 @@
           "difficulty": 1,
           "category": "drink",
           "definitionEn": "a warm drink brewed from leaves",
-          "exampleEn": "I like tea with sugar."
+          "exampleEn": "I like tea with sugar.",
+          "icon": "🍵"
         }
       }
     },
@@ -1011,7 +1053,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a food baked from flour",
-          "exampleEn": "I ate bread in the morning."
+          "exampleEn": "I ate bread in the morning.",
+          "icon": "🍞"
         },
         "ጨው": {
           "meaningEn": "salt",
@@ -1021,7 +1064,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a white seasoning that flavors food",
-          "exampleEn": "The stew needs salt."
+          "exampleEn": "The stew needs salt.",
+          "icon": "🧂"
         },
         "ስኳር": {
           "meaningEn": "sugar",
@@ -1031,7 +1075,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "what makes food and drink sweet",
-          "exampleEn": "Add sugar to my coffee."
+          "exampleEn": "Add sugar to my coffee.",
+          "icon": "🍬"
         }
       }
     },
@@ -1062,7 +1107,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a food that comes from animals",
-          "exampleEn": "I like meat stew."
+          "exampleEn": "I like meat stew.",
+          "icon": "🥩"
         },
         "እንቁላል": {
           "meaningEn": "egg",
@@ -1072,7 +1118,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "an oval food that comes from a hen",
-          "exampleEn": "I ate an egg in the morning."
+          "exampleEn": "I ate an egg in the morning.",
+          "icon": "🥚"
         }
       }
     },
@@ -1102,7 +1149,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a small animal kept at home",
-          "exampleEn": "The cat drinks milk."
+          "exampleEn": "The cat drinks milk.",
+          "icon": "🐈"
         },
         "ፈረስ": {
           "meaningEn": "horse",
@@ -1112,7 +1160,8 @@
           "difficulty": 2,
           "category": "animals",
           "definitionEn": "a strong animal used for riding",
-          "exampleEn": "The horse runs fast."
+          "exampleEn": "The horse runs fast.",
+          "icon": "🐴"
         }
       }
     },
@@ -1143,7 +1192,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a domestic bird that lays eggs",
-          "exampleEn": "The hen laid an egg."
+          "exampleEn": "The hen laid an egg.",
+          "icon": "🐔"
         },
         "አሳ": {
           "meaningEn": "fish",
@@ -1153,7 +1203,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "an animal that lives in water",
-          "exampleEn": "The fish swims in the river."
+          "exampleEn": "The fish swims in the river.",
+          "icon": "🐟"
         },
         "በግ": {
           "meaningEn": "sheep",
@@ -1163,7 +1214,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a domestic animal with wool",
-          "exampleEn": "The sheep eats grass."
+          "exampleEn": "The sheep eats grass.",
+          "icon": "🐑"
         }
       }
     },
@@ -1193,7 +1245,8 @@
           "difficulty": 1,
           "category": "nature",
           "definitionEn": "the wide expanse above the earth",
-          "exampleEn": "The sky is clear."
+          "exampleEn": "The sky is clear.",
+          "icon": "☁️"
         },
         "ኮከብ": {
           "meaningEn": "star",
@@ -1203,7 +1256,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "a body that shines in the sky at night",
-          "exampleEn": "The stars shine at night."
+          "exampleEn": "The stars shine at night.",
+          "icon": "⭐"
         }
       }
     },
@@ -1232,7 +1286,8 @@
           "difficulty": 1,
           "category": "nature",
           "definitionEn": "a large plant with branches and leaves",
-          "exampleEn": "The tree gives shade."
+          "exampleEn": "The tree gives shade.",
+          "icon": "🌳"
         },
         "ባህር": {
           "meaningEn": "sea",
@@ -1242,7 +1297,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "a large body of salt water",
-          "exampleEn": "The sea is very wide."
+          "exampleEn": "The sea is very wide.",
+          "icon": "🌊"
         }
       }
     },
@@ -1272,7 +1328,8 @@
           "difficulty": 2,
           "category": "weather",
           "definitionEn": "water that falls from the clouds",
-          "exampleEn": "It rained today."
+          "exampleEn": "It rained today.",
+          "icon": "🌧️"
         },
         "ነፋስ": {
           "meaningEn": "wind",
@@ -1282,7 +1339,8 @@
           "difficulty": 2,
           "category": "weather",
           "definitionEn": "moving air",
-          "exampleEn": "The wind sways the trees."
+          "exampleEn": "The wind sways the trees.",
+          "icon": "💨"
         }
       }
     },
@@ -1314,7 +1372,8 @@
           "difficulty": 1,
           "category": "colors",
           "definitionEn": "the color of blood",
-          "exampleEn": "I liked the red flower."
+          "exampleEn": "I liked the red flower.",
+          "icon": "🔴"
         },
         "ነጭ": {
           "meaningEn": "white",
@@ -1324,7 +1383,8 @@
           "difficulty": 1,
           "category": "colors",
           "definitionEn": "the color of milk",
-          "exampleEn": "He wore a white shirt."
+          "exampleEn": "He wore a white shirt.",
+          "icon": "⚪"
         },
         "ጥቁር": {
           "meaningEn": "black",
@@ -1334,7 +1394,8 @@
           "difficulty": 2,
           "category": "colors",
           "definitionEn": "the color of darkness",
-          "exampleEn": "I bought black shoes."
+          "exampleEn": "I bought black shoes.",
+          "icon": "⚫"
         }
       }
     },
@@ -1495,7 +1556,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a place where goods are bought and sold",
-          "exampleEn": "I went to the market and bought vegetables."
+          "exampleEn": "I went to the market and bought vegetables.",
+          "icon": "🛒"
         },
         "መንገድ": {
           "meaningEn": "road; way",
@@ -1505,7 +1567,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a passage for going from place to place",
-          "exampleEn": "The road is long."
+          "exampleEn": "The road is long.",
+          "icon": "🛣️"
         }
       }
     },
@@ -1535,7 +1598,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a large place where many people live",
-          "exampleEn": "Addis Ababa is a big city."
+          "exampleEn": "Addis Ababa is a big city.",
+          "icon": "🏙️"
         },
         "አገር": {
           "meaningEn": "country",
@@ -1574,7 +1638,8 @@
           "difficulty": 1,
           "category": "places",
           "definitionEn": "a small store where goods are sold",
-          "exampleEn": "I bought bread from the shop."
+          "exampleEn": "I bought bread from the shop.",
+          "icon": "🏪"
         },
         "ባቡር": {
           "meaningEn": "train",
@@ -1584,7 +1649,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a long vehicle that travels on rails",
-          "exampleEn": "The train goes fast."
+          "exampleEn": "The train goes fast.",
+          "icon": "🚂"
         }
       }
     },
@@ -1613,7 +1679,8 @@
           "difficulty": 2,
           "category": "clothing",
           "definitionEn": "a garment worn by women",
-          "exampleEn": "Abebech wore a red dress."
+          "exampleEn": "Abebech wore a red dress.",
+          "icon": "👗"
         },
         "ጫማ": {
           "meaningEn": "shoe",
@@ -1623,7 +1690,8 @@
           "difficulty": 1,
           "category": "clothing",
           "definitionEn": "footwear worn on the feet",
-          "exampleEn": "I bought new shoes."
+          "exampleEn": "I bought new shoes.",
+          "icon": "👟"
         }
       }
     },
@@ -1652,7 +1720,8 @@
           "difficulty": 2,
           "category": "clothing",
           "definitionEn": "a garment worn below the waist",
-          "exampleEn": "He wore blue trousers."
+          "exampleEn": "He wore blue trousers.",
+          "icon": "👖"
         },
         "ኮፍያ": {
           "meaningEn": "hat",
@@ -1662,7 +1731,8 @@
           "difficulty": 2,
           "category": "clothing",
           "definitionEn": "a covering worn on the head",
-          "exampleEn": "I wear a hat when it's sunny."
+          "exampleEn": "I wear a hat when it's sunny.",
+          "icon": "🧢"
         }
       }
     },
@@ -1691,7 +1761,8 @@
           "difficulty": 3,
           "category": "jobs",
           "definitionEn": "a person who teaches students",
-          "exampleEn": "The teacher gave a lesson."
+          "exampleEn": "The teacher gave a lesson.",
+          "icon": "👨‍🏫"
         },
         "ተማሪ": {
           "meaningEn": "student",
@@ -1701,7 +1772,8 @@
           "difficulty": 2,
           "category": "jobs",
           "definitionEn": "a person who studies",
-          "exampleEn": "She is a clever student."
+          "exampleEn": "She is a clever student.",
+          "icon": "🧑‍🎓"
         }
       }
     },
@@ -1732,7 +1804,8 @@
           "difficulty": 2,
           "category": "jobs",
           "definitionEn": "a professional who treats the sick",
-          "exampleEn": "The doctor examined the patient."
+          "exampleEn": "The doctor examined the patient.",
+          "icon": "👨‍⚕️"
         },
         "ነጋዴ": {
           "meaningEn": "merchant",
@@ -1742,7 +1815,8 @@
           "difficulty": 2,
           "category": "jobs",
           "definitionEn": "a person who buys and sells goods",
-          "exampleEn": "The merchant sells goods."
+          "exampleEn": "The merchant sells goods.",
+          "icon": "🧑‍💼"
         }
       }
     },
@@ -2099,7 +2173,8 @@
           "difficulty": 1,
           "category": "household",
           "definitionEn": "the entrance and exit of a house",
-          "exampleEn": "Close the door."
+          "exampleEn": "Close the door.",
+          "icon": "🚪"
         }
       }
     },
@@ -2130,7 +2205,8 @@
           "difficulty": 2,
           "category": "household",
           "definitionEn": "a piece of furniture used for sitting",
-          "exampleEn": "He sat on the chair."
+          "exampleEn": "He sat on the chair.",
+          "icon": "🪑"
         },
         "አልጋ": {
           "meaningEn": "bed",
@@ -2140,7 +2216,8 @@
           "difficulty": 2,
           "category": "household",
           "definitionEn": "a piece of furniture used for sleeping",
-          "exampleEn": "The child slept on the bed."
+          "exampleEn": "The child slept on the bed.",
+          "icon": "🛏️"
         }
       }
     },
@@ -2170,7 +2247,8 @@
           "difficulty": 2,
           "category": "feelings",
           "definitionEn": "a feeling of joy",
-          "exampleEn": "Happiness can be read on her face."
+          "exampleEn": "Happiness can be read on her face.",
+          "icon": "😊"
         },
         "ሐዘን": {
           "meaningEn": "sadness",
@@ -2180,7 +2258,8 @@
           "difficulty": 2,
           "category": "feelings",
           "definitionEn": "a feeling of sorrow",
-          "exampleEn": "The news brought sadness."
+          "exampleEn": "The news brought sadness.",
+          "icon": "😢"
         }
       }
     },
@@ -2210,7 +2289,8 @@
           "difficulty": 2,
           "category": "feelings",
           "definitionEn": "a feeling of being afraid",
-          "exampleEn": "Darkness creates fear in me."
+          "exampleEn": "Darkness creates fear in me.",
+          "icon": "😨"
         },
         "ቁጣ": {
           "meaningEn": "anger",
@@ -2220,7 +2300,8 @@
           "difficulty": 2,
           "category": "feelings",
           "definitionEn": "a feeling of being angry",
-          "exampleEn": "He spoke in anger."
+          "exampleEn": "He spoke in anger.",
+          "icon": "😠"
         }
       }
     },
@@ -2329,7 +2410,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a sweet yellow fruit",
-          "exampleEn": "I like to eat bananas."
+          "exampleEn": "I like to eat bananas.",
+          "icon": "🍌"
         },
         "ድንች": {
           "meaningEn": "potato",
@@ -2339,7 +2421,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "a crop that grows underground",
-          "exampleEn": "Fried potatoes are delicious."
+          "exampleEn": "Fried potatoes are delicious.",
+          "icon": "🥔"
         }
       }
     },
@@ -2367,7 +2450,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a grain eaten after being boiled in water",
-          "exampleEn": "We ate rice with stew."
+          "exampleEn": "We ate rice with stew.",
+          "icon": "🍚"
         },
         "ቅቤ": {
           "meaningEn": "butter",
@@ -2377,7 +2461,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "a fat made from milk",
-          "exampleEn": "He spread butter on the bread."
+          "exampleEn": "He spread butter on the bread.",
+          "icon": "🧈"
         }
       }
     },
@@ -2405,7 +2490,8 @@
           "difficulty": 1,
           "category": "directions",
           "definitionEn": "the direction above something",
-          "exampleEn": "The item is on the shelf."
+          "exampleEn": "The item is on the shelf.",
+          "icon": "⬆️"
         },
         "ታች": {
           "meaningEn": "down; under",
@@ -2415,7 +2501,8 @@
           "difficulty": 1,
           "category": "directions",
           "definitionEn": "the direction below something",
-          "exampleEn": "The ball fell down."
+          "exampleEn": "The ball fell down.",
+          "icon": "⬇️"
         }
       }
     },
@@ -2481,7 +2568,8 @@
           "difficulty": 2,
           "category": "directions",
           "definitionEn": "the direction opposite to left",
-          "exampleEn": "He raised his right hand."
+          "exampleEn": "He raised his right hand.",
+          "icon": "➡️"
         },
         "ግራ": {
           "meaningEn": "left",
@@ -2491,7 +2579,8 @@
           "difficulty": 1,
           "category": "directions",
           "definitionEn": "the direction opposite to right",
-          "exampleEn": "Turn to the left."
+          "exampleEn": "Turn to the left.",
+          "icon": "⬅️"
         }
       }
     },
@@ -2519,7 +2608,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "a large flowing channel of water",
-          "exampleEn": "The river flows full."
+          "exampleEn": "The river flows full.",
+          "icon": "🏞️"
         },
         "ደን": {
           "meaningEn": "forest",
@@ -2529,7 +2619,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "a place with many trees",
-          "exampleEn": "There are animals in the forest."
+          "exampleEn": "There are animals in the forest.",
+          "icon": "🌲"
         }
       }
     },
@@ -2559,7 +2650,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "a high landform",
-          "exampleEn": "The mountain is very high."
+          "exampleEn": "The mountain is very high.",
+          "icon": "⛰️"
         },
         "በረዶ": {
           "meaningEn": "snow; ice",
@@ -2569,7 +2661,8 @@
           "difficulty": 2,
           "category": "weather",
           "definitionEn": "frozen white water",
-          "exampleEn": "There is snow on the mountain."
+          "exampleEn": "There is snow on the mountain.",
+          "icon": "❄️"
         }
       }
     },
@@ -2676,7 +2769,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the front part of the head",
-          "exampleEn": "He washed his face."
+          "exampleEn": "He washed his face.",
+          "icon": "🙂"
         },
         "ጸጉር": {
           "meaningEn": "hair",
@@ -2686,7 +2780,8 @@
           "difficulty": 2,
           "category": "body",
           "definitionEn": "what grows on the head",
-          "exampleEn": "Her hair is long."
+          "exampleEn": "Her hair is long.",
+          "icon": "💇"
         }
       }
     },
@@ -2714,7 +2809,8 @@
           "difficulty": 1,
           "category": "body",
           "definitionEn": "the tips of the hand",
-          "exampleEn": "He pointed with his finger."
+          "exampleEn": "He pointed with his finger.",
+          "icon": "👆"
         },
         "ሆድ": {
           "meaningEn": "belly; stomach",
@@ -2753,7 +2849,8 @@
           "difficulty": 2,
           "category": "animals",
           "definitionEn": "an animal used to carry goods",
-          "exampleEn": "The donkey carried a load."
+          "exampleEn": "The donkey carried a load.",
+          "icon": "🫏"
         },
         "በሬ": {
           "meaningEn": "ox",
@@ -2763,7 +2860,8 @@
           "difficulty": 1,
           "category": "animals",
           "definitionEn": "a male ox used for farming",
-          "exampleEn": "The ox plows the land."
+          "exampleEn": "The ox plows the land.",
+          "icon": "🐂"
         }
       }
     },
@@ -2792,7 +2890,8 @@
           "difficulty": 2,
           "category": "animals",
           "definitionEn": "a legless crawling animal",
-          "exampleEn": "The snake hid in the grass."
+          "exampleEn": "The snake hid in the grass.",
+          "icon": "🐍"
         },
         "ጦጣ": {
           "meaningEn": "monkey",
@@ -2802,7 +2901,8 @@
           "difficulty": 2,
           "category": "animals",
           "definitionEn": "an animal that lives in trees",
-          "exampleEn": "The monkey climbed the tree."
+          "exampleEn": "The monkey climbed the tree.",
+          "icon": "🐒"
         }
       }
     },
@@ -2832,7 +2932,8 @@
           "difficulty": 2,
           "category": "weather",
           "definitionEn": "water vapor seen in the sky",
-          "exampleEn": "The cloud brought rain."
+          "exampleEn": "The cloud brought rain.",
+          "icon": "☁️"
         },
         "ጨረቃ": {
           "meaningEn": "moon",
@@ -2842,7 +2943,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "the body seen in the sky at night",
-          "exampleEn": "The moon is full."
+          "exampleEn": "The moon is full.",
+          "icon": "🌙"
         }
       }
     },
@@ -2872,7 +2974,8 @@
           "difficulty": 3,
           "category": "weather",
           "definitionEn": "light that flashes from the clouds",
-          "exampleEn": "Lightning flashed."
+          "exampleEn": "Lightning flashed.",
+          "icon": "⚡"
         },
         "ጉም": {
           "meaningEn": "fog; mist",
@@ -2882,7 +2985,8 @@
           "difficulty": 2,
           "category": "weather",
           "definitionEn": "cloud that settles near the ground",
-          "exampleEn": "Fog settled in the morning."
+          "exampleEn": "Fog settled in the morning.",
+          "icon": "🌫️"
         }
       }
     },
@@ -2911,7 +3015,8 @@
           "difficulty": 1,
           "category": "objects",
           "definitionEn": "money used for buying (the Ethiopian birr)",
-          "exampleEn": "I paid ten birr."
+          "exampleEn": "I paid ten birr.",
+          "icon": "💵"
         },
         "ስልክ": {
           "meaningEn": "phone",
@@ -2921,7 +3026,8 @@
           "difficulty": 2,
           "category": "objects",
           "definitionEn": "a device used for talking",
-          "exampleEn": "The phone rang."
+          "exampleEn": "The phone rang.",
+          "icon": "📱"
         }
       }
     },
@@ -2950,7 +3056,8 @@
           "difficulty": 1,
           "category": "objects",
           "definitionEn": "a round object used for playing",
-          "exampleEn": "The children play with a ball."
+          "exampleEn": "The children play with a ball.",
+          "icon": "⚽"
         },
         "ቁልፍ": {
           "meaningEn": "key",
@@ -2960,7 +3067,8 @@
           "difficulty": 2,
           "category": "objects",
           "definitionEn": "what is used to open a door",
-          "exampleEn": "The house key is lost."
+          "exampleEn": "The house key is lost.",
+          "icon": "🔑"
         }
       }
     },
@@ -3072,7 +3180,8 @@
           "difficulty": 3,
           "category": "colors",
           "definitionEn": "the color of leaves",
-          "exampleEn": "The green grass is plentiful."
+          "exampleEn": "The green grass is plentiful.",
+          "icon": "🟢"
         },
         "ቢጫ": {
           "meaningEn": "yellow",
@@ -3082,7 +3191,8 @@
           "difficulty": 1,
           "category": "colors",
           "definitionEn": "the color of a banana",
-          "exampleEn": "She wore a yellow dress."
+          "exampleEn": "She wore a yellow dress.",
+          "icon": "🟡"
         }
       }
     },
@@ -3112,7 +3222,8 @@
           "difficulty": 2,
           "category": "colors",
           "definitionEn": "the color of the sky",
-          "exampleEn": "I bought blue trousers."
+          "exampleEn": "I bought blue trousers.",
+          "icon": "🔵"
         },
         "ቡናማ": {
           "meaningEn": "brown",
@@ -3122,7 +3233,8 @@
           "difficulty": 2,
           "category": "colors",
           "definitionEn": "the color of coffee",
-          "exampleEn": "He wore brown shoes."
+          "exampleEn": "He wore brown shoes.",
+          "icon": "🟤"
         }
       }
     },
@@ -3232,7 +3344,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a sweet liquid that comes from bees",
-          "exampleEn": "Honey is very sweet."
+          "exampleEn": "Honey is very sweet.",
+          "icon": "🍯"
         },
         "ቅመም": {
           "meaningEn": "spice",
@@ -3273,7 +3386,8 @@
           "difficulty": 3,
           "category": "food",
           "definitionEn": "a vegetable used for stew",
-          "exampleEn": "I cried while cutting the onion."
+          "exampleEn": "I cried while cutting the onion.",
+          "icon": "🧅"
         },
         "ዘይት": {
           "meaningEn": "oil",
@@ -3311,7 +3425,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a parent's mother or father",
-          "exampleEn": "My grandmother tells me stories."
+          "exampleEn": "My grandmother tells me stories.",
+          "icon": "👴"
         },
         "አጎት": {
           "meaningEn": "uncle",
@@ -3321,7 +3436,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a mother's or father's brother",
-          "exampleEn": "My uncle came from far away."
+          "exampleEn": "My uncle came from far away.",
+          "icon": "👨"
         }
       }
     },
@@ -3350,7 +3466,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a mother's or father's sister",
-          "exampleEn": "My aunt cooked food."
+          "exampleEn": "My aunt cooked food.",
+          "icon": "👩"
         },
         "ሚስት": {
           "meaningEn": "wife",
@@ -3360,7 +3477,8 @@
           "difficulty": 2,
           "category": "family",
           "definitionEn": "a married woman; a husband's spouse",
-          "exampleEn": "His wife is a teacher."
+          "exampleEn": "His wife is a teacher.",
+          "icon": "👰"
         }
       }
     },
@@ -3391,7 +3509,8 @@
           "difficulty": 3,
           "category": "health",
           "definitionEn": "what is taken to treat illness",
-          "exampleEn": "The doctor prescribed medicine."
+          "exampleEn": "The doctor prescribed medicine.",
+          "icon": "💊"
         },
         "ህመም": {
           "meaningEn": "pain; illness",
@@ -3439,7 +3558,8 @@
           "difficulty": 2,
           "category": "body",
           "definitionEn": "the red liquid that circulates in the body",
-          "exampleEn": "The wound shed blood."
+          "exampleEn": "The wound shed blood.",
+          "icon": "🩸"
         }
       }
     },
@@ -3470,7 +3590,8 @@
           "difficulty": 2,
           "category": "school",
           "definitionEn": "a tool used for writing",
-          "exampleEn": "I wrote with a pencil."
+          "exampleEn": "I wrote with a pencil.",
+          "icon": "✏️"
         },
         "ደብተር": {
           "meaningEn": "notebook",
@@ -3480,7 +3601,8 @@
           "difficulty": 2,
           "category": "school",
           "definitionEn": "a collection of paper for writing",
-          "exampleEn": "My notebook is lost."
+          "exampleEn": "My notebook is lost.",
+          "icon": "📓"
         }
       }
     },
@@ -3511,7 +3633,8 @@
           "difficulty": 2,
           "category": "school",
           "definitionEn": "material for writing and printing",
-          "exampleEn": "He drew on paper."
+          "exampleEn": "He drew on paper.",
+          "icon": "📄"
         },
         "ጥያቄ": {
           "meaningEn": "question",
@@ -3521,7 +3644,8 @@
           "difficulty": 2,
           "category": "school",
           "definitionEn": "a statement that seeks an answer",
-          "exampleEn": "I have a question."
+          "exampleEn": "I have a question.",
+          "icon": "❓"
         }
       }
     },
@@ -3760,7 +3884,8 @@
           "difficulty": 2,
           "category": "feelings",
           "definitionEn": "the state of sleeping",
-          "exampleEn": "I slept well."
+          "exampleEn": "I slept well.",
+          "icon": "😴"
         }
       }
     },
@@ -3790,7 +3915,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "a food made from milk",
-          "exampleEn": "I ate cheese with injera."
+          "exampleEn": "I ate cheese with injera.",
+          "icon": "🧀"
         },
         "እርጎ": {
           "meaningEn": "yogurt",
@@ -3800,7 +3926,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "curdled milk",
-          "exampleEn": "Yogurt is delicious."
+          "exampleEn": "Yogurt is delicious.",
+          "icon": "🥛"
         }
       }
     },
@@ -3829,7 +3956,8 @@
           "difficulty": 1,
           "category": "food",
           "definitionEn": "a dish made from meat or vegetables",
-          "exampleEn": "The stew is very delicious."
+          "exampleEn": "The stew is very delicious.",
+          "icon": "🍲"
         },
         "ሾርባ": {
           "meaningEn": "soup",
@@ -3839,7 +3967,8 @@
           "difficulty": 2,
           "category": "food",
           "definitionEn": "a liquid food",
-          "exampleEn": "He drank hot soup."
+          "exampleEn": "He drank hot soup.",
+          "icon": "🍲"
         }
       }
     },
@@ -3868,7 +3997,8 @@
           "difficulty": 1,
           "category": "nature",
           "definitionEn": "a green plant that grows on the ground",
-          "exampleEn": "The cattle eat grass."
+          "exampleEn": "The cattle eat grass.",
+          "icon": "🌿"
         },
         "ቅጠል": {
           "meaningEn": "leaf",
@@ -3878,7 +4008,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "the green part of a plant",
-          "exampleEn": "The leaf fell."
+          "exampleEn": "The leaf fell.",
+          "icon": "🍃"
         }
       }
     },
@@ -3905,7 +4036,8 @@
           "difficulty": 2,
           "category": "nature",
           "definitionEn": "what a new plant grows from",
-          "exampleEn": "The farmer sowed seed."
+          "exampleEn": "The farmer sowed seed.",
+          "icon": "🌱"
         },
         "ስር": {
           "meaningEn": "root",
@@ -3956,7 +4088,8 @@
           "difficulty": 3,
           "category": "household",
           "definitionEn": "the upright part that encloses a house",
-          "exampleEn": "He hung a picture on the wall."
+          "exampleEn": "He hung a picture on the wall.",
+          "icon": "🧱"
         }
       }
     },
@@ -4537,7 +4670,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a large public vehicle that carries many people",
-          "exampleEn": "The bus arrived on time."
+          "exampleEn": "The bus arrived on time.",
+          "icon": "🚌"
         },
         "ታክሲ": {
           "meaningEn": "taxi",
@@ -4547,7 +4681,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a car that carries people for a fee",
-          "exampleEn": "I took a taxi home."
+          "exampleEn": "I took a taxi home.",
+          "icon": "🚕"
         }
       }
     },
@@ -4582,7 +4717,8 @@
           "difficulty": 3,
           "category": "transport",
           "definitionEn": "a vehicle that flies in the air",
-          "exampleEn": "The airplane flew into the sky."
+          "exampleEn": "The airplane flew into the sky.",
+          "icon": "✈️"
         },
         "ብስክሌት": {
           "meaningEn": "bicycle",
@@ -4592,7 +4728,8 @@
           "difficulty": 3,
           "category": "transport",
           "definitionEn": "a two-wheeled vehicle driven by the feet",
-          "exampleEn": "The boy rides a bicycle."
+          "exampleEn": "The boy rides a bicycle.",
+          "icon": "🚲"
         }
       }
     },
@@ -4622,7 +4759,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a craft that floats on water",
-          "exampleEn": "The boat floats on the river."
+          "exampleEn": "The boat floats on the river.",
+          "icon": "⛵"
         },
         "ጣቢያ": {
           "meaningEn": "station",
@@ -4632,7 +4770,8 @@
           "difficulty": 2,
           "category": "transport",
           "definitionEn": "a place where trains or buses stop",
-          "exampleEn": "I wait for the train at the station."
+          "exampleEn": "I wait for the train at the station.",
+          "icon": "🚉"
         }
       }
     },
@@ -4662,7 +4801,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a place for staying overnight and eating",
-          "exampleEn": "We stayed in a hotel."
+          "exampleEn": "We stayed in a hotel.",
+          "icon": "🏨"
         },
         "ባንክ": {
           "meaningEn": "bank",
@@ -4672,7 +4812,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "an institution where money is kept and borrowed",
-          "exampleEn": "I went to the bank to deposit money."
+          "exampleEn": "I went to the bank to deposit money.",
+          "icon": "🏦"
         }
       }
     },
@@ -4704,7 +4845,8 @@
           "difficulty": 3,
           "category": "places",
           "definitionEn": "a place where the sick are treated",
-          "exampleEn": "They took the patient to the hospital."
+          "exampleEn": "They took the patient to the hospital.",
+          "icon": "🏥"
         },
         "መስጊድ": {
           "meaningEn": "mosque",
@@ -4714,7 +4856,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a place where Muslims pray",
-          "exampleEn": "The mosque is spacious."
+          "exampleEn": "The mosque is spacious.",
+          "icon": "🕌"
         }
       }
     },
@@ -4744,7 +4887,8 @@
           "difficulty": 2,
           "category": "places",
           "definitionEn": "a workroom where people work",
-          "exampleEn": "My office is on the second floor."
+          "exampleEn": "My office is on the second floor.",
+          "icon": "🏢"
         },
         "ድልድይ": {
           "meaningEn": "bridge",
@@ -4754,7 +4898,8 @@
           "difficulty": 3,
           "category": "places",
           "definitionEn": "a structure built to cross a river or road",
-          "exampleEn": "The car crossed the bridge."
+          "exampleEn": "The car crossed the bridge.",
+          "icon": "🌉"
         }
       }
     }
