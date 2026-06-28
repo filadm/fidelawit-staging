@@ -75206,8 +75206,9 @@ A.agg.prototype={
 $1(a){return $.cM().dA("assets/"+("assets/audio/fidel/"+a.c+".wav"))},
 $S:76}
 A.agd.prototype={
-$1(a){var s=null,r=this.a,q=B.b.iS(r.c,a)
-return new A.aJ(B.e0,A.b8(A.b([A.X(a.a,s,s,B.Zb,s),B.W,A.X(r.d.$1(q),s,s,B.a_z,s),B.hC,A.X("sounds like \u201c"+B.nP[q]+"\u201d",s,s,B.Zy,s),B.bA,A.qr(s,s,B.KP,s,s,new A.agc(a),s,s,s,s)],t.p),B.k,B.bl,B.p),s)},
+$1(a){var s=null,r=this.a,q=B.b.iS(r.c,a),p=A.X(a.a,s,s,B.Zb,s)
+r=A.X(r.d.$1(q),s,s,B.a_z,s)
+return new A.aJ(B.e0,A.b8(A.b([p,B.W,r,B.hC,A.X(q===5?"the 6th order \u2014 no vowel":"sounds like \u201c"+B.nP[q]+"\u201d",s,s,B.Zy,s),B.bA,A.qr(s,s,B.KP,s,s,new A.agc(a),s,s,s,s)],t.p),B.k,B.bl,B.p),s)},
 $S:495}
 A.agc.prototype={
 $0(){return $.cM().dA("assets/"+("assets/audio/fidel/"+this.a.c+".wav"))},
@@ -81527,7 +81528,6 @@ B.NA=s([B.aO,B.t],A.as("z<zy>"))
 B.an=new A.zD(0,"rtl")
 B.a_=new A.zD(1,"ltr")
 B.jN=s([B.an,B.a_],A.as("z<zD>"))
-B.nP=s(["uh","oo","ee","ah","ay","\u2013","oh"],t.s)
 B.Ae=new A.cQ(0,B.bq,B.iD,B.ub,18)
 B.NC=s([B.Ae],t.J)
 B.ci=new A.i7(0,"leading")
@@ -81539,6 +81539,7 @@ B.Bx=new A.mN(0,"auto")
 B.By=new A.mN(1,"full")
 B.Bz=new A.mN(2,"chromium")
 B.NL=s([B.Bx,B.By,B.Bz,B.cp],A.as("z<mN>"))
+B.nP=s(["uh","oo","ee","ah","ay","no vowel","oh"],t.s)
 B.jO=s([1,2,4,7,15,30],t.t)
 B.aX=new A.eF(1,"fuchsia")
 B.NO=s([B.ak,B.aX,B.ac,B.aL,B.aM,B.aN],A.as("z<eF>"))
