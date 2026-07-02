@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "comment": "P0.4 — the concentric ring spine (docs/PLATFORM_PLAN.md §2). Places reference curriculum sections by (chapter, section) NAME, never level ids. Flag-gated (Labs → Ring spine); the legacy place order lives in story_data.dart and is untouched when the flag is off. Every section of the kid-visible chapters must appear in exactly one place (tool/validate_levels.dart enforces coverage).",
+  "rings": [
+    {
+      "id": "me",
+      "title": "Me",
+      "amTitle": "እኔ",
+      "icon": "🧒",
+      "intro": "Every story in the whole wide world starts the same way — with someone like YOU.",
+      "checkpoint": true,
+      "places": [
+        {
+          "id": "mirror-pond",
+          "title": "The Mirror Pond",
+          "amTitle": "የመስታወት ኩሬ",
+          "icon": "🪞",
+          "kind": "water",
+          "intro": "The pond forgot your face! Find the words that say who you are.",
+          "units": [["The Living World", "My face"], ["The Living World", "My body"]]
+        },
+        {
+          "id": "colour-garden",
+          "title": "The Colour Garden",
+          "amTitle": "የቀለም ገነት",
+          "icon": "🎨",
+          "kind": "meadow",
+          "units": [["First Steps", "Colors & body"], ["The Living World", "More colors"]]
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "title": "My Family",
+      "amTitle": "ቤተሰቤ",
+      "icon": "👨‍👩‍👧",
+      "intro": "Everyone on Earth has a family — even the stars live in families!",
+      "checkpoint": true,
+      "places": [
+        {
+          "id": "village",
+          "title": "The Village",
+          "amTitle": "መንደሩ",
+          "icon": "🏡",
+          "kind": "village",
+          "intro": "Even no one can say ሰላም. The words are scattered — let's bring them back!",
+          "units": [["First Steps", "Hello"], ["First Steps", "Family"]]
+        },
+        {
+          "id": "family-house",
+          "title": "The Family House",
+          "amTitle": "የቤተሰብ ቤት",
+          "icon": "👨‍👩‍👧",
+          "kind": "village",
+          "units": [["The Living World", "My relatives"]]
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "title": "Our Home",
+      "amTitle": "ቤታችን",
+      "icon": "🏠",
+      "intro": "Every home in the world keeps its warmth its own way. Yours starts here.",
+      "checkpoint": true,
+      "places": [
+        {
+          "id": "home",
+          "title": "The Home",
+          "amTitle": "ቤቱ",
+          "icon": "🛋️",
+          "kind": "indoor",
+          "units": [["Everyday Words", "Home"]]
+        },
+        {
+          "id": "kitchen",
+          "title": "The Kitchen",
+          "amTitle": "ማድ ቤት",
+          "icon": "🍲",
+          "kind": "indoor",
+          "units": [
+            ["The Living World", "Food on the table"],
+            ["The Living World", "In the kitchen"],
+            ["The Living World", "On the plate"]
+          ]
+        },
+        {
+          "id": "coffee-corner",
+          "title": "The Coffee Corner",
+          "amTitle": "የቡና ጥግ",
+          "icon": "☕",
+          "kind": "indoor",
+          "units": [["First Steps", "Food & buna"]]
+        },
+        {
+          "id": "counting-house",
+          "title": "The Counting House",
+          "amTitle": "የቁጥር ቤት",
+          "icon": "🔢",
+          "kind": "indoor",
+          "units": [["First Steps", "Numbers"]]
+        },
+        {
+          "id": "clock-nook",
+          "title": "The Clock Nook",
+          "amTitle": "የሰዓት ጥግ",
+          "icon": "⏰",
+          "kind": "indoor",
+          "units": [["Everyday Words", "Time"]]
+        }
+      ]
+    },
+    {
+      "id": "neighbors",
+      "title": "Neighbors",
+      "amTitle": "ጎረቤቶች",
+      "icon": "🚪",
+      "intro": "Knock knock! Beyond your door live a hundred hellos.",
+      "checkpoint": true,
+      "places": [
+        {
+          "id": "friendly-gate",
+          "title": "The Friendly Gate",
+          "amTitle": "የወዳጅነት በር",
+          "icon": "🚪",
+          "kind": "village",
+          "units": [["Everyday Words", "Yes, no & please"]]
+        },
+        {
+          "id": "asking-path",
+          "title": "The Asking Path",
+          "amTitle": "የጥያቄ መንገድ",
+          "icon": "❓",
+          "kind": "meadow",
+          "units": [["Everyday Words", "Asking"], ["Everyday Words", "Where things are"]]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Out in the World",
+      "amTitle": "ውጭ ዓለም",
+      "icon": "🌍",
+      "intro": "Step outside — the wind, the animals and the river have words too.",
+      "checkpoint": true,
+      "places": [
+        {
+          "id": "pasture",
+          "title": "The Pasture",
+          "amTitle": "መስኩ",
+          "icon": "🐑",
+          "kind": "meadow",
+          "intro": "The animals lost their names. Find them so they can be called again!",
+          "units": [["First Steps", "Animals"], ["The Living World", "More animals"]]
+        },
+        {
+          "id": "green-grove",
+          "title": "The Green Grove",
+          "amTitle": "የዕፅዋት ጥግ",
+          "icon": "🌿",
+          "kind": "meadow",
+          "units": [["The Living World", "Plants"]]
+        },
+        {
+          "id": "riverside",
+          "title": "The Riverside",
+          "amTitle": "የወንዙ ዳርቻ",
+          "icon": "🏞️",
+          "kind": "water",
+          "units": [
+            ["Everyday Words", "Sky & nature"],
+            ["The Living World", "Water & land"],
+            ["The Living World", "Weather & sky"]
+          ]
+        }
+      ]
+    }
+  ]
+}
