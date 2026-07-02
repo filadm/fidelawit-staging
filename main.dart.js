@@ -96713,7 +96713,7 @@ return A.dR(A.f8(A.b([A.kJ(s,s,B.mn,s,s,new A.aok(a),s,s,"Settings",s)],t.p),!1,
 alO(a,b,c,d){var s,r,q=null
 if(b.c){s=b.a
 s.toString
-return A.iw(q,new A.a0W(s,q),q,q,12,q,c.b-84+18,d-24)}if(b.d){s=b.a
+return A.iw(q,new A.a0W(s,q),q,q,12,q,c.b-78,d-24)}if(b.d){s=b.a
 s.toString
 return A.iw(q,new A.W5($.bu().d.n(0,s.a),new A.aoe(a,s),q),q,q,c.a-38,q,c.b-34,q)}s=b.b
 s.toString
@@ -96754,7 +96754,7 @@ $2(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=b.b,h=t.n,g=A.b([],h),f=A.b([],h)
 for(h=this.b,s=h.length,r=0.5*i,q=60,p=0,o=0;o<h.length;h.length===s||(0,A.o)(h),++o){n=h[o]
 g.push(q)
 if(n.c){f.push(r)
-q+=84}else{f.push(B.Zl[B.f.bb(p,6)]*i);++p
+q+=140}else{f.push(B.Zl[B.f.bb(p,6)]*i);++p
 q+=104}}m=B.f.bj(q+40,b.d,1/0)
 l=new A.aoj(f,m,g)
 s=A.b([],t.yv)
